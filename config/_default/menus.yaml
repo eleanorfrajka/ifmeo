@@ -16,6 +16,9 @@ main:
   - name: Group
     url: people
     weight: 40
+  - name: Manual
+    url: manual
+    weight: 50
   - name: News
     url: post
     weight: 60
