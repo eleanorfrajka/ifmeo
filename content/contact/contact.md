@@ -15,23 +15,23 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: francisca.terrassa@uni-hamburg.de
+  phone: +49 40 42838-5986
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: Bundesstraße 53
+    city: Hamburg
     region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    postcode: '20146'
+    country: Germany
+    country_code: DE
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '53.5680'
+    longitude: '9.9754'
+  directions: Enter the building and take the stairs to Office 243 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  appointment_url: 'https://calendly.com/eleanorfrajka'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
