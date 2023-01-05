@@ -1,37 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Eleanor Frajka-Williams
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Ocean Dynamics in a Changing Climate
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Universität Hamburg
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a physical oceanographer who uses ocean observations to investigate ocean dynamics and circulation in a changing climate. I have a particular interest in problems spanning scales (from micro- to large-scale) or spheres (biogeosphere, cryosphere, atmosphere), and in methods that leverage traditional observations with new platforms and satellite data.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ocean dynamics in a changing climate
+  - Observational methods and technology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Oceanography
+      institution: University of Washington
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Applied Mathematics
+      institution: University of Washington
+      year: 2009
+    - course: MSc in Oceanography
+      institution: University of Washington
+      year: 2005
+    - course: AB in Applied Mathematics
+      institution: Harvard University
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
