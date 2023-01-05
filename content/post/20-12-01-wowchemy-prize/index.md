@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Initiation of the Experimental Oceanography group
+date: 2021-07-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+First post and establishment of the Experimental Oceanography/Experimentelle Ozeanographie group at the Institut für Meereskunde.
 
 <!--more-->
 
