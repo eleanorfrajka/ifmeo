@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - 'Principal Investigator'
 ---
 
 Eleanor Frajka-Williams is a professor of ocean dynamics in a changing climate in the Institut für Meereskunde at Universität Hamburg.
