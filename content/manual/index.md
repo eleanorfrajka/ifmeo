@@ -1,12 +1,17 @@
 ---
-title: Research
-summary: Here we describe how to add a page to your site.
+title: Manual
+summary: Group documentation.
 date: "2022-01-05"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
-profile: false  # Show author profile?
+profile: true  # Show author profile?
 comments: false  # Show comments?
+view: compact
+authors: ["FrajkaWilliams-Eleanor"]
+tags: ["newstart"]
+lastmod: 5-Jan-2023
+private: true
 
 weight: 1
 

@@ -2,12 +2,12 @@
 title: 'An example conference paper'
 authors:
   - "FrajkaWilliams-Eleanor"
-  - Robert Ford
-date: '2013-07-01T00:00:00Z'
+  - Other Person
+date: '2017-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -53,7 +53,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - internal-project
+  - terific
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
