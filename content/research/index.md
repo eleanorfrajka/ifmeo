@@ -30,7 +30,7 @@ The **IfM Experimental Oceanography group** has been a center of excellence for 
 
 <hr>
 
-## Methods
+## Observational Methods
 
 
 ### Active projects
