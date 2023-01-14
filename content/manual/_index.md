@@ -2,7 +2,7 @@
 title: Documentation
 
 # Listing view
-view: compact
+view: list
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

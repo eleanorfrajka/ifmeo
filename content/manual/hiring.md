@@ -1,19 +1,19 @@
 ---
-title: Hiring
+title: Hiring procedures at UHH
 summary: Some pointers for navigating the UHH hiring procedures (where many instructions are in German).
-date: 14-01-2023
+date: 2023-01-14
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
-profile: true  # Show author profile?
+profile: false  # Show author profile?
 comments: false  # Show comments?
 view: compact
 authors: ["FrajkaWilliams-Eleanor"]
 tags: ["newstart"]
-lastmod: 2023-01-14T06:59
+lastmod: 2023-01-13
 private: true
 
-weight: 1
+weight: 10
 
 # Optional header image (relative to `assets/media/` folder).
 header:
@@ -30,193 +30,145 @@ header:
 
 ## Hiring process
 
-The `About' information is in the KUS portal for 
+An overview can be found on the KUS portal (where the English language version of the site is incomplete, and web-translators often fail on the text of the buttons!)
 - [Scientists or Wissenschaftliches Personal](https://www.kus.uni-hamburg.de/themen/personalservice/personaleinstellung-weiterbeschaeftigung/wip.html)
 - [Technical and administrative](https://www.kus.uni-hamburg.de/themen/personalservice/personaleinstellung-weiterbeschaeftigung/tbvp.html)
 
-The recruitment forms (all in German) are on the [Sharepoint](https://www.kus.uni-hamburg.de/themen/personalservice/personaleinstellung-weiterbeschaeftigung/stellenbesetzungsverfahren.html) where
-- 3rd menu, left side [Stellenbesetzungsanträge](https://sharepoint.uni-hamburg.de/anwendungen/personal/SitePages/Stellenbesetzungsanträge.aspx) has a link for
-- [New job applications](https://sharepoint.uni-hamburg.de/anwendungen/personal/_layouts/15/NintexForms/Modern/NewForm.aspx?List=f5c03b65%2D6c3a%2D4ba2%2Da693%2D1e7ff921f9b5&Source=https%3A%2F%2Fsharepoint%2Euni%2Dhamburg%2Ede%2Fanwendungen%2Fpersonal%2FLists%2FStellenbesetzungsantrge%2FAllItems%2Easpx&RootFolder=&Web=a7dfed2b%2D0e15%2D4862%2D8858%2Ddefa261cc384)
-	- Normally, Ebene1 is MIN faculty
-	- Ebene 2 is Fachbereich Erdsystemwissenschaften
-	- Ebene 3 is Institut fur Meereskunde
-	- Ebene 4 is Experimentelle Ozeanographie
-	- Ebene 5 is blank, Ebene 6 is either blank or CLICCS (not sure if I should always use CLICCS or only sometimes)
-
-	Then the responsible person for the resource (Ressourcenverantwortliche Person) is me (or the budget holder for the PSP element that is funding the position)
-
-	Not sure who the Ressourcesteuerung is--says it could be the Ansprechpartner/in in the Fachbereich
-
-	Antrag (application) 
-	- Antragsart is either Einstellung (setting), Weiterbeschäftigung (Further employment), Aufstockung (Increase), or Umsetzung (Implementation)
-	- Finanzierungsquelle is either Etatmittel (state-funded), Drittmittel (project-funded) or Mischfinanzierung (mixed funding)
-	- Beschäftigten- und Statusgruppe, normally either Wissenshaftliches (scientist) - Tarifbeschäftige or Technisches (technical) - Tarifbeschäftige and not Beamte (not civil servant)
-	- Personalkategorie is normally either Doktorand (phD student) or Wiss. MA drittmittelfinanziert (scientist, project-funded) for scientist or Technisches Personal (technician)
-	- Ausschreibung (tender) is normally yes (otherwise its waiver of tender for short position)
-- [Tasks for job applications]() currently open tasks (processing workflow)
-- [Overview of job applications]()
-
-Physically, we are located in Bundesstr. 53 [Directions](https://www.ifm.uni-hamburg.de/en/institute/contact-map.html) on the 2nd floor (as well as some offices/labs on the 3rd and 4th floor of the Geomatikum). The building (Bundesstr. 53) is normally locked on the weekend.  Access can be granted by security guards on the ground floor of the Geomatikum (tall brown building).
-
-On the university-side of Bundesstr. 53, we have:
-- 1st floor: Data Assimilation and Remote Sensing group (Detlef Stammer)
-- 2nd floor: Experimental Oceanography and Sea Ice groups (Eleanor Frajka-Williams, Dirk Notz)
-- 3rd floor: Climate modelling group (Johanna Baehr)
-- 4th floor: Theoretical Oceanography group (Carsten Eden)
-- Geomatikum: Additional offices/labs for Experimental Oceanography on 3rd floor (Martin Gade) and 4th floor (Andreas Welsch)
-
-On the second floor, we have
-- A seminar/meeting room (253): Equipped with teleconference system, projector, and conference table.  Xisca has a key.  Availability and booking can be checked by contacting Xisca (or Maite - 1st floor, Martina - 4th floor).  Larger seminars/meetings can be held in 022/23 on the ground floor (capacity 60-70 persons) but are often booked during term-time for teaching.
-- Shared kitchen, equipped with coffee machine, kettle, fridge, dishwasher. 
-    - The coffee machine free for all to use.  Thomas Wasilewski can advise on operation/cleaning.  Generally, turn on and press button on the right next to a single cup. If usual coffee drinkers occasionally bring a bag of beans to re-supply, then we can keep it as free to use.  
-    - Dishwasher. Please empty the dishwasher when you see it needs it.  Cleaning staff do not do this for us.
-- Printer room (251): Printers z0251-c1 and z0251-c3, fax machine and University printer/copier (for use with CopyCard).
+The basic steps are:
+1. Stellenfreigabe - Job release - authorisation to recruit (create the job and advertise)
+2. Stellen- und Funktionsbeschreibung, Stellenbewertung (Job and function description, job evaluation).  About the job description.
+3. Personnel selection procedure.
+	- [How to use B-ite](https://www.kus.uni-hamburg.de/themen/personalservice/personaleinstellung-weiterbeschaeftigung/personalauswahlverfahren/bewerbungsmanagement.html) - most of this is in German
+4. Recruitment, continued appointment, etc.
+5. Overview process flow staffing
 
 
 
+### Recruitment workflow (Sharepoint)
 
-We also share the building with the [Max-Planck Institut für Meteorologie](https://mpimet.mpg.de/) which currently has an ocean group (Jochem Marotzke) and an atmospheres group (Bjorn Stevens).
+The recruitment forms (all in German) are on the [Sharepoint](https://www.kus.uni-hamburg.de/themen/personalservice/personaleinstellung-weiterbeschaeftigung/stellenbesetzungsverfahren.html) where normally, I click the 3rd menu option on the left sidebar: [Stellenbesetzungsanträge](https://sharepoint.uni-hamburg.de/anwendungen/personal/SitePages/Stellenbesetzungsanträge.aspx) 
 
+This page then has 4 areas arranged in a matrix
+- Top left:[New job applications](https://sharepoint.uni-hamburg.de/anwendungen/personal/_layouts/15/NintexForms/Modern/NewForm.aspx?List=f5c03b65%2D6c3a%2D4ba2%2Da693%2D1e7ff921f9b5&Source=https%3A%2F%2Fsharepoint%2Euni%2Dhamburg%2Ede%2Fanwendungen%2Fpersonal%2FLists%2FStellenbesetzungsantrge%2FAllItems%2Easpx&RootFolder=&Web=a7dfed2b%2D0e15%2D4862%2D8858%2Ddefa261cc384)
+- Bottom left: Tasks for job applications or "Aufgabe zu Stellenbesetzunganträge"
+- Top right: Overview of job applications or "Übersicht Stellenbesetzungsanträge"
+- Bottom right: Entwürfe
 
-Organisationally, the Experimental Oceanography group is one working group in the [Institut für Meereskunde](https://www.ifm.uni-hamburg.de/en.html) which is part of the [Center for Earth System Research and Sustainability (CEN)](https://www.cen.uni-hamburg.de).  We are part of the [MIN faculty - Mathematics, Informatics and Natural Sciences](https://www.min.uni-hamburg.de/en/ueber-die-fakultaet.html) at the [Universität Hamburg](https://www.uni-hamburg.de).
+A new recruitment requires
+- "Antragsformular" - Application form (on the Sharepoint)
+- "Bewerbungsunterlagen" - Application documents (from the applicant?)
+- "Ausschreibungstext" - Tender text (job advertisement), there are forms for this
+- "Personalauswahlbogen" - Personnel selection form (?)
+- "Stellenbeschreibung" - Job description (means the specification with tasks and percentages of time)
+- "Funktionsbeschreibung" - Function description (not sure how this is different)
+- "Begründung Qualifizierungsbefristung" - Justification for fixed-term
 
-We are affiliated with the Cluster of Excellence [CLICCS - Climate, Climatic Change, and Society](https://www.cliccs.uni-hamburg.de) which also includes folks from [Meteorological Institute](https://www.mi.uni-hamburg.de/en/institut.html), the [Institute of Soil Science](https://www.geo.uni-hamburg.de/en/bodenkunde/ueber-das-institut.html), the [Department of Mathematics](https://www.math.uni-hamburg.de/en.html), the [Geology-Paleontology Institut](https://www.geo.uni-hamburg.de/en/geologie/ueber-das-institut.html), the [Department of Social Sciences](https://www.wiso.uni-hamburg.de/en/fachbereich-sowi.html) and others.
+Forms can be found [here](https://www.kus.uni-hamburg.de/themen/personalservice/personaleinstellung-weiterbeschaeftigung/wip/einstellung-weiterbeschaeftigung.html)
 
-## Planning
+### Filling out a job advert
 
-Latest [UHH info on Corona/Covid19](https://www.uni-hamburg.de/en/newsroom/intern/2020/0323-auswirkungen-mitarbeitende.html).  At the moment, restrictions are light (with the exception of the requirement to wear medical masks on public transport).
+**Angaben zur Beschäftigungsstelle**
 
-### Meetings within the group - *under construction*
+- Normally, Ebene1 is MIN faculty
+- Ebene 2 is Fachbereich Erdsystemwissenschaften
+- Ebene 3 is Institut fur Meereskunde
+- Ebene 4 is Experimentelle Ozeanographie
+- Ebene 5 is blank, Ebene 6 is either blank or CLICCS (not sure if I should always use CLICCS or only sometimes)
 
-- Weekly group meetings (tbc)
-- Fortnightly 1-1 meetings with Eleanor
+**Ressourcenverantwortliche Person** (responsible person)
 
-Weekly meetings will be likely change in time by semester, due to teaching/classes and other conflicts.
+This is normally me (or the budget holder for the PSP element that is funding the position)
 
-The university calendar can be found [here](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienverlauf/semestertermine.html).
+**Ressourcensteuerung/Ressourcenmanagement**
 
-### Seminars - *under construction*
+Not sure who the Ressourcesteuerung is--says it could be the Ansprechpartner/in in the Fachbereich
 
-Lots of seminars are on in the institut, as well as dissertation talks by MSc and PhD students.
+**Antrag** (application) 
 
-## Computing
-
-IT support:
-- CEN-IT is IT support for the Centre for Earth System Research & Sustainability (CEN): [https://www.cen.uni-hamburg.de/en/facilities/cen-it.html](https://www.cen.uni-hamburg.de/en/facilities/cen-it.html)
-- RRZ is the IT for the whole university: [https://www.rrz.uni-hamburg.de](https://www.rrz.uni-hamburg.de)
-
-Within the IfM/Experimental Oceanography group, Thomas Wasilewski is a point of contact for CEN-IT.
-
-
-### User IDs <a name='bkennung'></a>
-
-You will have a Benutzerkennung (University-wide) and a u-nummer (CEN-specific).  
-
-- The **B-kennung** (e.g. *bbbXXX*) is for university-wide access and single sign on (e.g. Zoom, email, eduroam, mailing lists, etc).  Your e-mail address is bbbXXXX at uni-hamburg.de, but a more user-friendly mail alias will be automatically created for you using your *firstname.lastname@uni-hamburg.de*.
-
-- The **u-nummer** is CEN-specific, and is used to access the HPC cluster, Mattermost, ownCloud, Confluence.
-
-
-### Internet access
+The `Antragsart` is either 
  
-- **Eduroam <a name='eduroam'></a>**. Instructions for configuring eduroam access (using your B-kennung) can be found here: [https://www.rrz.uni-hamburg.de/services/netz/wlan.html](https://www.rrz.uni-hamburg.de/services/netz/wlan.html) - a pop-up also appears when you connect to WiFi 'UHH'
+ - Einstellung (recruitment - new person), 
+ - Weiterbeschäftigung (Further employment), 
+ - Aufstockung (Increase), or 
+ - Umsetzung (Implementation)
 
-- **LAN (ethernet) access**. Your MAC address from computer or adapter needs to be registered in order to use ethernet in offices: request from helpdesk.cen@uni-hamburg.de).  Normally only added for University computers.
+Finanzierungsquelle is either 
+- Etatmittel (state-funded), 
+- Drittmittel (project-funded) or 
+- Mischfinanzierung (mixed funding)
+The choice here refers to the funding source, and also affects the type of contract the person will get (state-funded for scientists usually means there is teaching associated with the position).
 
-- **VPN (for access from off-campus)**. To access Hamburg's VPN use Cisco AnyConnect.  This is best set up while at UHH. [https://www.rrz.uni-hamburg.de/services/netz/vpn.html](https://www.rrz.uni-hamburg.de/services/netz/vpn.html)
+Beschäftigten- und Statusgruppe, normally either 
+- Wissenshaftliches (scientist) - Tarifbeschäftige or 
+- Technisches (technical) - Tarifbeschäftige 
+and not Beamte (not civil servant)
 
-### E-mail
+Personalkategorie is normally either 
+- Doktorand (phD student) or 
+- Wiss. MA drittmittelfinanziert (scientist, project-funded) for scientist or 
+- Technisches Personal (technician) for TVBP
 
-- **Web access to e-mail <a name='webmail'></a>**. You can access your university e-mail via a browser at [this link](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter.html) (login with B-kennung)
+Ausschreibung (tender) is normally yes (otherwise its waiver of tender for short position).  You then choose the length of the advertising period (from 2-6 weeks) or "Eingenen Wert angeben" (specify own value).  It's also possible to tick the option "The call for applications shall be directed only to employees of UHH." (The call for applications shall be directly only to employees of Uhh - internal hire).
 
-- **Desktop client configuration  <a name='emailclient'></a>**. To configure a desktop client (Apple mail, Thunderbird, etc) follow the instructions [here](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration.html)
+*Veröffentlichung* (publishing the advert)
 
-- **Mobile access to e-mail**. This is an optional step, and not recommended (for better work/life balance).  However, if you want access to your email on a mobile device, you can find instructions here.  You should probably immediately disable all notifications and alerts. [https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration/smartphone.html](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration/smartphone.html)
+This section appears when choosing to advertise, and for external publications its possible to pay for advertising costs.
 
-### Printing
+*Zugang zur Bewerbungsmanagementsoftware B-ite* 
 
-- **Adding CEN/IfM printers.**  Instructions are [here](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing.html) (2nd floor printers are: z0251-c1, z0251-c3)
-
-- **University printers.** University printers are accessed using a CopyCard.  This is not essential, but can be helpful when printing in another building, or if you have a large amount of copying to do.  University guidance is [here](https://www.rrz.uni-hamburg.de/services/computerarbeitsplaetze/daten/pdf-dateien/druckberechtigung-zurueckgeben.pdf) 
-
-### Accounts to create
-
-u-nummer items: License may need to be added for individual access to Confluence.  ownCloud and Mattermost should be automatic, but the user will need to be added to the IFMEO team in Mattermost.
-
-#### Mattermost
-
-Create account on Mattermost: https://mattermost.cen.uni-hamburg.de (username: *firstname.lastname*@uni-hamburg.de, password: pick a new one).  You will then need to join the ifmeo Mattermost team.
-
-#### ownCloud
-
-Login to ownCloud for filesharing and access to some shared calendars: [https://owncloud.cen.uni-hamburg.de](https://owncloud.cen.uni-hamburg.de) (username: *firstname.lastname*, password: u-nummer password)
-
-#### (optional) Confluence
-
-Login to Confluence: https://collaboration.cen.uni-hamburg.de/ (username: u-nummer, e.g. *uXXXXXX* and password: u-nummer password)
-
-#### ORCID
-If you don't have one already, create an ID at [https://orcid.org](https://orcid.org/register).
-
-### Mailing lists to join
-
-*Need guidance on how to sign up.*
-
-- ifmeo.ifm@lists.uni-hamburg.de - easy way to send e-mail to everyone in the group
-- cliccs.all.cen@lists.uni-hamburg.de - CLICCS/CEN e-mail list
-- cliccs.theme_a.cen@lists.uni-hamburg.de - CLICCS theme A e-mail list
-
-If you're involved in teaching, then also
-- bsc-lehr.ifm@lists.uni-hamburg.de - BSc teaching list
-- msc-lehr.ifm@lists.uni-hamburg.de - MSc teaching list
-
-If you're involved in the EPOC project, then also
-- epoc-all@lists.uni-hamburg.de (and any other appropriate lists)
-
-### Software to install on your computer
-
-You can find available software at the [RRZ software list](https://www.rrz.uni-hamburg.de/services/software/alphabetisch.html).
-
-- Zoom.  It can be installed using the [RRZ service portal](https://www.rrz.uni-hamburg.de/beratung-und-kontakt/rrz-serviceportal.html).  You can configure your account [here](https://uni-hamburg.zoom.us)
-
-### Other optional items
-
-#### File sharing services
-
-- University-wide: https://uhhshare.uni-hamburg.de/filr/login (login with B-kennung)
-- CEN ownCloud: https://owncloud.cen.uni-hamburg.de/ (login with firstname.lastname and password for u-nummer)
-
-#### Teaching platforms
-- OpenOlat: https://www.openolat.uni-hamburg.de/dmz/ (login with B-kennung)
-
-#### Phone management
-- You can configure your desk phone to e.g. forward to your mobile [https://4940428389540.phones.voicecoresystem.de/](https://4940428389540.phones.voicecoresystem.de/).  Note: this is Eleanor's number.  Change the number to your office phone number.  You will need a password (ask Xisca).
-
-#### Adding publications on UHH Pure "FIS" system
-
-You need to first [Register](https://www.edit.fis.uni-hamburg.de/) for the service where you login with your B-kennung, and choose the language (English or German) on first login.
-
-- Info here: https://www.fdm.uni-hamburg.de/en/service/fis.html
-- Manual here: https://www.fdm.uni-hamburg.de/fis/manual-cris-uhh.pdf 
-
-## Safety 
-
-First aid kit in kitchen (lower right cabinet).  Dagmar Hainbucher is the first aid representative.  When supplies are used, let her/Xisca know.
-
-Office furniture: For changes to furniture etc, check with Francisca.  There is furniture in the basement that can be swapped out.
+Who else should be given access to advertising documents on the B-ite site?  Provide @uni-hamburg addresses.
 
 
+**Angaben zur Beschäftigung** (employment data)
 
-## University info
+Beschäftigungsbeginn (start date)
 
-### Staff portal (KUS)
+Befristung is either
+- befristet (fixed term) or
+- unbefristet (permanent)
 
-Useful info about purchasing, travel, human resources: https://www.kus.uni-hamburg.de (login with B-kennung)
+*Befristungsgrund* (Reason for fixed-term)
 
+When befristet is chosen, the start and end dates must be provided, as well as a reason (often associated with the start and end of the work package or project where the person will be funded).
 
-### Various guidance
-- Recommended format for [Email signatures](https://www.kus.uni-hamburg.de/themen/oeffentlichkeitsarbeit/corporate-design/vorlagen/e-mail-signatur.html) at UHH
-- UHH recommended font for official things [TheSans](https://www.kus.uni-hamburg.de/themen/oeffentlichkeitsarbeit/corporate-design/hausschrift.html).  If you have Mac, you'll need to 'order' the font to be sent by e-mail.
-- Core working hours at UHH: M-Th from 9am-3pm and Friday from 9am-2pm.  Flexible working is supported.  More details for University-wide guidance are [here](https://www.kus.uni-hamburg.de/en/themen/personalservice/rund-um-beschaeftigung/dienst-arbeitszeit/dienst-arbeitszeit-allgemein.html) 
-- Vacation/leave: University practice is to request vacation leave from Eleanor using a form (available from Xisca) who will then collate requests. University guidance is [here](https://www.kus.uni-hamburg.de/en/themen/personalservice/rund-um-beschaeftigung/urlaub-beurlaubung.html).
+Entgelt- / Besoldungsgruppe is the salary scale
+- Scientists with a Masters degree or higher are normally E13
+
+Beschäftigungsumfang (Full time or part time)
+- Vollzeit (full time)
+- Teilzeit (part time)
+
+Vorgesetztenfunktion Stelleninhaber/in (will the new post be a supervisor of other people?). Tick yes or no.
+
+**Finanzierung Drittmittel** Details of project funding if the person will be funded on a project
+
+- PSP-element - this is the university code for the budget
+- Anteil in % - What percentage is funded by this budget (maybe)
+- Projekt - project name
+- Mittelgeber - Funding agency
+- Projektstart - Start date of project
+- Projektende - End date of project
+- Finanzierung ab dem - Financing from when (date) to when (date).
+
+**Finanzierung Etat/ Sonstige Mittel (außer Drittmittel)** State or other funding (except project funding)
+
+Same as above
+
+**Lehrtätigkeit** (teaching activity)
+
+Lehrverpflichtung (in LVS) - teaching load in LVS (not sure what LVS are)
+
+**Ausnahmeantrag** (exception request)
+
+More information here - https://www.kus.uni-hamburg.de/themen/personalservice/personaleinstellung-weiterbeschaeftigung/tbvp/stellenfreigabe.html - this is normally for unbefristet (permanent) contracts which need to be approved by university management.  This is separate from the waiver for tender.
+
+The tick box is if the exception is already approved: "Ein genehmigter Ausnahmeantrag liegt vor" (An approved exception request is available).
+
+**Anlagen** (attachments) 
+
+Please submit the following attachments for your application
+- "Stellenbeschreibung" - Job description as a Word or Excel file.  This is the set of tables with tasks and percentages.
+- "Ausschreibungstext" - Job advert
+- "ggf. Ausnameantrag" - If applicable, exception request
+
 

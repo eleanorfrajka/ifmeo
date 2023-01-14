@@ -1,13 +1,14 @@
 ---
 title: New starter
 summary: Group documentation.
-date: 2023-01-14
+date: 2023-01-06
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
-profile: true  # Show author profile?
+profile: false  # Show author profile?
 comments: false  # Show comments?
 view: compact
+lastmod: 2023-01-14
 authors: ["FrajkaWilliams-Eleanor"]
 tags: ["newstart"]
 private: true
