@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: IfM Experimental Oceanography # Website name
-baseURL: 'https://ifmeo.netlify.app/' # Website URL
+baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
