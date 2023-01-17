@@ -44,9 +44,7 @@ On the second floor, we have
 - Shared kitchen, equipped with coffee machine, kettle, fridge, dishwasher. 
     - The coffee machine free for all to use.  Thomas Wasilewski can advise on operation/cleaning.  Generally, turn on and press button on the right next to a single cup. If usual coffee drinkers occasionally bring a bag of beans to re-supply, then we can keep it as free to use.  
     - Dishwasher. Please empty the dishwasher when you see it needs it.  Cleaning staff do not do this for us.
-- Printer room (251): Printers z0251-c1 and z0251-c3, fax machine and University printer/copier (for use with CopyCard).
-
-
+- Printer room (251): Printers z0251-c1, z0251-c3, z0251-m2, fax machine and University printer/copier (for use with CopyCard).
 
 
 We also share the building with the [Max-Planck Institut für Meteorologie](https://mpimet.mpg.de/) which currently has an ocean group (Jochem Marotzke) and an atmospheres group (Bjorn Stevens).
@@ -60,18 +58,29 @@ We are affiliated with the Cluster of Excellence [CLICCS - Climate, Climatic Cha
 
 Latest [UHH info on Corona/Covid19](https://www.uni-hamburg.de/en/newsroom/intern/2020/0323-auswirkungen-mitarbeitende.html).  At the moment, restrictions are light (with the exception of the requirement to wear medical masks on public transport).
 
-### Meetings within the group - *under construction*
+### Meetings within the group 
 
-- Weekly group meetings (tbc)
-- Fortnightly 1-1 meetings with Eleanor
+- Weekly group meetings (Thursdays 1pm in 253)
+- ~Fortnightly 1-1 meetings with Eleanor (use [calendly](http://calendly.com/eleanorfrajka) to schedule, or let Eleanor/Xisca know if none of the times work for you.)
 
 Weekly meetings will be likely change in time by semester, due to teaching/classes and other conflicts.
 
 The university calendar can be found [here](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienverlauf/semestertermine.html).
 
-### Seminars - *under construction*
+### Seminars 
 
-Lots of seminars are on in the institut, as well as dissertation talks by MSc and PhD students.
+Lots of seminars are on in the Institut, as well as dissertation talks by MSc and PhD students.
+
+Seminars can be found on the [MPIMET seminar page](https://mpimet.mpg.de/en/communication/seminars):
+- Wednesdays at 13:30 are the Joint Seminar (often in-house)
+- Thursdays at 15:15 are the KlimaCampus Kolloquium (often external speakers).
+These are held in 022/023.
+
+The TRR181 seminar series is every other week in the semester with [details here](https://www.trr-energytransfers.de/events). Email announcements come via the members.cen email list.
+
+The CEN lecture series on `Sustainability and Climate Risks' is on Wednesdays from 16:15-17:45 (hybrid), with [details here](https://www.fnk.uni-hamburg.de/3-teaching/lectureseriesfnk.html).
+
+In the winter term, there is the GSEM seminar by students.  Time TBD, but in 2022/23 this was Wednesdays at 15:30, announced by Thomas Pohlmann.
 
 ## Computing
 
@@ -93,7 +102,7 @@ You will have a Benutzerkennung (University-wide) and a u-nummer (CEN-specific).
 
 ### Internet access
  
-- **Eduroam <a name='eduroam'></a>**. Instructions for configuring eduroam access (using your B-kennung) can be found here: [https://www.rrz.uni-hamburg.de/services/netz/wlan.html](https://www.rrz.uni-hamburg.de/services/netz/wlan.html) - a pop-up also appears when you connect to WiFi 'UHH'
+- **Eduroam<a name='eduroam'></a>**. Instructions for configuring eduroam access (using your B-kennung) can be found here: [https://www.rrz.uni-hamburg.de/services/netz/wlan.html](https://www.rrz.uni-hamburg.de/services/netz/wlan.html) - a pop-up also appears when you connect to WiFi 'UHH'
 
 - **LAN (ethernet) access**. Your MAC address from computer or adapter needs to be registered in order to use ethernet in offices: request from helpdesk.cen@uni-hamburg.de).  Normally only added for University computers.
 
@@ -119,7 +128,7 @@ u-nummer items: License may need to be added for individual access to Confluence
 
 #### Mattermost
 
-Create account on Mattermost: https://mattermost.cen.uni-hamburg.de (username: *firstname.lastname*@uni-hamburg.de, password: pick a new one).  You will then need to join the ifmeo Mattermost team.
+Create account on Mattermost: https://mattermost.cen.uni-hamburg.de (username: *firstname.lastname*@uni-hamburg.de, password: pick a new one).  You will then need to join the ifmeo Mattermost team.  (Ask Eleanor to add you.)
 
 #### ownCloud
 
@@ -188,9 +197,41 @@ Office furniture: For changes to furniture etc, check with Francisca.  There is 
 Useful info about purchasing, travel, human resources: https://www.kus.uni-hamburg.de (login with B-kennung)
 
 
-### Various guidance
+## Working at IfM - General information
+
+There is an intro document available from Xisca with the sections:
+- Absences (sickness, vacation, work travel)
+- Room booking requests
+- Letterboxes/pigeon holes in room 136
+- Office supplies
+- Safety in the building
+- Mensa/Lunchroom [menu](https://speiseplan.studierendenwerk-hamburg.de/index.php/en/cafeteria/show/id/540).  *Link doesn't work - this is what I could find [mensa geomatikum](https://www.stwhh.de/en/general/cafeteria-geomatikum)*
+- Job ticket for public transport in Hamburg (HVV Profiticket)
+- KUS portal (internal staff service)
+
+with attachments (*we should put these in a shared read-only owncloud folder*)
+- Vacation request form
+- Work-related travel request form
+- Institute's staff telephone list
+- Institute's letterhead
+- CEN letterhead
+- Guide for travel expense claim
+- Travel expense claim
+
+
 - Recommended format for [Email signatures](https://www.kus.uni-hamburg.de/themen/oeffentlichkeitsarbeit/corporate-design/vorlagen/e-mail-signatur.html) at UHH
 - UHH recommended font for official things [TheSans](https://www.kus.uni-hamburg.de/themen/oeffentlichkeitsarbeit/corporate-design/hausschrift.html).  If you have Mac, you'll need to 'order' the font to be sent by e-mail.
 - Core working hours at UHH: M-Th from 9am-3pm and Friday from 9am-2pm.  Flexible working is supported.  More details for University-wide guidance are [here](https://www.kus.uni-hamburg.de/en/themen/personalservice/rund-um-beschaeftigung/dienst-arbeitszeit/dienst-arbeitszeit-allgemein.html) 
 - Vacation/leave: University practice is to request vacation leave from Eleanor using a form (available from Xisca) who will then collate requests. University guidance is [here](https://www.kus.uni-hamburg.de/en/themen/personalservice/rund-um-beschaeftigung/urlaub-beurlaubung.html).
+- Timesheets for EU projects: timesheets need to be filled out.  Kaja has these for EPOC.  Xisca will have these for TERIFIC.
+- Travel costs: there is a form, please ask Xisca.
+
+Commonly used forms can be found on owncloud: 
+
+### Quick info
+
+- For EU projects, timesheets need to be filled out.  
+- For travel costs, there is a form.
+- For vacation
+
 
