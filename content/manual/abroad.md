@@ -59,13 +59,16 @@ There are a lot of other places in Hamburg to take language classes.
 - UNS in Hoheluft (intensive courses)
 - others?
 
-## Hamburg Welcome Center
+
+## Getting started
+
+### Hamburg Welcome Center
 
 There is a lot of helpful information found at the [Hamburg Welcome Center](https://www.hamburg.com/welcome/hwc/) including webinars about taxes and schools.  A lot (but not all) information is available in English.
 
 Lots of information here, from visas to converting your drivers license, to setting up health insurance and finding a school for your children.
 
-## School Information Center (Schulinformationszentrum)
+### School Information Center (Schulinformationszentrum)
 
 The [school information center](https://welcome.hamburg.de/schule/4591016/siz/) is where you need to sign up to get your kids registered in school.  Normally, they will require your child's Meldebestatigung (registration certificate) which you receive at the end of your registration appointment (Anmeldung).
 
@@ -77,16 +80,10 @@ e.g. German/English secondary schools (from year 5)
 
 Note that school holidays in Germany are at all different times (intentionally, to reduce impact on transport).  Calendars can be found by googling "School holidays in Hamburg", e.g. [here](https://www.holidays-info.com/germany/school-holidays/hamburg/).
 
-## University service for 'newly appointed'
+### University service for 'newly appointed'
 
 The university has a service for newly appointed professors and their [website](https://www.kus.uni-hamburg.de/en/themen/berufungen/neuberufene/service.html) has a lot of useful information.
 
-## Bike rentals (short and medium term)
-
-Bikes are a great way to get around in Hamburg.  There are a lot of dedicated bike paths both on the road and on the sidewalk (watch out for red bricks on the sidewalk--these are bike lanes, so if you're a pedestrian, try to stay clear).  Kids up to age 12 can ride on sidewalks and are also required to wear helmets.  There are some requirements for lights as well, so please check these.
-
-- There is a local bike rental service in Hamburg called [Stadtrad](https://stadtrad.hamburg.de/en/home/).  You can download their app, sign up (small fee) and then use the app to check out bikes and check them back in at designated spots in the city. 
-- For medium term (monthly) rental, [Swapfiets](https://swapfiets.de/hamburg) is an option.  For something like €23/mo you can rent a bike.  On first rental, you can either pick it up in Altona at their shop or ask for an appointment where they will bring it to you.
 
 ## Finding accommodation
 
@@ -115,6 +112,15 @@ Health insurance is mandatory.  Public insurance is generally good.  (How to set
 
 Personal liability insurance is strongly recommended and not too expensive (about €70/year).
 
+
+## Getting around
+
+### Bike rentals (short and medium term)
+
+Bikes are a great way to get around in Hamburg.  There are a lot of dedicated bike paths both on the road and on the sidewalk (watch out for red bricks on the sidewalk--these are bike lanes, so if you're a pedestrian, try to stay clear).  Kids up to age 12 can ride on sidewalks and are also required to wear helmets.  There are some requirements for lights as well, so please check these.
+
+- There is a local bike rental service in Hamburg called [Stadtrad](https://stadtrad.hamburg.de/en/home/).  You can download their app, sign up (small fee) and then use the app to check out bikes and check them back in at designated spots in the city. 
+- For medium term (monthly) rental, [Swapfiets](https://swapfiets.de/hamburg) is an option.  For something like €23/mo you can rent a bike.  On first rental, you can either pick it up in Altona at their shop or ask for an appointment where they will bring it to you.
 
 
 ### Transit in Hamburg
