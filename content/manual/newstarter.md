@@ -95,7 +95,7 @@ Within the IfM/Experimental Oceanography group, Thomas Wasilewski is a point of 
 
 You will have a Benutzerkennung (University-wide) and a u-nummer (CEN-specific).  
 
-- The **B-kennung** (e.g. *bbbXXX*) is for university-wide access and single sign on (e.g. Zoom, email, eduroam, mailing lists, etc).  Your e-mail address is bbbXXXX at uni-hamburg.de, but a more user-friendly mail alias will be automatically created for you using your *firstname.lastname@uni-hamburg.de*.
+- The **B-kennung** (e.g. *bbbXXX*) is for university-wide access and single sign on (e.g. Zoom, email, eduroam, mailing lists, etc).  Your e-mail address is bbbXXXX at uni-hamburg.de, but a more user-friendly mail alias will be automatically created for you using your *firstname.lastname@uni-hamburg.de*.  It is created automatically when you join, or can be requested [here](https://www.rrz.uni-hamburg.de/passwort-kennung/zugang.html), which will direct to the [application portal](https://ap.uni-hamburg.de).
 
 - The **u-nummer** is CEN-specific, and is used to access the HPC cluster, Mattermost, ownCloud, Confluence.
 
@@ -110,11 +110,15 @@ You will have a Benutzerkennung (University-wide) and a u-nummer (CEN-specific).
 
 ### E-mail
 
-- **Web access to e-mail <a name='webmail'></a>**. You can access your university e-mail via a browser at [this link](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter.html) (login with B-kennung)
+- **Web access to e-mail <a name='webmail'></a>**. You can access your university e-mail via a browser at [this link](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter.html) (login with B-kennung) or the [OWA](https://exchange.uni-hamburg.de/owa).
 
 - **Desktop client configuration  <a name='emailclient'></a>**. To configure a desktop client (Apple mail, Thunderbird, etc) follow the instructions [here](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration.html)
 
 - **Mobile access to e-mail**. This is an optional step, and not recommended (for better work/life balance).  However, if you want access to your email on a mobile device, you can find instructions here.  You should probably immediately disable all notifications and alerts. [https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration/smartphone.html](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration/smartphone.html)
+
+Other items:
+- If you get a **SPAM** notice when  you send mail, you can apply for a personal certificate to authenticate your mail [here](https://www.rrz.uni-hamburg.de/services/sicherheit/pki/hilfe-fuer-persoenliche-zertifikate.html).
+- If you need to set up access to a group/functional shared mailbox, see the instructions [here](https://rrz-serviceportal.uni-hamburg.de/wm/app-SelfServicePortal/landing-page/14587d3e-63aa-e611-d99b-bc5ff41a70c0).
 
 ### Printing
 
@@ -210,13 +214,12 @@ There is an intro document available from Xisca with the sections:
 - KUS portal (internal staff service)
 
 with attachments (*we should put these in a shared read-only owncloud folder*)
-- Vacation request form
-- Work-related travel request form
-- Institute's staff telephone list
-- Institute's letterhead
-- CEN letterhead
-- Guide for travel expense claim
-- Travel expense claim
+- Vacation request form (Urlaubsantrag.doc)
+- Work-related travel request form (antrag-dienstreise.pdf)
+- Institute's letterhead (Briefvorlage-MIN.docx)
+- CEN letterhead (Briefvorlage-CEN.docx)
+- Guide for travel expense claim (Ausfuellhilfe-reisenkostenabrechnung.pdf)
+- Travel expense claim (Dienstreisen-reisekostenabrechnung.pdf)
 
 
 - Recommended format for [Email signatures](https://www.kus.uni-hamburg.de/themen/oeffentlichkeitsarbeit/corporate-design/vorlagen/e-mail-signatur.html) at UHH
@@ -226,12 +229,7 @@ with attachments (*we should put these in a shared read-only owncloud folder*)
 - Timesheets for EU projects: timesheets need to be filled out.  Kaja has these for EPOC.  Xisca will have these for TERIFIC.
 - Travel costs: there is a form, please ask Xisca.
 
-Commonly used forms can be found on owncloud: 
+Commonly used forms can be found on owncloud: ask to be shared the folder.
 
-### Quick info
-
-- For EU projects, timesheets need to be filled out.  
-- For travel costs, there is a form.
-- For vacation
 
 
