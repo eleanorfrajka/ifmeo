@@ -82,6 +82,8 @@ The CEN lecture series on `Sustainability and Climate Risks' is on Wednesdays fr
 
 In the winter term, there is the GSEM seminar by students.  Time TBD, but in 2022/23 this was Wednesdays at 15:30, announced by Thomas Pohlmann.
 
+The CLICCS public lecture series is Thursdays in the evening (6-7:30pm), schedule [here](https://www.zfw.uni-hamburg.de/oeffentliche-vortraege/programm-wise.html).  Registration links can be found [here](https://www.zfw.uni-hamburg.de/oeffentliche-vortraege/programm-wise/04-anpassung-klimawandel.html).
+
 ## Computing
 
 IT support:
