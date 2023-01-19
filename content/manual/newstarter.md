@@ -122,6 +122,17 @@ Other items:
 - If you get a **SPAM** notice when  you send mail, you can apply for a personal certificate to authenticate your mail [here](https://www.rrz.uni-hamburg.de/services/sicherheit/pki/hilfe-fuer-persoenliche-zertifikate.html).
 - If you need to set up access to a group/functional shared mailbox, see the instructions [here](https://rrz-serviceportal.uni-hamburg.de/wm/app-SelfServicePortal/landing-page/14587d3e-63aa-e611-d99b-bc5ff41a70c0).
 
+### Calendars
+
+To add the university Exchange calendar (rather than the CEN Owncloud calendar) to a desktop program like Apple Calendar, you follow the same instructions as to add an e-mail account to an iOS device: https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/handouts/handout-fuer-apple-iphone.pdf
+
+- Select type: Exchange
+- Choose 'configure manually'
+- Enter email address: e.g. firstname.lastname@uni-hamburg.de (or bkennung@uni-hamburg.de)
+- Enter username: your B-kennung
+- Enter password: for your B-kennung
+- Choose server: exchange.uni-hamburg.de
+
 ### Printing
 
 - **Adding CEN/IfM printers.**  Instructions are [here](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing.html) (2nd floor printers are: z0251-c1, z0251-c3)
