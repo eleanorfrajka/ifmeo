@@ -1,6 +1,6 @@
 ---
-title: Meeting in Southampton for EPOC (Explaining and Predicting the Ocean Conveyor)
+title: Meeting in Southampton for EPOC 
 date: 2022-10-27
 ---
 
-Attending the Royal Society AMOC meeting
+We held a 2-day in-person meeting at the National Oceanography Centre in Southampton, for the EPOC consortium.
