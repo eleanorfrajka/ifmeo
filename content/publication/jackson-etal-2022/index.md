@@ -55,7 +55,7 @@ image:
     excluded. Shading indicates observational uncertainties for panels b, c and
     h, or twice the ensemble standard deviation for panels d, e, i and j. "
   focal_point: TOPLEFT
-  preview_only: false
+  preview_only: true
   filename: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43017-022-00263-2/MediaObjects/43017_2022_263_Fig2_HTML.png?as=webp
   alt_text: Time series of the AMOC from observations, reanalyses and models.
 summary: ""
