@@ -3,7 +3,7 @@
 
 title: "EPOC"
 summary: "Explaining and Predicting the Ocean Conveyor"
-authors: []
+authors: ["FrajkaWilliams-Eleanor"]
 tags: []
 categories: []
 date: 2023-01-05T21:23:10+01:00

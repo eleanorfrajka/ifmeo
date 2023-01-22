@@ -15,7 +15,7 @@ authors:
 - MF de Jong
 - L de Steur
 - S Dong
-- E Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - ' others'
 tags: []
 categories: []

@@ -4,18 +4,18 @@
 title: The evolution of the North Atlantic Meridional Overturning Circulation since
   1980
 subtitle: ''
-summary: ''
+summary: 'A synthesis of the known AMOC variabiltiiy since 1980, from models, reanalysis, observations and proxies - in the subtropical and subpolar North Atlantic.'
 authors:
 - L. C. Jackson
 - A. Biastoch
 - M. W. Buckley
 - D. G. Desbruyeres
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - B. Moat
 - J. Robson
-tags: []
+tags: [AMOC]
 categories: []
-date: '2022-01-01'
+date: '2022-03-01'
 lastmod: 2023-01-21T08:46:52+01:00
 featured: false
 draft: false
@@ -24,9 +24,9 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+  caption: 'Reconstructed Atlantic Meridional Overturning Circulation (AMOC) in the subpolar North Atlantic (left): AMOC from observations along the Portugal-Greenland A25-OVIDE  (panel a); AMOC from observations at 45°N (panel b); implied overturning in density space from observed surface fluxes (panel c); AMOC at 50° N from an ensemble mean of ocean reanalyses (black) and GloSea5 reanalysis (green) (panel d); and AMOC at 50°N from forced models participating in OMIP  (panel e). Reconstructed AMOC in the subtropical North Atlantic (right): AMOC at 26.5°N from the RAPID array (panel f); AMOC from observations at 26.5°N (panel g); AMOC from observations at 41° N (panel h); as in panel d but for the AMOC at 26.5°N (panel i); and as in panel e but for the AMOC at 26.5°N (panel j). AMOC is either the maximum of the overturning in density space (AMOCd; blue, right axis) or the maximum in depth space (AMOCz; black, left axis). Dashed lines indicate those timeseries wherein the wind-driven Ekman component is excluded. Shading indicates observational uncertainties for panels b, c and h, or twice the ensemble standard deviation for panels d, e, i and j. '
+  focal_point: 'TopLeft'
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

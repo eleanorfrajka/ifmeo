@@ -17,7 +17,7 @@ authors:
 - C. S. Meinen
 - S. A. Cunningham
 - T. O. Kanzow
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - J. Marotzke
 tags: []
 categories: []

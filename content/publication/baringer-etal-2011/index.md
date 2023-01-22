@@ -12,7 +12,7 @@ authors:
 - J. Willis
 - M. Lankhorst
 - W. R. Hobbs
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - T. Kanzow
 - D. Rayner
 - W. E. Johns

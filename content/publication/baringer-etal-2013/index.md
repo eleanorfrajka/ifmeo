@@ -20,7 +20,7 @@ authors:
 - D. A. Smeed
 - T. Kanzow
 - P. Heimbach
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - A. Macdonald
 - S. Dong
 - J. Marotzke
