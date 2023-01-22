@@ -143,4 +143,25 @@ hugo new content/publication/<my-publication>
 ```
 Then edit the contents of the *index.md* file.
 
+#### Adding a new dataset
+
+Again, as for publications, I do this from the command line as ([instruction here](https://wowchemy.com/docs/content/publications/))
+```
+hugo new content/publication/data-YYYY-ID
+```
+where all datasets start with ```data``` then the year the data end (for moorings from 2017-2018, use 2018) is the ```YYYY``` and the ID is some other identifying information: either the cruise information, like MSM21 for a Merian cruise 21, or project ```rapid``` or mooring name like ```DS2```.
+
+
+Then edit the contents of the *index.md* file.  Here, the publication type is 8 or ["8"], the category is ["data"] and if applicable, the project is ["dsow"] or ["rapid"] or ["terific"].  
+- Within the ```index.md``` file, the ```date: YYYY-MM-DDTHH:MM:SS``` must be entered in this format.  If only the year is known, then enter the year followed by ```2018-01-01T12:00:00```.  (The date can be adjusted to order datasets sequentially.)
+- The publication is the data centre holding the data, e.g. "British Oceanographic Data Centre" with ```publication_short: "BODC"``` or ```publication: PANGAEA``` or ```publication: SEANOE```.
+- The shortened abstract (```summary:```) should include the data type (e.g., moored CTD, hydrographic CTD) and date range of the data to nearest month and year.
+- Enter the ```url_dataset:``` if known.
+
+For datasets downloaded from PANGAEA, the bibtex citation information can also be downloaded to the publication folder, and then renamed to ```cite.bib```.
+
+*Later updates:* Add a map with the data location.  This can be a static map, screenshot from PANGAEA or similar.
+
+
+
 
