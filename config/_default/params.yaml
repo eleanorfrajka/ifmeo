@@ -11,7 +11,7 @@ appearance:
   font: native
   font_size: M
 
-# SEO
+# SEO - https://wowchemy.com/docs/hugo-tutorials/analytics/
 
 marketing:
   seo:
