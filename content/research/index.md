@@ -39,4 +39,4 @@ The **IfM Experimental Oceanography group** aims to advance our understanding of
 
 <hr>
 
-For other past projects by the PI, see {{% staticref "uploads/cv.pdf" %}}CV{{% /staticref %}}
+For other past projects by the PI, see {{% staticref "uploads/EFW_CV.pdf" %}}CV{{% /staticref %}}
