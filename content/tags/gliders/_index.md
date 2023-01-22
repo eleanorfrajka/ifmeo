@@ -1,6 +1,6 @@
 ---
 title: Gliders
-
+subtitle: Papers and projects with `gliders' as a tag.
 # Listing view
 view: citation
 
@@ -9,3 +9,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+<hr/>
