@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "EPOC"
+title: "EPOC project"
 summary: "Explaining and Predicting the Ocean Conveyor"
 authors: ["FrajkaWilliams-Eleanor"]
 slides: ""
 url_pdf: ""
 url_video: ""
 date: 2023-01-05T21:23:10+01:00
-tags: []
-categories: []
+tags: [AMOC]
+categories: [project]
 external_link: http://epoc-eu.org
 url_slides: ""
 image:

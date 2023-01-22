@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "DSOW"
+title: "DSOW observations"
 summary: ""
-authors: [""]
-tags: []
-categories: []
+authors: ["FrajkaWilliams-Eleanor"]
+tags: [dsow]
+categories: [project]
 date: 2023-01-05T22:33:07+01:00
 
 # Optional external URL for project (replaces project detail page).

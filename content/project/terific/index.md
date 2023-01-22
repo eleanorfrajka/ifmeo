@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "TERIFIC"
-summary: ""
-authors: [admin]
-tags: [terific]
-categories: []
+title: "TERIFIC project"
+summary: "Targeted Experiment to Reconcile Increased Freshwater with Increased Convection"
+authors: [FrajkaWilliams-Eleanor]
+tags: ["TERIFIC", "Labrador Sea"]
+categories: [project]
 date: 2023-01-05T21:21:51+01:00
 
 # Optional external URL for project (replaces project detail page).
