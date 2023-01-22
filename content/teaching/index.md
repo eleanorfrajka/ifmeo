@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-The EO group is part of the [Institut für Meereskunde](https://www.ifm.uni-hamburg.de/en.html) at the Universität Hamburg.  We teach on the BSc in *Geophysics/Oceanography* and MSc in *Ocean and Climate Physics*. More information about the degree programs is available [here](https://www.ifm.uni-hamburg.de/en/education.html).  
+The **Experimental Oceanography** group is part of the [Institut für Meereskunde](https://www.ifm.uni-hamburg.de/en.html) at the Universität Hamburg.  We teach on the BSc in *Geophysics/Oceanography* and MSc in *Ocean and Climate Physics*. More information about the degree programs is available [here](https://www.ifm.uni-hamburg.de/en/education.html).  
 
 
 Topics include
