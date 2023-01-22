@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: IfM Experimental Oceanography # Website name
-baseURL: 'https://ifmeo.netlify.app/' # Website URL
+title: EO # Website name
+baseURL: 'https://eleanorfrajka.com/' # Website URL
 
 ############################
 ## LANGUAGE
