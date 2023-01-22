@@ -9,7 +9,7 @@ authors:
   - A. Biastoch
   - M. W. Buckley
   - D. G. Desbruyeres
-  - E. Frajka-Williams
+  - Eleanor Frajka-Williams
   - B. Moat
   - J. Robson
 doi: 10.1038/s43017-022-00263-2
