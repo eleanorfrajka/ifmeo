@@ -3,7 +3,7 @@ title: Coming from abroad
 summary: Group documentation.
 date: 2023-01-06
 
-reading_time: false  # Show estimated reading time?
+reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
