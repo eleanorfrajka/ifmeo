@@ -1,7 +1,7 @@
 ---
 title: Hiring procedures at UHH
 summary: Some pointers for navigating the UHH hiring procedures (where many instructions are in German).
-date: 2023-01-14
+date: 9999-01-14
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

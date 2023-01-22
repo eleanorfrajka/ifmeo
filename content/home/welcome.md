@@ -7,7 +7,6 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  IfM EO
 hero_media: jr310_ship_ice.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,4 +18,4 @@ design:
 
 <br>
 
-The Experimental Oceanography group uses oceanographic measurements to advance our understanding of ocean dynamics and circulation in a changing climate.
+The **Experimental Oceanography** group uses oceanographic measurements to advance our understanding of ocean dynamics and circulation in a changing climate.
