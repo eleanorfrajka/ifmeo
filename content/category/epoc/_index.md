@@ -1,13 +1,11 @@
 ---
-title: Latest News
+title: EPOC
 
 # Listing view
-view: compact
+view: citation
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
-
-show_related: true
 ---

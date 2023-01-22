@@ -18,4 +18,4 @@ design:
 
 <br>
 
-The **Experimental Oceanography** group uses oceanographic measurements to advance our understanding of ocean dynamics and circulation in a changing climate.
+The **Experimental Oceanography** group at the Universität Hamburg, Institut für Meereskunde uses oceanographic measurements to advance our understanding of ocean dynamics and circulation in a changing climate.

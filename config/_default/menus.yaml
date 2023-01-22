@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Home
+    url: /
+    weight: 1
   - name: Research
     url: research
     weight: 10
@@ -14,7 +17,7 @@ main:
     url: publication
     weight: 30
   - name: Group
-    url: people
+    url: https://www.ifm.uni-hamburg.de/en/workareas/experimental/groupmembers.html
     weight: 40
   - name: Manual
     url: manual
