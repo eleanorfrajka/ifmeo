@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "6"
 authors:
-  - Eleanor Frajka-Williams
+  - '"FrajkaWilliams-Eleanor"'
   - J. Alexander Brearley
   - J. D. Nash
   - C. B. Whalen
