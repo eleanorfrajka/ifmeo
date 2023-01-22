@@ -2,13 +2,13 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Pending recovery in the strength of the meridional overturning circulation
-  at 26N
+  at 26°N
 subtitle: ''
 summary: ''
 authors:
 - B. I. Moat
 - D. A. Smeed
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Damien G. Desbruyeres
 - C. Beaulieu
 - William E. Johns
@@ -18,7 +18,7 @@ authors:
 - Denis Volkov
 - Laura C. Jackson
 - Harry L. Bryden
-tags: []
+tags: [AMOC,coherence]
 categories: []
 date: '2020-01-01'
 lastmod: 2023-01-21T08:46:53+01:00

@@ -8,13 +8,13 @@ authors:
 - D. G. Evans
 - N. S. Lucas
 - V. Hemsley
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Adrian Martin
 - Stuart C. Painter
 - Alberto C. Naveira~Garabato
 - Mark E. Inall
 - Matthew R. Palmer
-tags: []
+tags: ["mixing", "methods", "gliders"]
 categories: []
 date: '2018-01-01'
 lastmod: 2023-01-21T08:46:55+01:00

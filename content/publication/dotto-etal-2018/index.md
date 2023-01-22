@@ -12,10 +12,10 @@ authors:
 - M. Tsamados
 - P. R. Holland
 - J. Hooley
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - A. Ridout
 - M. P. Meredith
-tags: []
+tags: ["Southern Ocean", "satellite"]
 categories: []
 date: '2018-01-01'
 lastmod: 2023-01-21T08:46:55+01:00

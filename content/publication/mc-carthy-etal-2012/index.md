@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Observed Interannual Variability of the Atlantic MOC  at 26.5N
+title: Observed Interannual Variability of the Atlantic MOC  at 26.5°N
 subtitle: ''
 summary: ''
 authors:
 - Gerard McCarthy
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - William E. Johns
 - M. O. Baringer
 - C. S. Meinen
@@ -15,7 +15,7 @@ authors:
 - A. Duchez
 - C. D. Roberts
 - S. A. Cunningham
-tags: []
+tags: ["AMOC", "bottom pressure"]
 categories: []
 date: '2012-01-01'
 lastmod: 2023-01-21T08:46:58+01:00

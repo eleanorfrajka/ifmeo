@@ -9,7 +9,7 @@ authors:
 - D. ~A. Smeed
 - G. McCarthy
 - S. A. Cunningham
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - D. Rayner
 - W. E. Johns
 - C. S. Meinen
@@ -17,7 +17,7 @@ authors:
 - B. I. Moat
 - A. Duchez
 - H. L. Bryden
-tags: []
+tags: [AMOC]
 categories: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:57+01:00

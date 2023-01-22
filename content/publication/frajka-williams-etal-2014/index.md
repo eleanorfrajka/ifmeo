@@ -5,10 +5,10 @@ title: Horizontal stratification during Deep convection in the Labrader Sea
 subtitle: ''
 summary: ''
 authors:
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Peter B. Rhines
 - Charles C. Eriksen
-tags: []
+tags: ["Labrador Sea"]
 categories: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:57+01:00

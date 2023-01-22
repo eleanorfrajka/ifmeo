@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - D. G. Evans
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - A. C. Naveira~Garabato
-tags: []
+tags: ["Mesoscale", "Mixing", "Satellite"]
 categories: []
 date: '2022-01-01'
 lastmod: 2023-01-21T08:46:52+01:00
@@ -47,4 +47,5 @@ abstract: The fate of mesoscale eddy kinetic energy represents a large source of
   with the western boundary topography.
 publication: '*Scientific Reports*'
 doi: 10.1038/s41598-022-05002-7
+url_pdf: "https://nora.nerc.ac.uk/id/eprint/532248/1/s41598-022-05002-7.pdf"
 ---

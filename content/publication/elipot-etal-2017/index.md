@@ -7,11 +7,11 @@ subtitle: ''
 summary: ''
 authors:
 - Shane Elipot
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - C. Hughes
 - Sofia Olhede
 - M. Lankhorst
-tags: []
+tags: [AMOC, coherence, "bottom pressure"]
 categories: []
 date: '2017-01-01'
 lastmod: 2023-01-21T08:46:56+01:00

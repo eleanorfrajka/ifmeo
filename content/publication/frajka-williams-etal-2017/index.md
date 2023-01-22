@@ -6,7 +6,7 @@ title: Emerging negative Atlantic Multidecadal Oscillation index in spite of war
 subtitle: ''
 summary: ''
 authors:
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Claudie Beaulieu
 - Aurelie Duchez
 tags: []

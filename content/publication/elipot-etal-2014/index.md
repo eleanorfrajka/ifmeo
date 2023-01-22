@@ -7,10 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - Shane Elipot
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - C. Hughes
 - J. Willis
-tags: []
+tags: [AMOC, coherence, "bottom pressure"]
 categories: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:57+01:00

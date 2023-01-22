@@ -5,12 +5,12 @@ title: Eddy impacts on the Florida Current
 subtitle: ''
 summary: ''
 authors:
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - W. E. Johns
 - C. S. Meinen
 - L. M. Beal
 - S. A. Cunningham
-tags: []
+tags: [AMOC,mesoscale]
 categories: []
 date: '2013-01-01'
 lastmod: 2023-01-21T08:46:58+01:00
@@ -52,4 +52,5 @@ abstract: The Gulf Stream in the Atlantic carries warm water northwards and form
   forcing.
 publication: '*Geophys. Res. Lett.*'
 doi: 10.1002/grl.50115
+url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.50115"
 ---

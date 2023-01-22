@@ -14,11 +14,11 @@ authors:
 - Gerard McCarthy
 - William Johns
 - Joël Hirschi
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - D. Rayner
 - Aurélie Duchez
 - Andrew Coward
-tags: []
+tags: [AMOC]
 categories: []
 date: '2016-01-01'
 lastmod: 2023-01-21T08:46:56+01:00

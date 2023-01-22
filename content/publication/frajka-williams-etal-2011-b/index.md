@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Variability of Antarctic Bottom Water at 24.5N  in the Atlantic
+title: Variability of Antarctic Bottom Water at 24.5°N  in the Atlantic
 subtitle: ''
 summary: ''
 authors:
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Stuart A Cunningham
 - Harry L Bryden
 - B. A King
-tags: []
+tags: ["AMOC"]
 categories: []
 date: '2011-01-01'
 lastmod: 2023-01-21T08:46:58+01:00
@@ -49,4 +49,5 @@ abstract: A recent hydrographic section at 24.5°N in the Atlantic and 6 months 
   Sv = 106 m3s−1).
 publication: '*J. Geophys. Res.*'
 doi: 10.1029/2011JC007168
+url_pdf: "https://nora.nerc.ac.uk/id/eprint/303563/1/aabw_submitrev_sep2011.pdf"
 ---

@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Using GRACE and in situ bottom pressure recorders to evaluate external transports
-  at $26^∘$N
+  at 26°N
 subtitle: ''
 summary: ''
 authors:
 - Emma Worthington
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Gerard McCarthy
-tags: []
+tags: ["bottom pressure", methods, satellite]
 categories: []
 date: '2019-01-01'
 lastmod: 2023-01-21T08:46:54+01:00

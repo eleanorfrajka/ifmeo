@@ -8,11 +8,11 @@ summary: ''
 authors:
 - J. Carton
 - S. A. Cunningham
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Y. -O. Kwon
 - D. P. Marshall
 - R. Msadek
-tags: []
+tags: ["AMOC"]
 categories: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:57+01:00

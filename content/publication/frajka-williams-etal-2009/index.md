@@ -6,10 +6,10 @@ title: Physical controls and mesoscale variability in the Labrador Sea spring ph
 subtitle: ''
 summary: ''
 authors:
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Peter Rhines
 - Charles Eriksen
-tags: []
+tags: ["mesoscale", "labrador sea", "gliders"]
 categories: []
 date: '2009-01-01'
 lastmod: 2023-01-21T08:46:59+01:00
@@ -51,4 +51,5 @@ abstract: 'We investigated the 2005 spring phytoplankton bloom in the Labrador S
   scale dependence of coincident biological and physical variables.'
 publication: '*Deep Sea Res. I*'
 doi: 10.1016/j.dsr.2009.07.008
+url_pdf: "https://nora.nerc.ac.uk/id/eprint/303561/1/FrajkaWilliams_etal_dsr2009.pdf"
 ---

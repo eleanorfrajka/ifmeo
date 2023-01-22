@@ -5,8 +5,8 @@ title: Rapid mixing and exchange of deep-ocean waters in an abyssal boundary cur
 subtitle: ''
 summary: ''
 authors:
-- A. C. Naveira-Garabato
-- E. Frajka-Williams
+- A. C. Naveira Garabato
+- "FrajkaWilliams-Eleanor"
 - C. P. Spingys
 - S. Legg
 - K. L. Polzin
@@ -18,7 +18,7 @@ authors:
 - K. W. Nicholls
 - L. N. Thomas
 - M. P. Meredith
-tags: []
+tags: [mixing, "Southern Ocean", submesoscale]
 categories: []
 date: '2019-01-01'
 lastmod: 2023-01-21T08:46:55+01:00

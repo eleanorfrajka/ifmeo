@@ -2,15 +2,15 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Vertical structure of eddies and Rossby waves and their effect on the Atlantic
-  MOC at 26.5N
+  MOC at 26.5°N
 subtitle: ''
 summary: ''
 authors:
 - Louis Clément
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Zoltan B. Szuts
 - Stuart A. Cunningham
-tags: []
+tags: [AMOC, mesoscale]
 categories: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:57+01:00

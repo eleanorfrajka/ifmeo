@@ -7,11 +7,11 @@ subtitle: ''
 summary: ''
 authors:
 - D. Gwyn Evans
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - A. C. Naveira Garabato
 - K. L. Polzin
 - A. Forryan
-tags: []
+tags: ["Mesoscale", "Mixing", "submesoscale"]
 categories: []
 date: '2020-01-01'
 lastmod: 2023-01-21T08:46:53+01:00

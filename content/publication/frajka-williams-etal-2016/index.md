@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Compensation between meridional flow components  of the Atlantic MOC at  26N
+title: Compensation between meridional flow components  of the Atlantic MOC at  26°N
 subtitle: ''
 summary: ''
 authors:
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - C. S. Meinen
 - W. E. Johns
 - D. A. Smeed
@@ -17,7 +17,7 @@ authors:
 - M. O. Baringer
 - D. Rayner
 - B. I. Moat
-tags: []
+tags: [AMOC]
 categories: []
 date: '2016-01-01'
 lastmod: 2023-01-21T08:46:56+01:00

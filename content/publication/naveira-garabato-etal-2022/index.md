@@ -11,9 +11,9 @@ authors:
 - J. Callies
 - R. Barkan
 - K. L. Polzin
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - ' others'
-tags: []
+tags: [mesoscale, submesoscale]
 categories: []
 date: '2022-01-01'
 lastmod: 2023-01-21T08:46:52+01:00
@@ -60,5 +60,6 @@ abstract: Mesoscale eddies contain the bulk of the ocean’s kinetic energy (KE)
   Current submesoscale-permitting ocean models may substantially understate this downscale
   KE transfer, due to the models’ muted representation of frontogenesis.
 publication: '*J. Phys. Ocean.*'
+url_pdf: "https://nora.nerc.ac.uk/id/eprint/531468/1/%5B15200485%20-%20Journal%20of%20Physical%20Oceanography%5D%20Kinetic%20Energy%20Transfers%20between%20Mesoscale%20and%20Submesoscale%20Motions%20in%20the%20Open%20Ocean’s%20Upper%20Layers.pdf"
 doi: 10.1175/JPO-D-21-0099.1
 ---

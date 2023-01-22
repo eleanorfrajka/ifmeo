@@ -5,11 +5,11 @@ title: Determining Vertical Velocities from Seaglider
 subtitle: ''
 summary: ''
 authors:
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Charles C. Eriksen
 - Peter B. Rhines
 - Ramsey R. Harcourt
-tags: []
+tags: ["gliders", "methods"]
 categories: []
 date: '2011-01-01'
 lastmod: 2023-01-21T08:46:58+01:00

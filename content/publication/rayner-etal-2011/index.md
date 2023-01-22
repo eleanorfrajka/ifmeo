@@ -10,14 +10,14 @@ authors:
 - Torsten Kanzow
 - W. E. Johns
 - Paul G. Wright
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Harry L. Bryden
 - Christopher S. Meinen
 - Molly O. Baringer
 - Jochem Marotzke
 - Lisa M. Beal
 - Stuart A. Cunningham
-tags: []
+tags: ["AMOC"]
 categories: []
 date: '2011-01-01'
 lastmod: 2023-01-21T08:46:59+01:00

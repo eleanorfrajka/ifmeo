@@ -11,12 +11,12 @@ authors:
 - S. Bacon
 - M. Tsamados
 - A. Ridout
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - L. Herraiz-Borreguero
 - P. R. Holland
 - H. D. B. S. Heorton
 - M. P. Meredith
-tags: []
+tags: ["Southern Ocean"]
 categories: []
 date: '2019-01-01'
 lastmod: 2023-01-21T08:46:54+01:00

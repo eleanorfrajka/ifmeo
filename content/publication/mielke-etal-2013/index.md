@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Observed and simulated variability of the AMOC at 26N and 41N
+title: Observed and simulated variability of the AMOC at 26°N and 41°N
 subtitle: ''
 summary: ''
 authors:
 - Charlotte Mielke
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Johanna Baehr
-tags: []
+tags: [AMOC, coherence]
 categories: []
 date: '2013-01-01'
 lastmod: 2023-01-21T08:46:58+01:00
@@ -48,4 +48,5 @@ abstract: ' Time series of the observational estimate of the Atlantic meridional
   the North Atlantic from discontinuous observations.'
 publication: '*Geophys. Res. Lett.*'
 doi: 10.1002/grl.50233
+url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.50233"
 ---

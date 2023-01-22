@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Wind-driven transport of fresh shelf water into the upper 30~m of the Labrador
+title: Wind-driven transport of fresh shelf water into the upper 30m of the Labrador
   Sea
 subtitle: ''
 summary: ''
 authors:
-- Lena M. Schulze~Chretien
-- E. Frajka-Williams
-tags: []
+- Lena M. Schulze Chretien
+- "FrajkaWilliams-Eleanor"
+tags: ["freshwater", "Labrador Sea"]
 categories: []
 date: '2018-01-01'
 lastmod: 2023-01-21T08:46:55+01:00

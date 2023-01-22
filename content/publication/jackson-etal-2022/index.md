@@ -9,10 +9,11 @@ authors:
   - A. Biastoch
   - M. W. Buckley
   - D. G. Desbruyeres
-  - FrajkaWilliams-Eleanor
+  - "FrajkaWilliams-Eleanor"
   - B. Moat
   - J. Robson
 doi: 10.1038/s43017-022-00263-2
+url_pdf: https://archimer.ifremer.fr/doc/00753/86518/95863.pdf
 abstract: The Atlantic Meridional Overturning Circulation (AMOC) is a key
   component of the climate through its transport of heat in the North Atlantic
   Ocean. Decadal changes in the AMOC, whether through internal variability or
@@ -40,23 +41,12 @@ categories: []
 projects: []
 image:
   caption: "Reconstructed Atlantic Meridional Overturning Circulation (AMOC) in
-    the subpolar North Atlantic (left): AMOC from observations along the
-    Portugal-Greenland A25-OVIDE  (panel a); AMOC from observations at 45°N
-    (panel b); implied overturning in density space from observed surface fluxes
-    (panel c); AMOC at 50° N from an ensemble mean of ocean reanalyses (black)
-    and GloSea5 reanalysis (green) (panel d); and AMOC at 50°N from forced
-    models participating in OMIP  (panel e). Reconstructed AMOC in the
-    subtropical North Atlantic (right): AMOC at 26.5°N from the RAPID array
-    (panel f); AMOC from observations at 26.5°N (panel g); AMOC from
-    observations at 41° N (panel h); as in panel d but for the AMOC at 26.5°N
-    (panel i); and as in panel e but for the AMOC at 26.5°N (panel j). AMOC is
-    either the maximum of the overturning in density space (AMOCd; blue, right
-    axis) or the maximum in depth space (AMOCz; black, left axis). Dashed lines
+    the subpolar North Atlantic. Dashed lines
     indicate those timeseries wherein the wind-driven Ekman component is
-    excluded. Shading indicates observational uncertainties for panels b, c and
-    h, or twice the ensemble standard deviation for panels d, e, i and j. "
+    excluded. Shading indicates observational uncertainties (b, c and
+    h), or twice the ensemble standard deviation (d, e, i and j). "
   focal_point: TopLeft
-  preview_only: true
+  preview_only: false
   filename: featured.jpg
 summary: A synthesis of the known AMOC variabiltiiy since 1980, from models,
   reanalysis, observations and proxies - in the subtropical and subpolar North

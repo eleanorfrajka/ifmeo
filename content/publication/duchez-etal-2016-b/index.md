@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Duchez
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - S. A. Josey
 - D. G. Evans
 - J. P. Grist
@@ -16,7 +16,7 @@ authors:
 - B. Sinha
 - D. I. Berry
 - J. J. -M. Hirschi
-tags: []
+tags: [AMOC]
 categories: []
 date: '2016-01-01'
 lastmod: 2023-01-21T08:46:56+01:00

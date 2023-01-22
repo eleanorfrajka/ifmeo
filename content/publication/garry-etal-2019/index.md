@@ -10,7 +10,7 @@ authors:
 - A. T. Blaker
 - C. D. Roberts
 - D. G. Desbruyeres
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - B. A. King
 tags: []
 categories: []

@@ -2,15 +2,15 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A dynamically based method for estimating the Atlantic meridional overturning
-  circulation at 26N from satellite altimetry
+  circulation at 26°N from satellite altimetry
 subtitle: ''
 summary: ''
 authors:
 - A. Sanchez-Franks
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - B. I. Moat
 - D. A. Smeed
-tags: []
+tags: [AMOC, methods, satellite]
 categories: []
 date: '2021-01-01'
 lastmod: 2023-01-21T08:46:53+01:00

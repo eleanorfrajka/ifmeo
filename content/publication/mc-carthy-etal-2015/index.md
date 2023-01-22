@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Measuring the Atlantic meridional overturning circulation at 26N
+title: Measuring the Atlantic meridional overturning circulation at 26°N
 subtitle: ''
 summary: ''
 authors:
-- G. ~D. McCarthy
-- D. ~A. Smeed
-- W. ~E. Johns
-- E. Frajka-Williams
-- B. ~I. Moat
+- G. D. McCarthy
+- D. A. Smeed
+- W. E. Johns
+- "FrajkaWilliams-Eleanor"
+- B. I. Moat
 - D. Rayner
-- M. ~O. Baringer
-- C. ~S. Meinen
-- H. ~L. Bryden
-tags: []
+- M. O. Baringer
+- C. S. Meinen
+- H. L. Bryden
+tags: [AMOC]
 categories: []
 date: '2015-01-01'
 lastmod: 2023-01-21T08:46:56+01:00

@@ -5,10 +5,10 @@ title: Greenland Melt and the Atlantic Meridional Overturning Circulation
 subtitle: ''
 summary: ''
 authors:
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - J. Bamber
 - K. Vage
-tags: []
+tags: [AMOC, freshwater]
 categories: []
 date: '2016-01-01'
 lastmod: 2023-01-21T08:46:56+01:00

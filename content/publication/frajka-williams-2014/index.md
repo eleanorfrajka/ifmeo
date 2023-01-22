@@ -5,7 +5,7 @@ title: Sustaining observations of an unsteady ocean circulation
 subtitle: ''
 summary: ''
 authors:
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 tags: []
 categories: []
 date: '2014-01-01'

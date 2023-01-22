@@ -2,16 +2,16 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Seasonal to interannual variability in density around the Canary Islands and
-  their influence on the AMOC at 26N
+  their influence on the AMOC at 26°N
 subtitle: ''
 summary: ''
 authors:
 - A. Duchez
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - N. Castro
 - J. J. -M. Hirschi
 - A. Coward
-tags: []
+tags: [AMOC]
 categories: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:57+01:00

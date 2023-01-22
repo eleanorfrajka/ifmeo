@@ -12,10 +12,10 @@ authors:
 - B. I. Moat
 - S. A. Josey
 - J. J. -M. Hirschi
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - A. T. Blaker
 - G. Madec
-tags: []
+tags: [AMOC, methods]
 categories: []
 date: '2018-01-01'
 lastmod: 2023-01-21T08:46:55+01:00

@@ -19,7 +19,7 @@ authors:
 - T. O. Kanzow
 - "FrajkaWilliams-Eleanor"
 - J. Marotzke
-tags: []
+tags: [AMOC]
 categories: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:56+01:00
@@ -42,7 +42,7 @@ image:
 projects: []
 publishDate: '2023-01-21T07:46:56.834091Z'
 publication_types:
-- '6'
+- '2'
 abstract: ''
 publication: '*State of the Climate in 2013*'
 doi: 10.1175/2014BAMSStateoftheClimate.1

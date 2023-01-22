@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "6"
 authors:
-  - Eleanor Frajka-Williams
+  - "FrajkaWilliams-Eleanor"
   - J. Alexander Brearley
   - J. D. Nash
   - C. B. Whalen
@@ -17,13 +17,13 @@ abstract: This chapter gives an overview of recent advances in in situ
   as well as its limitations. Evidence for successful application of each method
   is provided.
 draft: false
-tags: []
+tags: [mixing, gliders, methods]
 categories: []
 projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: featured.jpg
 summary: ""
 lastmod: 2023-01-21T08:46:52+01:00

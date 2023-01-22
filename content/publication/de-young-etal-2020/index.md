@@ -5,11 +5,11 @@ title: 'Technicalities: Exploring the Labrador Sea with autonomous vehicles'
 subtitle: ''
 summary: ''
 authors:
-- B. de~Young
-- E. Frajka-Williams
+- B. de Young
+- "FrajkaWilliams-Eleanor"
 - Nicolai von Oppeln-Bronikowski
 - Stephen Woodward
-tags: []
+tags: ["gliders", "Labrador Sea"]
 categories: []
 date: '2020-01-01'
 lastmod: 2023-01-21T08:46:53+01:00
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [TERIFIC]
 publishDate: '2023-01-21T07:46:53.423022Z'
 publication_types:
 - '2'

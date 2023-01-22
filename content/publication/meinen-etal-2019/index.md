@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Structure and variability of the Antilles Current at 26.5$^∘$N
+title: Structure and variability of the Antilles Current at 26.5°N
 subtitle: ''
 summary: ''
 authors:
@@ -11,10 +11,10 @@ authors:
 - Ryan H. Smith
 - Elizabeth M. Johns
 - Darren Rayner
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Rigoberto F. Garcia
 - Silvia L. Garzoli
-tags: []
+tags: [AMOC]
 categories: []
 date: '2019-01-01'
 lastmod: 2023-01-21T08:46:54+01:00

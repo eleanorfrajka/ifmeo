@@ -6,11 +6,11 @@ title: "Coherent circulation changes in the Deep North Atlantic from 16\x0EN and
 subtitle: ''
 summary: ''
 authors:
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - M. Lankhorst
 - J. Koelling
 - U. Send
-tags: []
+tags: [AMOC, coherence]
 categories: []
 date: '2018-01-01'
 lastmod: 2023-01-21T08:46:55+01:00

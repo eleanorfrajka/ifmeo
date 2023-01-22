@@ -6,9 +6,9 @@ title: Physical controls and interannual variability of the Labrador Sea spring 
 subtitle: ''
 summary: ''
 authors:
-- Eleanor Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - Peter B. Rhines
-tags: []
+tags: ["Labrador Sea"]
 categories: []
 date: '2010-01-01'
 lastmod: 2023-01-21T08:46:59+01:00

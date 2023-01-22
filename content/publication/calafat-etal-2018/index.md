@@ -10,8 +10,8 @@ authors:
 - Thomas Wahl
 - Fredrik Lindsten
 - Joanne Williams
-- Eleanor Frajka-Williams
-tags: []
+- "FrajkaWilliams-Eleanor"
+tags: [AMOC]
 categories: []
 date: '2018-01-01'
 lastmod: 2023-01-21T08:46:55+01:00

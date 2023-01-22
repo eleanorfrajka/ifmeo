@@ -11,14 +11,14 @@ authors:
 - K. A. Peterson
 - M. Palmer
 - G. D. McCarthy
-- E. Frajka-Williams
+- "FrajkaWilliams-Eleanor"
 - K. Haines
 - D. J. Lea
 - M. J. Martin
 - D. Storkey
 - E. W. Blockley
 - H. Zuo
-tags: []
+tags: [AMOC]
 categories: []
 date: '2013-01-01'
 lastmod: 2023-01-21T08:46:58+01:00
@@ -57,4 +57,5 @@ abstract: The Atlantic meridional overturning circulation (AMOC) has been observ
   variability of the AMOC.
 publication: '*Geophys. Res. Lett.*'
 doi: 10.1002/grl.50930
+url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.50930"
 ---

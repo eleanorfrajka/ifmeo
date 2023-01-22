@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Estimating the Atlantic MOC at 26N using satellite altimetry and cable measurements
+title: Estimating the Atlantic MOC at 26°N using satellite altimetry and cable measurements
 subtitle: ''
 summary: ''
 authors:
-- Eleanor Frajka-Williams
-tags: []
+- "FrajkaWilliams-Eleanor"
+tags: ["AMOC", satellite, methods]
 categories: []
 date: '2015-01-01'
 lastmod: 2023-01-21T08:46:56+01:00
