@@ -1,43 +1,20 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "EPOC"
-summary: "Explaining and Predicting the Ocean Conveyor"
+slides: ""
+url_pdf: ""
+title: EPOC
+summary: Explaining and Predicting the Ocean Conveyor
 authors: []
+url_video: ""
+date: 2023-01-05T21:23:10+01:00
 tags: []
 categories: []
-date: 2023-01-05T21:23:10+01:00
-
-# Optional external URL for project (replaces project detail page).
-external_link: "http://epoc-eu.org"
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+external_link: http://epoc-eu.org
+url_slides: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
+  preview_only: true
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
 
 EPOC is funded under the European Union's Horizon Europe program, under the call HORIZON-CL6-2021-CLIMATE01 (2022-2027).  It is led by the Universität Hamburg with partners in France, Germany, Norway, the UK, USA and Canada.
