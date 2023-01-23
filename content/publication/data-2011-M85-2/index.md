@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Physical oceanography during METEOR cruise M85/2. IFM-GEOMAR Leibniz-Institute of Marine Sciences, Kiel University"
+title: "Physical oceanography during METEOR cruise M85/2, Aug 2011. IFM-GEOMAR Leibniz-Institute of Marine Sciences, Kiel University"
 authors: 
 - Johannes Karstensen
 - Kerstin Jochumsen
 - Detlef Quadfasel
-date: 2014-01-01T12:00:00
+date: 2011-08-01T12:00:00
 doi: "10.1594/PANGAEA.836115"
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "CTD data from the METEOR M85/2 cruise in Denmark Strait, East Greenland Current and Flemish Cap region, Aug 2011."
 
-tags: []
+tags: ["meteor"]
 categories: ["data"]
 featured: false
 
@@ -41,7 +41,7 @@ featured: false
 
 url_pdf:
 url_code:
-url_dataset: https://doi.pangaea.de/10.1594/PANGAEA.836115
+url_dataset: 
 url_poster:
 url_project:
 url_slides:

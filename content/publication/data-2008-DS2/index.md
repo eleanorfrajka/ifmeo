@@ -4,7 +4,7 @@
 title: "Physical oceanography from Mooring DS2 in the Denmark Strait Overflow area between July 2007 and July 2008"
 authors: 
 - Johanna Baehr
-date: 2022-01-08T12:00:00
+date: 2008-07-08T12:00:00
 doi: "10.1594/PANGAEA.942046"
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ abstract: "This data set provides quality controlled temperature, conductivity a
 # Summary. An optional shortened abstract.
 summary: "Moored CTD (MicroCAT, Seabird Electronics Inc) on DS2 mooring in the Denmark Strait, August 2005 - July 2006."
 
-tags: []
+tags: ["mooring"]
 categories: [data]
 featured: false
 
@@ -39,8 +39,7 @@ featured: false
 
 url_pdf:
 url_code:
-url_dataset: https://doi.pangaea.de/10.1594/PANGAEA.942046
-url_poster:
+url_dataset: 
 url_project:
 url_slides:
 url_source:

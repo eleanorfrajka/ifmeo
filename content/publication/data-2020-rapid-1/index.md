@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Atlantic meridional overturning circulation observed by the RAPID-MOCHA-WBTS (RAPID-Meridional Overturning Circulation and Heatflux Array-Western Boundary Time Series) array at 26°N from 2004 to 2018 (v2018.2)"
+title: "Atlantic meridional overturning circulation observed by the RAPID-MOCHA-WBTS (RAPID-Meridional Overturning Circulation and Heatflux Array-Western Boundary Time Series) array at 26°N from 2004 to 2020 (v2020.1)"
 authors: 
 - "FrajkaWilliams-Eleanor"
 - Ben Moat
@@ -66,7 +66,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["RAPID"]
+projects: ["rapid"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

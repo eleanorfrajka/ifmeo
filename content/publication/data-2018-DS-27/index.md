@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Raw data including physical oceanography from mooring DS-2-17 recovered during Maria S. Merian cruise MSM76"
+title: "Raw data including physical oceanography from mooring DS-27-17 recovered during Maria S. Merian cruise MSM76"
 authors: 
 - Ryan North
 date: 2020-01-18T12:00:00
@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["mooring"]
 categories: [data]
 featured: false
 

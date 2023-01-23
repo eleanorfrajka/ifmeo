@@ -10,6 +10,6 @@ banner:
   image: ''
 ---
 
-Datasets produced by the IfM Experimental Oceanography group and the former IfM Regional Oceanography group.
+Datasets produced by the IfM Experimental Oceanography group, the former IfM Regional Oceanography group and related projects.
 
 <hr/>

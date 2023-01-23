@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Physical oceanography during POSEIDON cruise POS486. Institut für Meereskunde, Universität Hamburg"
+title: "Physical oceanography during POSEIDON cruise POS486, June 2015. Institut für Meereskunde, Universität Hamburg"
 authors: 
 - Detlef Quadfasel
-date: 2017-01-01T12:00:00
+date: 2015-06-01T12:00:00
 doi: "10.1594/PANGAEA.883631"
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "CTD data in Denmark Strait and along the East Greenland slope, June 2015."
 
-tags: []
+tags: ["poseidon"]
 categories: [data]
 featured: false
 
@@ -39,7 +39,7 @@ featured: false
 
 url_pdf:
 url_code:
-url_dataset: https://doi.pangaea.de/10.1594/PANGAEA.883631
+url_dataset: 
 url_poster:
 url_project:
 url_slides:
