@@ -60,7 +60,8 @@ header:
 
 ### Teaching
 - [OpenOlat](https://www.openolat.uni-hamburg.de/dmz/)
-- [SeePraktikum](https://wiki.cen.uni-hamburg.de/ifm/SeePrakt)
+- [SeePraktikum](https://wiki.cen.uni-hamburg.de/ifm/SeePrakt) - if you need access, ask Martin
+- [Messmethoden](https://wiki.cen.uni-hamburg.de/ifm/MessFern_V) - if you need access, ask Martin
 - [University calendar](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienverlauf/semestertermine.html)
 
 
