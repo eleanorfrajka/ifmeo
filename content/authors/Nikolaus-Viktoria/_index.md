@@ -1,21 +1,21 @@
 ---
 # Display name
-title: "Thomas Wasilewski"
+title: "Viktoria Nikolaus"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "wasilewski-thomas"
+- "nikolaus-viktoria"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: IT Staff
+role: MSc student
 
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: ""
+  url: "https://www.ifm.uni-hamburg.de/institute/staff/ritschel.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -38,14 +38,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:thomas.wasilewski@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/thomas-wasilewski-3287a393
-#- icon: twitter
+# - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
 #- icon: google-scholar
@@ -59,9 +52,17 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:viktoria.nikolaus@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/viktoria-nikolaus-4647a489
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "viktoria.nikolaus@uni-hamburg.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

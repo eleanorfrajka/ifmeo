@@ -1,21 +1,21 @@
 ---
 # Display name
-title: "Thomas Wasilewski"
+title: "Markus Ritschel"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "wasilewski-thomas"
+- "ritschel-markus"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: IT Staff
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Institut für Meereskunde
+  url: "https://www.ifm.uni-hamburg.de/institute/staff/ritschel.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -41,13 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:thomas.wasilewski@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
+  link: 'mailto:markus.ritschel@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/in/thomas-wasilewski-3287a393
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+  link: https://twitter.com/MarkusRitschel
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7464-7075
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID

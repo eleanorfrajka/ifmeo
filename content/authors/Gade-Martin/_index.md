@@ -42,12 +42,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:martin.gade@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=jFI5if0AAAAJ&hl=en&oi=ao
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6514-1272
+
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/USERNAME

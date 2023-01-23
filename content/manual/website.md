@@ -163,5 +163,13 @@ For datasets downloaded from PANGAEA, the bibtex citation information can also b
 *Later updates:* Add a map with the data location.  This can be a static map, screenshot from PANGAEA or similar.
 
 
+#### Adding a new person
+
+This is explained in the [Hugo steps to customise a theme](https://wowchemy.com/docs/content/authors/) but I've modified it somewhat (not sure whether things will break later) to use lastname-firstname.
+
+```
+hugo new content/authors/lastname-firstname
+```
+
 
 
