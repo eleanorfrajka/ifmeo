@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Physical oceanography during POSEIDON cruise POS471/1, June 2014. Institut für Meereskunde, Universität Hamburg"
+title: "Physical oceanography from Mooring DS2 in the Denmark Strait Overflow area since 2005"
 authors: 
-- Detlef Quadfasel
-date: 2014-06-30T12:00:00
-doi: "10.1594/PANGAEA.890578"
+- Johanna Baehr
+date: 2022-06-15T12:00:00
+doi: "10.1594/PANGAEA.942057"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-01-22T14:22:31+01:00
+publishDate: 2023-01-22T14:06:13+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,14 +20,14 @@ publication_types: ["8"]
 publication: "PANGAEA"
 publication_short: ""
 
-abstract: ""
+abstract: "This data set provides quality controlled temperature, conductivity and pressure measurements from moored instrumentation (Seabird Microcat) in the Denmark Strait. Practical salinity was calculated from the measured quantities and is provided as well. Temporal resolution of the time series is 10 minutes. The data was collected from July 2014 to June 2015 at the location of mooring DS2. This mooring is part of the Denmark Strait Overflow array and maintained by the Institute of Oceanography, University Hamburg. The purpose of the array was to monitor the properties and variability of the dense Denmark Strait Overflow."
 
 # Summary. An optional shortened abstract.
-summary: "Physical oceanography during POSEIDON cruise POS471/1. from 17-30 June 2014."
+summary: "Moored CTD (MicroCAT, Seabird Electronics Inc) on DS2 mooring in the Denmark Strait, July 2014 - June 2015."
 
-tags: ["poseidon"]
+tags: ["mooring"]
 categories: [data]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [dsow]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -68,6 +68,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-Median Latitude: 44.635239 * Median Longitude: -20.686175 * South-bound Latitude: 32.803300 * West-bound Longitude: -22.129200 * North-bound Latitude: 59.499800 * East-bound Longitude: -18.446500
-Date/Time Start: 2014-06-17T17:42:58 * Date/Time End: 2014-06-30T13:05:43
-Minimum DEPTH, water: 29.75 m * Maximum DEPTH, water: 2077.49 m
+- Latitude: 66.012800 
+- Longitude: -27.270200
+- Date/Time Start: 2005-08-26T20:30:01 
+- Date/Time End: 2015-06-13T13:00:00

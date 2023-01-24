@@ -11,6 +11,9 @@ date: 2023-01-05T22:33:07+01:00
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Turn off icons
+share: false
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -40,6 +43,6 @@ url_video: ""
 slides: ""
 ---
 
+*This page is a placeholder*.  It currently contains a list of datasets collected during the maintenance of the DS2 mooring, and nearby hydrographic cruises (collected by UHH and on related projects), listed below in the **Publications** list.  If you notice any are missing, please [let me know](mailto:eleanor.frajka@uni-hamburg.de).
 
-Datasets collected during the maintenance of the moorings and associated hydrographic cruises can be found below in the **Publications** list.
 
