@@ -8,6 +8,7 @@ tags: []
 categories: [project]
 date: 2023-01-05T22:33:07+01:00
 
+lastmod: 2023-01-24
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -43,6 +44,8 @@ url_video: ""
 slides: ""
 ---
 
-*This page is a placeholder*.  It currently contains a list of datasets collected during the maintenance of the DS2 mooring, and nearby hydrographic cruises (collected by UHH and on related projects), listed below in the **Publications** list.  If you notice any are missing, please [let me know](mailto:eleanor.frajka@uni-hamburg.de).
+**This page is a placeholder**, and content updates are underway.
+
+It currently contains a list of datasets collected during the maintenance of the DS2 mooring, and nearby hydrographic cruises (collected by UHH and on related projects), listed below in the **Publications** list.  If you notice any are missing, please [let me know](mailto:eleanor.frajka@uni-hamburg.de).
 
 
