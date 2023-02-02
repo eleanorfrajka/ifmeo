@@ -5,6 +5,8 @@ date: 2023-01-22
 
 ## Contact details of the responsible body
 
+.
+
 Responsible within the meaning of the General Data Protection Regulation (GDPR) and other national data protection laws of the EU member states as well as other data protection regulations for the online offer "Blog" is:
 
 Universität Hamburg<br/>
