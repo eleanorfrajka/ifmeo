@@ -119,10 +119,12 @@ You will have a Benutzerkennung (University-wide) and a u-nummer (CEN-specific).
 - **Mobile access to e-mail**. This is an optional step, and not recommended (for better work/life balance).  However, if you want access to your email on a mobile device, you can find instructions here.  You should probably immediately disable all notifications and alerts. [https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration/smartphone.html](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration/smartphone.html)
 
 Other items:
-- If you get a **SPAM** notice when  you send mail, you can apply for a personal certificate to authenticate your mail [here](https://www.rrz.uni-hamburg.de/services/sicherheit/pki/hilfe-fuer-persoenliche-zertifikate.html).
+- If you get a * * SPAM * * notice when  you *send* mail (you may notice this if someone replies and you see the subject got flagged as spam), you can fix this -- apply for a personal certificate to authenticate your mail [here](https://www.rrz.uni-hamburg.de/services/sicherheit/pki/hilfe-fuer-persoenliche-zertifikate.html).
 - If you need to set up access to a group/functional shared mailbox, see the instructions [here](https://rrz-serviceportal.uni-hamburg.de/wm/app-SelfServicePortal/landing-page/14587d3e-63aa-e611-d99b-bc5ff41a70c0).
 
 ### Calendars
+
+To use your outlook calendar, you can access it on [OWA](https://exchange.uni-hamburg.de/owa) by signing in with your B-kennung, and in the top left corner (where it says 'Mail'), choose 'Calendar'.  
 
 To add the university Exchange calendar (rather than the CEN Owncloud calendar) to a desktop program like Apple Calendar, you follow the same instructions as to add an e-mail account to an iOS device: https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/handouts/handout-fuer-apple-iphone.pdf
 
@@ -132,6 +134,15 @@ To add the university Exchange calendar (rather than the CEN Owncloud calendar) 
 - Enter username: your B-kennung
 - Enter password: for your B-kennung
 - Choose server: exchange.uni-hamburg.de
+
+**How to share your calendar:** [Outlook instructions](https://support.microsoft.com/en-us/office/share-your-calendar-in-outlook-com-0fc1cb48-569d-4d1e-ac20-5a9b3f5e6ff2)
+
+To share your Outlook calendar with a person(s) at UHH who also uses Outlook, you can use the Outlook desktop app and the menu item 'Calendar Permissions > Permissions' and allow anonymous people to view your 'free/busy time'.
+
+To share your Outlook calendar with anyone, you can 'publish' it.  This option can only be set up using Outlook on the web, [OWA](https://exchange.uni-hamburg.de/owa).  After logging in and selecting 'Calendar' (rather than 'Mail'), you go to Settings (gear icon in top right), then 'Options' from the dropdown menu, then 'Calendar > Shared calendars > Calendar publishing'.  I chose 'Availability only', and it then generates two links for you which can be 'subscribed to' by other people in whatever calendar application they use, or on the web.
+
+- Eleanor's availability on the web: [https://exchange.uni-hamburg.de/owa/calendar/329cd9271e624c80af808104e6ef6701@uni-hamburg.de/f9c9bcb89431435e932e9c7c778344af4425329249797584863/calendar.html](https://exchange.uni-hamburg.de/owa/calendar/329cd9271e624c80af808104e6ef6701@uni-hamburg.de/f9c9bcb89431435e932e9c7c778344af4425329249797584863/calendar.html)
+- Eleanor's calendar * .ics link: `https://exchange.uni-hamburg.de/owa/calendar/329cd9271e624c80af808104e6ef6701@uni-hamburg.de/f9c9bcb89431435e932e9c7c778344af4425329249797584863/calendar.ics`
 
 ### Printing
 
