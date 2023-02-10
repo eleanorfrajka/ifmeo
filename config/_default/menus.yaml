@@ -17,7 +17,7 @@ main:
     url: category/data
     weight: 35
   - name: Group
-    url: https://www.ifm.uni-hamburg.de/en/workareas/experimental/groupmembers.html
+    url: people
     weight: 40
   - name: Manual
     url: manual
