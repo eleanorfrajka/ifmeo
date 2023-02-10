@@ -46,6 +46,8 @@ slides: ""
 
 **This page is a placeholder**, and content updates are underway.
 
-It currently contains a list of datasets collected during the maintenance of the DS2 mooring, and nearby hydrographic cruises (collected by UHH and on related projects), listed below in the **Publications** list.  If you notice any are missing, please [let me know](mailto:eleanor.frajka@uni-hamburg.de).
+It currently contains a list of datasets collected during the maintenance of the DS2 mooring, and nearby hydrographic cruises (collected by UHH and on related projects), listed below in the **Publications** list. More generally, the CTD data (cruises and moorings) can generally be found on [PANGAEA](pangaea.de), while the transport data are on the OceanSITES website [GS ridge](http://www.oceansites.org/tma/gsr.html).  
+
+If you notice any are missing, please [let me know](mailto:eleanor.frajka@uni-hamburg.de).
 
 
