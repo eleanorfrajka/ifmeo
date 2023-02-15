@@ -71,5 +71,12 @@ header:
 - Phone management - https://4940428389540.phones.voicecoresystem.de/ - change to your phone number.
 
 
+### Templates
 
+- [Better Scientific Poster](https://osf.io/ef53g/) - this is a poster template (powerpoint) that really highlights your one key result.  
 
+### Poster printing at CEN
+
+- [Poster printing at CEN](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster.html) - cannot send directly to the printer - fill out the form, and note - people are not there everyday so best to also call.  Poster pickup is in DKRZ (Bu45a), standard roll width of 90.4 cm (35.6").  Fabric is possible.  
+
+- [UHH standard templates](https://www.kus.uni-hamburg.de/themen/oeffentlichkeitsarbeit/corporate-design/vorlagen/plakate.html)

@@ -141,8 +141,6 @@ To share your Outlook calendar with a person(s) at UHH who also uses Outlook, yo
 
 To share your Outlook calendar with anyone, you can 'publish' it.  This option can only be set up using Outlook on the web, [OWA](https://exchange.uni-hamburg.de/owa).  After logging in and selecting 'Calendar' (rather than 'Mail'), you go to Settings (gear icon in top right), then 'Options' from the dropdown menu, then 'Calendar > Shared calendars > Calendar publishing'.  I chose 'Availability only', and it then generates two links for you which can be 'subscribed to' by other people in whatever calendar application they use, or on the web.
 
-- Eleanor's availability on the web: [https://exchange.uni-hamburg.de/owa/calendar/329cd9271e624c80af808104e6ef6701@uni-hamburg.de/f9c9bcb89431435e932e9c7c778344af4425329249797584863/calendar.html](https://exchange.uni-hamburg.de/owa/calendar/329cd9271e624c80af808104e6ef6701@uni-hamburg.de/f9c9bcb89431435e932e9c7c778344af4425329249797584863/calendar.html)
-- Eleanor's calendar * .ics link: `https://exchange.uni-hamburg.de/owa/calendar/329cd9271e624c80af808104e6ef6701@uni-hamburg.de/f9c9bcb89431435e932e9c7c778344af4425329249797584863/calendar.ics`
 
 ### Printing
 
