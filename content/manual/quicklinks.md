@@ -35,6 +35,11 @@ header:
 - [OWA](https://exchange.uni-hamburg.de/owa) - login with B-Kennung
 - [EPOC mailbox](https://exchange.uni-hamburg.de/owa/epoc-admin@uni-hamburg.de) - Eleanor/Kaja only
 
+### Code for IFMEO group (git)
+- [Moorings](https://gitlab.rrz.uni-hamburg.de/ifmeo/moorings) - you may need to create an account and ask to join ifmeo
+- [Data inventory](https://gitlab.rrz.uni-hamburg.de/ifmeo/inventory) - Code to create inventories/maps of data
+
+
 ### Links to share
 - [Directions to Bu53](https://www.ifm.uni-hamburg.de/en/institute/contact-map.html) 
 - [IFM webpage](https://www.ifm.uni-hamburg.de/en/institute.html)
