@@ -40,6 +40,13 @@ header:
 - [Data inventory](https://gitlab.rrz.uni-hamburg.de/ifmeo/inventory) - Code to create inventories/maps of data
 
 
+### Internal hiring links
+- [KUS portal - sharepoint](https://sharepoint.uni-hamburg.de/anwendungen/personal/SitePages/Stellenbesetzungsanträge.aspx)
+- [Shibboleth](http://shibboleth.b-ite.com)
+
+### Moodle for teaching
+- [Moodle](https://lernen.min.uni-hamburg.de/my/)
+
 ### Links to share
 - [Directions to Bu53](https://www.ifm.uni-hamburg.de/en/institute/contact-map.html) 
 - [IFM webpage](https://www.ifm.uni-hamburg.de/en/institute.html)
