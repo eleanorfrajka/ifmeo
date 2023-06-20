@@ -37,10 +37,10 @@ On the university-side of Bundesstr. 53, we have:
 - 2nd floor: Experimental Oceanography and Sea Ice groups (Eleanor Frajka-Williams, Dirk Notz)
 - 3rd floor: Climate modelling group (Johanna Baehr)
 - 4th floor: Theoretical Oceanography group (Carsten Eden)
-- Geomatikum: Additional offices/labs for Experimental Oceanography on 3rd floor (Martin Gade) and 4th floor (Andreas Welsch)
+- Geomatikum: Additional offices/labs for Experimental Oceanography on the 4th floor (Andreas Welsch)
 
 On the second floor, we have
-- A seminar/meeting room (253): Equipped with teleconference system, projector, and conference table.  Xisca has a key.  Availability and booking can be checked by contacting Xisca (or Maite - 1st floor, Martina - 4th floor).  Larger seminars/meetings can be held in 022/23 on the ground floor (capacity 60-70 persons) but are often booked during term-time for teaching.
+- A seminar/meeting room (253): Equipped with teleconference system, projector, and conference table.  There is a keycode (group leaders) or Francisca has a key.  Availability and booking can be checked by contacting Francisca (or Maite - 1st floor, Martina - 4th floor).  Larger seminars/meetings can be held in 022/23 on the ground floor (capacity 60-70 persons) but are often booked during term-time for teaching.
 - Shared kitchen, equipped with coffee machine, kettle, fridge, dishwasher. 
     - The coffee machine free for all to use.  Thomas Wasilewski can advise on operation/cleaning.  Generally, turn on and press button on the right next to a single cup. If usual coffee drinkers occasionally bring a bag of beans to re-supply, then we can keep it as free to use.  
     - Dishwasher. Please empty the dishwasher when you see it needs it.  Cleaning staff do not do this for us.
@@ -56,20 +56,22 @@ We are affiliated with the Cluster of Excellence [CLICCS - Climate, Climatic Cha
 
 ## Planning
 
-Latest [UHH info on Corona/Covid19](https://www.uni-hamburg.de/en/newsroom/intern/2020/0323-auswirkungen-mitarbeitende.html).  At the moment, restrictions are light (with the exception of the requirement to wear medical masks on public transport).
+Latest [UHH info on Corona/Covid19](https://www.uni-hamburg.de/en/newsroom/intern/2020/0323-auswirkungen-mitarbeitende.html).  At the moment, no restrictions, but check for updates.
 
 ### Meetings within the group 
 
-- Weekly group meetings (Thursdays 1pm in 253)
-- ~Fortnightly 1-1 meetings with Eleanor (use [calendly](http://calendly.com/eleanorfrajka) to schedule, or let Eleanor/Xisca know if none of the times work for you.)
+- Weekly group meetings (SuSe23 - Thursdays 3pm in 253, changes each semester)
+- ~Fortnightly 1-1 meetings with Eleanor (use [calendly](http://calendly.com/eleanorfrajka) to schedule, or let Eleanor/Francisca know if none of the times work for you.)
 
 Weekly meetings will be likely change in time by semester, due to teaching/classes and other conflicts.
 
-The university calendar can be found [here](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienverlauf/semestertermine.html).
+The university calendar can be found [here](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienverlauf/semestertermine.html) with semester breaks and teaching terms.
 
 ### Seminars 
 
 Lots of seminars are on in the Institut, as well as dissertation talks by MSc and PhD students.
+
+*Specific timings may vary, so check the links below for up-to-date information.*
 
 Seminars can be found on the [MPIMET seminar page](https://mpimet.mpg.de/en/communication/seminars):
 - Wednesdays at 13:30 are the Joint Seminar (often in-house)
@@ -154,7 +156,7 @@ u-nummer items: License may need to be added for individual access to Confluence
 
 #### Mattermost
 
-Create account on Mattermost: https://mattermost.cen.uni-hamburg.de (username: *firstname.lastname*@uni-hamburg.de, password: pick a new one).  You will then need to join the ifmeo Mattermost team.  (Ask Eleanor to add you.)
+Create account on Mattermost: https://mattermost.cen.uni-hamburg.de (username: *firstname.lastname*@uni-hamburg.de, password: pick a new one).  You will then need to join the ifmeo Mattermost team.  (Ask Eleanor or Thomas to add you.)  There is a Mattermost desktop and mobile client.
 
 #### ownCloud
 
@@ -197,9 +199,11 @@ You can find available software at the [RRZ software list](https://www.rrz.uni-h
 
 #### Teaching platforms
 - OpenOlat: https://www.openolat.uni-hamburg.de/dmz/ (login with B-kennung)
+- MinMoodle: https://lernen.min.uni-hamburg.de/login/index.php (login with B-kennung)
+- IfmWiki: https://wiki.cen.uni-hamburg.de/ifm/SeePrakt?action=login (ask Martin to add you if needed))
 
 #### Phone management
-- You can configure your desk phone to e.g. forward to your mobile [https://4940428389540.phones.voicecoresystem.de/](https://4940428389540.phones.voicecoresystem.de/).  Note: this is Eleanor's number.  Change the number to your office phone number.  You will need a password (ask Xisca).
+- You can configure your desk phone to e.g. forward to your mobile [https://4940428389540.phones.voicecoresystem.de/](https://4940428389540.phones.voicecoresystem.de/).  Note: this is Eleanor's number.  Change the number to your office phone number.  You will need a password (ask Francisca).
 
 #### Adding publications on UHH Pure "FIS" system
 
@@ -210,11 +214,9 @@ You need to first [Register](https://www.edit.fis.uni-hamburg.de/) for the servi
 
 ## Safety 
 
-First aid kit in kitchen (lower right cabinet).  Dagmar Hainbucher is the first aid representative.  When supplies are used, let her/Xisca know.
+First aid kit in kitchen (lower right cabinet).  Dagmar Hainbucher is the first aid representative until the end of 2023.  When supplies are used, let her/Francisca know.
 
-Office furniture: For changes to furniture etc, check with Francisca.  There is furniture in the basement that can be swapped out.
-
-
+Office furniture: For changes to furniture etc, check with Francisca.  There is a limited selection of furniture in the basement that can be swapped out.
 
 ## University info
 
@@ -225,7 +227,7 @@ Useful info about purchasing, travel, human resources: https://www.kus.uni-hambu
 
 ## Working at IfM - General information
 
-There is an intro document available from Xisca with the sections:
+There is an intro document available from Francisca with the sections:
 - Absences (sickness, vacation, work travel)
 - Room booking requests
 - Letterboxes/pigeon holes in room 136
@@ -247,9 +249,9 @@ with attachments (*we should put these in a shared read-only owncloud folder*)
 - Recommended format for [Email signatures](https://www.kus.uni-hamburg.de/themen/oeffentlichkeitsarbeit/corporate-design/vorlagen/e-mail-signatur.html) at UHH
 - UHH recommended font for official things [TheSans](https://www.kus.uni-hamburg.de/themen/oeffentlichkeitsarbeit/corporate-design/hausschrift.html).  If you have Mac, you'll need to 'order' the font to be sent by e-mail.
 - Core working hours at UHH: M-Th from 9am-3pm and Friday from 9am-2pm.  Flexible working is supported.  More details for University-wide guidance are [here](https://www.kus.uni-hamburg.de/en/themen/personalservice/rund-um-beschaeftigung/dienst-arbeitszeit/dienst-arbeitszeit-allgemein.html) 
-- Vacation/leave: University practice is to request vacation leave from Eleanor using a form (available from Xisca) who will then collate requests. University guidance is [here](https://www.kus.uni-hamburg.de/en/themen/personalservice/rund-um-beschaeftigung/urlaub-beurlaubung.html).
-- Timesheets for EU projects: timesheets need to be filled out.  Kaja has these for EPOC.  Xisca will have these for TERIFIC.
-- Travel costs: there is a form, please ask Xisca.
+- Vacation/leave: University practice is to request vacation leave from Eleanor using a form (available from Francisca) who will then collate requests. University guidance is [here](https://www.kus.uni-hamburg.de/en/themen/personalservice/rund-um-beschaeftigung/urlaub-beurlaubung.html).
+- Timesheets for EU projects: timesheets need to be filled out.  Kaja has these for EPOC.  Francisca will have these for TERIFIC.
+- Travel costs: there is a form, please ask Francisca.
 
 Commonly used forms can be found on owncloud: ask to be shared the folder.
 
