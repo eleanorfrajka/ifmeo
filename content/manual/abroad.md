@@ -128,7 +128,7 @@ Bikes are a great way to get around in Hamburg.  There are a lot of dedicated bi
 Transit in Hamburg is very good.  You can buy tickets at metro stops using cash or card, or download the app (strongly recommended for repeat use since it gives you a 7% discount).
 
 
-The [HVV app](https://www.hvv.de/de/hvv-app) can get you going on public transport.  You just need to sign up, link a payment method, and then can pay for your ticket.  There are short tickets (€1.77/ride, in the app which includes a 7% discount) and longer tickets, depending on how many zones  you cross.  For starting out, just enter your beginning and end destinations (either the street address or the metro stops if you know them) and it will compute for you the correct ticket.
+The [HVV app](https://www.hvv.de/de/hvv-app) can get you going on public transport.  You just need to sign up, link a payment method, and then can pay for your ticket.  There are short tickets (€1.77/ride, in the app which includes a 7% discount) and longer tickets, depending on how many zones  you cross.  For starting out, just enter your beginning and end destinations (either the street address or the metro stops if you know them) and it will compute for you the correct ticket.  Note, the fine for travelling without a ticket is ~€60.
 
 On the weekend, or after 9am, an all-day ticket costs something under €7 (and children aged 6-14 ride free).  On the weekend or after 9am on weekdays, the group tickets are ~€13 and can be used for up to 5 people travelling together (adult or children).  Kids under 6 are always free. 
 
