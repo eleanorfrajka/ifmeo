@@ -132,4 +132,4 @@ The [HVV app](https://www.hvv.de/de/hvv-app) can get you going on public transpo
 
 On the weekend, or after 9am, an all-day ticket costs something under €7 (and children aged 6-14 ride free).  On the weekend or after 9am on weekdays, the group tickets are ~€13 and can be used for up to 5 people travelling together (adult or children).  Kids under 6 are always free. 
 
-The University also offers a subscription (Profiticket) which was €114/mo but will likely soon be €49/mo.
+The University also offers a subscription (Profiticket) or the Deutschland ticket is now €49/mo (purchase in HVV Switch app), pro-rated for the first month if you start mid-month, otherwise runs with the calendar month.  Can be cancelled (anytime?).  
