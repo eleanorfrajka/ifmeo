@@ -30,7 +30,7 @@ header:
 
 ## Where are we?
 
-Physically, we are located in Bundesstr. 53 [Directions](https://www.ifm.uni-hamburg.de/en/institute/contact-map.html) on the 2nd floor (as well as some offices/labs on the 3rd and 4th floor of the Geomatikum). The building (Bundesstr. 53) is normally locked on the weekend.  Access can be granted by security guards on the ground floor of the Geomatikum (tall brown building).
+Physically, we are located in Bundesstr. 53 [(Directions)](https://www.ifm.uni-hamburg.de/en/institute/contact-map.html) on the 2nd floor (as well as some offices/labs on the 3rd and 4th floor of the Geomatikum). The building (Bundesstr. 53) is normally locked on the weekend.  Access can be granted by security guards on the ground floor of the Geomatikum (tall brown building).
 
 On the university-side of Bundesstr. 53, we have:
 - 1st floor: Data Assimilation and Remote Sensing group (Detlef Stammer)
