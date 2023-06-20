@@ -44,6 +44,10 @@ header:
 - [KUS portal - sharepoint](https://sharepoint.uni-hamburg.de/anwendungen/personal/SitePages/Stellenbesetzungsanträge.aspx)
 - [Shibboleth](http://shibboleth.b-ite.com)
 
+### Internal accounts linnks
+- [About: Account statements](https://www.kus.uni-hamburg.de/en/themen/geld-und-konto/kontoauszug/informationen-kontoauszug.html) - with some explainers and who to contact.
+- [Kontoauszug](https://sharepoint.uni-hamburg.de/anwendungen/sap-berichtswesen/SitePages/Homepage.aspx) on sharepoint - with projects under Drittmittell PSP-Elemente, other in Sonstige PSP-Elemente
+
 ### Moodle for teaching
 - [Moodle](https://lernen.min.uni-hamburg.de/my/)
 
