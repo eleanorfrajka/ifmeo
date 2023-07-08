@@ -85,6 +85,12 @@ Note that school holidays in Germany are at all different times (intentionally, 
 The university has a service for newly appointed professors and their [website](https://www.kus.uni-hamburg.de/en/themen/berufungen/neuberufene/service.html) has a lot of useful information.
 
 
+## Health insurance
+
+Most people are on public health insurance in Germany.  However, it is not automatic.  You do need to register with a company providing insurance, for example [TK](https://www.tk.de/en/tk-membership/become-a-member-2037070?tkmcg=30998037554_634110088065&tkkwg=e_30998037554_tk+insurance&wt_cc1=k%5Btk+insurance%5Dm%5Be%5Dn%5Bg%5Dc%5B634110088065%5Dp%5B%5Dd%5Bc%5Da%5B30998037554%5Dt%5Bkwd-313983497245%5D&gclid=Cj0KCQjwkqSlBhDaARIsAFJANkixR3XJqqYWutj5mzHL1JbxacvwvRAJpb96MJ9Bb-63DU8Gmed3KCkaAghaEALw_wcB&tkcm=ab).
+
+Once registered you will receive a health insurance card in the mail which is what you need to take to the doctor, etc.
+
 ## Finding accommodation
 
 This may be one of the trickiest parts of moving to Hamburg.
