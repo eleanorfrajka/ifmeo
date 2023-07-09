@@ -156,7 +156,7 @@ u-nummer items: License may need to be added for individual access to Confluence
 
 #### Mattermost
 
-Create account on Mattermost: https://mattermost.cen.uni-hamburg.de (username: *firstname.lastname*@uni-hamburg.de, password: pick a new one).  You will then need to join the ifmeo Mattermost team.  (Ask Eleanor or Thomas to add you.)  There is a Mattermost desktop and mobile client.
+Create account on Mattermost: https://mattermost.cen.uni-hamburg.de (username: *firstname.lastname*@uni-hamburg.de, password: pick a new one).  You will need to be invited to join the ifmeo Mattermost team. (Ask Eleanor or Thomas to add you.)  There is a Mattermost desktop and mobile client.
 
 #### ownCloud
 
