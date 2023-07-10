@@ -146,7 +146,7 @@ To share your Outlook calendar with anyone, you can 'publish' it.  This option c
 
 ### Printing
 
-- **Adding CEN/IfM printers.**  Instructions are [here](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing.html) (2nd floor printers are: z0251-c1, z0251-c3)
+- **Adding CEN/IfM printers.**  Instructions are [here](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing.html) (2nd floor printers are: z0251-c1, z0251-c3.  You will need these printer names when following the instructions.)  When asked to login, use your u-nummer and password.  You may also need to be connected to the VPN for printing to work.
 
 - **University printers.** University printers are accessed using a CopyCard.  This is not essential, but can be helpful when printing in another building, or if you have a large amount of copying to do.  University guidance is [here](https://www.rrz.uni-hamburg.de/services/computerarbeitsplaetze/daten/pdf-dateien/druckberechtigung-zurueckgeben.pdf) 
 
