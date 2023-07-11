@@ -188,7 +188,9 @@ If you're involved in the EPOC project, then also
 
 You can find available software at the [RRZ software list](https://www.rrz.uni-hamburg.de/services/software/alphabetisch.html).
 
-- Zoom.  It can be installed using the [RRZ service portal](https://www.rrz.uni-hamburg.de/beratung-und-kontakt/rrz-serviceportal.html).  You can configure your account [here](https://uni-hamburg.zoom.us)
+- Zoom.  It can be installed using the [RRZ service portal](https://www.rrz.uni-hamburg.de/beratung-und-kontakt/rrz-serviceportal.html).  *You need to have the VPN running if you're off-campus.*   You can configure your account [here](https://uni-hamburg.zoom.us)
+
+- Sophos antivirus (for Macs - PCs are likely fully-managed).  Request the application in the [RRZ service portal](https://rrz-serviceportal.uni-hamburg.de/wm/app-SelfServicePortal).  *You need to have the VPN running if you're off-campus.*  Navigate to software (note you can put your portal in English).  Then add the service "SRV03298 - RRZ Sophos Intercept X Lizenzantrag - RRZ Betreuungsbereich" (to find it,  you can search for SRV03298 or Sophos) to the shopping cart and then send it. You will then receive an email with the request to confirm the license and terms of use in the service portal. **After confirmation**, you will receive an email with the access data for the installation sources.  Installation instructions are [here](https://www.rrz.uni-hamburg.de/services/sicherheit/viren/sophos-intercept-x/installation-intercept-x-macos.html) in German.
 
 ### Other optional items
 
