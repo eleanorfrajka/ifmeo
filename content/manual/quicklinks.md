@@ -35,31 +35,53 @@ header:
 - [OWA](https://exchange.uni-hamburg.de/owa) - login with B-Kennung
 - [EPOC mailbox](https://exchange.uni-hamburg.de/owa/epoc-admin@uni-hamburg.de) - Eleanor/Kaja only
 
-### Code for IFMEO group (git)
+## Coding
+
+### Gitlab for IFMEO group (git)
 - [IFMEO group](https://gitlab.rrz.uni-hamburg.de/ifmeo) - you may need to create an account and ask to join ifmeo
 - [Moorings](https://gitlab.rrz.uni-hamburg.de/ifmeo/moorings) - code to read Mooring data directories (as currently existing on Laufwerk ifmro) and create metadata files/processing into netcdf.
 - [Data inventory](https://gitlab.rrz.uni-hamburg.de/ifmeo/inventory) - Code to create inventories/maps of data
 
+### IFMEO project on DKRZ-Levante
+
+- 1381 Experimental Oceanography [https://luv.dkrz.de/projects/1381/](https://luv.dkrz.de/projects/1381/)
+
+
+## Printing
 ### Poster printing
 - [CEN poster printing](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster.html) can be done by uploading a file which will then be printed and can be picked up in the hallway of DKRZ building (Bu45a) on the ground floor next to the helpdesk room 17.
 
 - [CEN poster printing - form (En)](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster/formular.html)
 
+## Hiring
 
 ### Internal hiring links
 - [KUS portal - sharepoint](https://sharepoint.uni-hamburg.de/anwendungen/personal/SitePages/Stellenbesetzungsanträge.aspx)
 - [Shibboleth](http://shibboleth.b-ite.com)
 
+## Finance
+
 ### Internal accounts linnks
 - [About: Account statements](https://www.kus.uni-hamburg.de/en/themen/geld-und-konto/kontoauszug/informationen-kontoauszug.html) - with some explainers and who to contact.
 - [Kontoauszug](https://sharepoint.uni-hamburg.de/anwendungen/sap-berichtswesen/SitePages/Homepage.aspx) on sharepoint - with projects under Drittmittell PSP-Elemente, other in Sonstige PSP-Elemente
 
+## Teaching
+
+### University calendar
+- [University calendar](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienverlauf/semestertermine.html)
+
+
 ### Moodle for teaching
 - [Moodle](https://lernen.min.uni-hamburg.de/my/)
 
-### IFMEO project on DKRZ-Levante
+### OpenOlat (For Messmethoden)
+- [OpenOlat](https://www.openolat.uni-hamburg.de/dmz/)
 
-- 1381 Experimental Oceanography [https://luv.dkrz.de/projects/1381/](https://luv.dkrz.de/projects/1381/)
+
+### Wiki (for SeePraktikum)
+- [SeePraktikum](https://wiki.cen.uni-hamburg.de/ifm/SeePrakt) - if you need access, ask Martin
+- [Messmethoden](https://wiki.cen.uni-hamburg.de/ifm/MessFern_V) - if you need access, ask Martin
+
 
 ### Links to share
 - [Directions to Bu53](https://www.ifm.uni-hamburg.de/en/institute/contact-map.html) 
@@ -84,11 +106,6 @@ header:
 - [Joint seminars with MPIM](https://mpimet.mpg.de/en/communication/seminars)
 - [TRR181 seminars](https://www.trr-energytransfers.de/events)
 
-### Teaching
-- [OpenOlat](https://www.openolat.uni-hamburg.de/dmz/)
-- [SeePraktikum](https://wiki.cen.uni-hamburg.de/ifm/SeePrakt) - if you need access, ask Martin
-- [Messmethoden](https://wiki.cen.uni-hamburg.de/ifm/MessFern_V) - if you need access, ask Martin
-- [University calendar](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienverlauf/semestertermine.html)
 
 
 ### Online management
