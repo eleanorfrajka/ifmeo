@@ -40,6 +40,8 @@ header:
 - [Moorings](https://gitlab.rrz.uni-hamburg.de/ifmeo/moorings) - code to read Mooring data directories (as currently existing on Laufwerk ifmro) and create metadata files/processing into netcdf.
 - [Data inventory](https://gitlab.rrz.uni-hamburg.de/ifmeo/inventory) - Code to create inventories/maps of data
 
+### Poster printing
+- [CEN poster printing](https://www.cen.uni-hamburg.de/facilities/cen-it/printing/poster/formular.html) - there is a form to fill out.  Pickup is at the DKRZ building (I think).
 
 ### Internal hiring links
 - [KUS portal - sharepoint](https://sharepoint.uni-hamburg.de/anwendungen/personal/SitePages/Stellenbesetzungsanträge.aspx)
