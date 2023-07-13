@@ -41,7 +41,10 @@ header:
 - [Data inventory](https://gitlab.rrz.uni-hamburg.de/ifmeo/inventory) - Code to create inventories/maps of data
 
 ### Poster printing
-- [CEN poster printing](https://www.cen.uni-hamburg.de/facilities/cen-it/printing/poster/formular.html) - there is a form to fill out.  Pickup is at the DKRZ building (I think).
+- [CEN poster printing](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster.html) can be done by uploading a file which will then be printed and can be picked up in the hallway of DKRZ building (Bu45a) on the ground floor next to the helpdesk room 17.
+
+- [CEN poster printing - form (En)](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster/formular.html)
+
 
 ### Internal hiring links
 - [KUS portal - sharepoint](https://sharepoint.uni-hamburg.de/anwendungen/personal/SitePages/Stellenbesetzungsanträge.aspx)
