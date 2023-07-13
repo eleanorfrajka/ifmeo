@@ -48,8 +48,10 @@ header:
 
 
 ## Printing
-### Poster printing
+### Poster printing at CEN
 - [CEN poster printing](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster.html) can be done by uploading a file which will then be printed and can be picked up in the hallway of DKRZ building (Bu45a) on the ground floor next to the helpdesk room 17.
+
+Note people are not there everyday so it's best to call.  Standard roll width of 90.4 cm (35.6").  Fabric is possible.
 
 - [CEN poster printing - form (En)](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster/formular.html)
 
@@ -83,18 +85,25 @@ header:
 - [Messmethoden](https://wiki.cen.uni-hamburg.de/ifm/MessFern_V) - if you need access, ask Martin
 
 
-### Links to share
+### Links to share to colleagues
 - [Directions to Bu53](https://www.ifm.uni-hamburg.de/en/institute/contact-map.html) 
 - [IFM webpage](https://www.ifm.uni-hamburg.de/en/institute.html)
 - [Experimental Oceanography group - IfM](https://www.ifm.uni-hamburg.de/en/workareas/experimental.html)
 - [Experimental Oceanography group - external](https://www.ifm.uni-hamburg.de/en/workareas/experimental.html)
 
-### IT help
+## Other IT help
+
+### Help (Uni)
 - [RRZ](https://www.rrz.uni-hamburg.de)
 - [RRZ Service Portal](https://rrz-serviceportal.uni-hamburg.de)
+
+### Help (Cen)
 - [CEN IT](https://www.cen.uni-hamburg.de/en/facilities/cen-it.html)
 
-### Online tools
+### Help (IFMEO)
+- We have a 'Help' channel on mattermost
+
+## Online tools
 - [Mattermost - CEN](https://mattermost.cen.uni-hamburg.de/) - login with username/password
 - [Confluence - CEN](https://collaboration.cen.uni-hamburg.de/) 
 - [OwnCloud - CEN](https://owncloud.cen.uni-hamburg.de/) - (username: *firstname.lastname*, password: u-nummer password)
@@ -114,12 +123,10 @@ header:
 - Phone management - https://4940428389540.phones.voicecoresystem.de/ - change to your phone number.
 
 
-### Templates
+## Templates
 
+### Poster templates
 - [Better Scientific Poster](https://osf.io/ef53g/) - this is a poster template (powerpoint) that really highlights your one key result.  
 
-### Poster printing at CEN
-
-- [Poster printing at CEN](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster.html) - cannot send directly to the printer - fill out the form, and note - people are not there everyday so best to also call.  Poster pickup is in DKRZ (Bu45a), standard roll width of 90.4 cm (35.6").  Fabric is possible.  
-
+### UHH templates
 - [UHH standard templates](https://www.kus.uni-hamburg.de/themen/oeffentlichkeitsarbeit/corporate-design/vorlagen/plakate.html)
