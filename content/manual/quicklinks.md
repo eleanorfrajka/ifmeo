@@ -85,11 +85,34 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 - [Messmethoden](https://wiki.cen.uni-hamburg.de/ifm/MessFern_V) - if you need access, ask Martin
 
 
-### Links to share to colleagues
+## Useful links to share to colleagues
+
+### Directions to our building
 - [Directions to Bu53](https://www.ifm.uni-hamburg.de/en/institute/contact-map.html) 
+
+
+### IFM websites
 - [IFM webpage](https://www.ifm.uni-hamburg.de/en/institute.html)
 - [Experimental Oceanography group - IfM](https://www.ifm.uni-hamburg.de/en/workareas/experimental.html)
 - [Experimental Oceanography group - external](https://www.ifm.uni-hamburg.de/en/workareas/experimental.html)
+
+
+### Suggested hotels
+
+- YoHo
+
+YoHo Hamburg
+Moorkamp 5
+20357 HamburgTel. +49-40-2841910
+yoho@yoho-hamburg.de
+
+- Mercure
+
+Mercure Hotel Hamburg Mitte
+Schroederstiftstr. 3 
+20146 HAMBURG 
+Tel. +49 40 450690 
+h5394@accor.com
 
 ## Other IT help
 
@@ -111,16 +134,21 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 - [Zoom configuration - UHH](https://uni-hamburg.zoom.us)
 - [Publications archive](https://www.edit.fis.uni-hamburg.de/) - with [manual](https://www.fdm.uni-hamburg.de/fis/manual-cris-uhh.pdf)
 
-### Seminars
-- [Joint seminars with MPIM](https://mpimet.mpg.de/en/communication/seminars)
-- [TRR181 seminars](https://www.trr-energytransfers.de/events)
-
-
 
 ### Online management
 - [KUS portal](https://www.kus.uni-hamburg.de/) - login with B-Kennung
 - Managing lists.uni-hamburg.de - [RRZ Service portal](https://rrz-serviceportal.uni-hamburg.de)
 - Phone management - https://4940428389540.phones.voicecoresystem.de/ - change to your phone number.
+
+
+## Seminars
+
+- [Joint seminars with MPIM](https://mpimet.mpg.de/en/communication/seminars)
+- [TRR181 seminars](https://www.trr-energytransfers.de/events)
+
+
+
+
 
 
 ## Templates
