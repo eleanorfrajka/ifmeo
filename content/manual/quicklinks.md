@@ -55,13 +55,11 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 
 - [CEN poster printing - form (En)](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster/formular.html)
 
-## Hiring
+## Hiring & Finance
 
 ### Internal hiring links
 - [KUS portal - sharepoint](https://sharepoint.uni-hamburg.de/anwendungen/personal/SitePages/Stellenbesetzungsanträge.aspx)
 - [Shibboleth](http://shibboleth.b-ite.com)
-
-## Finance
 
 ### Internal accounts linnks
 - [About: Account statements](https://www.kus.uni-hamburg.de/en/themen/geld-und-konto/kontoauszug/informationen-kontoauszug.html) - with some explainers and who to contact.
@@ -74,11 +72,10 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 
 
 ### Moodle for teaching
-- [Moodle](https://lernen.min.uni-hamburg.de/my/)
+- [Moodle](https://lernen.min.uni-hamburg.de/my/) - the MIN faculty has a moodle.
 
 ### OpenOlat (For Messmethoden)
-- [OpenOlat](https://www.openolat.uni-hamburg.de/dmz/)
-
+- [OpenOlat](https://www.openolat.uni-hamburg.de/dmz/) - content management system at UHH.  Useful for online exams.
 
 ### Wiki (for SeePraktikum)
 - [SeePraktikum](https://wiki.cen.uni-hamburg.de/ifm/SeePrakt) - if you need access, ask Martin
@@ -117,14 +114,14 @@ h5394@accor.com
 ## Other IT help
 
 ### Help (Uni)
-- [RRZ](https://www.rrz.uni-hamburg.de)
-- [RRZ Service Portal](https://rrz-serviceportal.uni-hamburg.de)
+- [RRZ](https://www.rrz.uni-hamburg.de) - the central IT website.
+- [RRZ Service Portal](https://rrz-serviceportal.uni-hamburg.de) - this is where you can download software.
 
 ### Help (Cen)
-- [CEN IT](https://www.cen.uni-hamburg.de/en/facilities/cen-it.html)
+- [CEN IT](https://www.cen.uni-hamburg.de/en/facilities/cen-it.html) - Local IT help for Earth system science (IFM is part of this).
 
 ### Help (IFMEO)
-- We have a 'Help' channel on mattermost
+- We have a 'Help' channel on mattermost.  If you're on the IFMEO mattermost, but can't see the Help channel, then try the "+" sign in the top left, then "Browse Channels", then select "Help".
 
 ## Online tools
 - [Mattermost - CEN](https://mattermost.cen.uni-hamburg.de/) - login with username/password
@@ -145,9 +142,6 @@ h5394@accor.com
 
 - [Joint seminars with MPIM](https://mpimet.mpg.de/en/communication/seminars)
 - [TRR181 seminars](https://www.trr-energytransfers.de/events)
-
-
-
 
 
 
