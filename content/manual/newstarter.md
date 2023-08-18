@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 view: compact
-lastmod: 2023-01-14
+lastmod: 2023-08-17
 authors: ["FrajkaWilliams-Eleanor"]
 tags: ["newstart"]
 private: true
@@ -120,9 +120,10 @@ You will have a Benutzerkennung (University-wide) and a u-nummer (CEN-specific).
 
 - **Mobile access to e-mail**. This is an optional step, and not recommended (for better work/life balance).  However, if you want access to your email on a mobile device, you can find instructions here.  You should probably immediately disable all notifications and alerts. [https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration/smartphone.html](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/client-konfiguration/smartphone.html)
 
-Other items:
+Other useful-to-know:
 - If you get a * * SPAM * * notice when  you *send* mail (you may notice this if someone replies and you see the subject got flagged as spam), you can fix this -- apply for a personal certificate to authenticate your mail [here](https://www.rrz.uni-hamburg.de/services/sicherheit/pki/hilfe-fuer-persoenliche-zertifikate.html).
 - If you need to set up access to a group/functional shared mailbox, see the instructions [here](https://rrz-serviceportal.uni-hamburg.de/wm/app-SelfServicePortal/landing-page/14587d3e-63aa-e611-d99b-bc5ff41a70c0).
+- **Running out of space?** Use the Online archive feature, which will give you an extra 20GB of space in a sort of separate mailbox.  [Instructions translated to English](https://www.dropbox.com/scl/fi/83sobdfpx35lzgmbli3pn/manual-handout-richtlinienbasierte-onlinearchivierung-unter-outlook-und-owa-en.pdf?rlkey=oxjtortiqbr1g7u57zyvo0fvg&dl=0).
 
 ### Calendars
 
