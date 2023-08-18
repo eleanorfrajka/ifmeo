@@ -29,14 +29,34 @@ Topics include
 <hr>
 
 
-## WiSe2223
+## 2023/24
 
-- Messmethoden & Fernerkundung (Measurement methods and remote sensing)
+### Winter semester
+
+
+- Messmethoden & Fernerkundung / Measurement methods and remote sensing (Eleanor Frajka-Williams, Martin Gade)
+
+
+### Summer semester
+
+- Seagoing oceanography (Eleanor Frajka-Williams)
+- Seepraktikum (Martin Gade)
 
 <hr>
 
-## SuSe2223
+## 2022/23
 
-- Seepraktikum
-- Regionale Ozeanographie (Regional Oceanography)
+### Winter semester
+
+- Messmethoden & Fernerkundung (Measurement methods and remote sensing)
+
+
+### Summer semester
+
+- Seepraktikum (Martin Gade)
+- Coastal Remote Sensing (Martin Gade)
+- Regionale Ozeanographie (Eleanor Frajka-Williams)
+
+<hr>
+
 

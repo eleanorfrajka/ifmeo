@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2023-01-21T07:46:57.173962Z'
 publication_types:
-- '2'
+- '4'
 abstract: A unique feature of the Atlantic Ocean is the presence of regions in the
   Labrador Sea and Nordic Seas where surface water can convect and sink to deep levels.
   This process of deep water formation and the related northward transport of warm

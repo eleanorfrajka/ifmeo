@@ -27,15 +27,11 @@ The **Experimental Oceanography** group aims to advance our understanding of oce
 ### Active projects at IfM EO
 - [Explaining and Predicting the Ocean Conveyor (EPOC)](../project/epoc/)
 - [Denmark Strait Overflow transports](../project/dsow/)
-
-
-<hr>
-
-## Observational Methods
-
-
-### Active projects at IfM EO
 - [Targeted Experiment to Reconcile Increased Freshwater with Increased Convection (TERIFIC)](../project/terific/)
+
+### Collaborative projects
+- [Generation of the ocean's permanent pycnocline in the ice-covered Southern Ocean (PycnoGen)](https://gtr.ukri.org/projects?ref=EP%2FX025136%2F1)
+- [Resolving Biological carbon Export in the Labrador Sea (ReBELS)](https://gotw.nerc.ac.uk/list_split.asp?awardref=NE%2FV012797%2F1&cookieConsent=A)
 
 <hr>
 

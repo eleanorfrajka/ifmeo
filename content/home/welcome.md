@@ -19,3 +19,5 @@ design:
 <br>
 
 The **Experimental Oceanography** group at the Universität Hamburg, Institut für Meereskunde uses oceanographic measurements to advance our understanding of ocean dynamics and circulation in a changing climate.
+
+[EO on the Institute webpage](https://www.ifm.uni-hamburg.de/en/workareas/experimental.html)

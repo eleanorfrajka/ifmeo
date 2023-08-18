@@ -40,7 +40,7 @@ image:
 projects: []
 publishDate: '2023-01-21T07:46:58.886672Z'
 publication_types:
-- '6'
+- '4'
 abstract: ''
 publication: '*State of the Climate in 2010*'
 doi: 10.1175/1520-0477-92.6.S1

@@ -47,7 +47,7 @@ image:
 projects: []
 publishDate: '2023-01-21T07:46:58.082192Z'
 publication_types:
-- '6'
+- '4'
 abstract: ''
 publication: '*State of the Climate in 2012*'
 doi: 10.1175/2013BAMSStateoftheClimate.1
