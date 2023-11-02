@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 view: compact
-lastmod: 2023-01-22
+lastmod: 2023-11-02
 authors: ["FrajkaWilliams-Eleanor"]
 tags: []
 private: true
@@ -21,154 +21,106 @@ header:
   image: ""
 ---
 
-This document outlines the agreement made between the Student and Advisor for the undertaking of a dissertation research project. The purpose of the document is to clarify expectations. If anything herein conflicts with the University, Faculty or Academic programme requirements or guidelines, or those of the relevant courses, then those guidelines supersede what is written here. The agreement is open for discussion or revision by mutual agreement at any time during the project work.
+This document outlines the agreement made between the Student and Advisor for the undertaking of a dissertation research project at UHH. The purpose of the document is to clarify expectations. If anything herein conflicts with the University, Faculty or Academic programme requirements or guidelines, or those of the relevant courses, then those guidelines supersede what is written here. The agreement is open for discussion or revision by mutual agreement at any time during the project work.
 {{< toc >}}
 
+**Expectations of the Student:** The most important expectation to communicate is that you, the Student, should take ownership over your educational and research experience. From the choice of your Advisor, research project and through to degree completion, you carry the primary responsibility for your success.
+
+**Expectations of the Advisor:** The Advisor’s primary task is to facilitate your research and educational experience, to guide the Student in their research project and foster independent learning. The Advisor should promote conditions conducive to the Student’s research and intellectual growth, providing guidance on the progress of the research and the standards expected.
 
 
-
-## Getting started
-
-Previously, I'd used a 'Feeling Responsive' theme for Jekyll on Github, but this became cumbersome to keep up-to-date (too complicated).
-
-After googling for 'research group website', I found one I liked and followed their instructions:
-[How to Build Academic Website for Research Group in 2021](https://jedyang.com/post/how-to-build-academic-research-group-website-in-2021/)
-
-I didn't follow *all* the instructions, but stuck to:
-1. [Hugo](https://gohugo.io/) static web generator
-2. [Wowchemy](https://wowchemy.com/) research group template
-3. [Github](https://github.com/)
-4. [Netlify](https://www.netlify.com/)
-5. [Google domain](https://domains.google.com) - mostly because this is where I'd previously purchased a domain name.
-
-Some other examples for how-to are by [Ashis Saha](https://alorchhota.github.io/post/2021-01-26_personal_website/).
-
-## Implementation
-
-### Hugo, Wowchemy + Github
-
-I followed the [Hugo installation guide](https://gohugo.io/getting-started/installing/) which required installing [Homebrew](https://brew.sh/) on my Mac and then
-
-```
-brew install hugo
-```
-
-I also needed [Go](https://go.dev/doc/install).
-
-I then cloned the Wowchemy `Research group' theme onto my computer.  In that directory, I can run
-
-```
-hugo server
-```
-
-and my site shows up locally at ```localhost:1313``` (entered into the location bar of a browser window).  After making necessary changes, I use the Github desktop app to commit the changes, and then push to origin.  At this point, they become visible on the Netlify version of the website.
-
-### Basic updates
-
-All the basic customisation is given in [Hugo Site Customization](https://wowchemy.com/docs/getting-started/customization/) including:
-- Personalising the domain name: [Get Your Own Domain Name](https://wowchemy.com/docs/hugo-tutorials/domain/).  I had a google domain so I followed the instruction to link them on Netlify.
-- Adding a website icon.  I had a previou *favicon* so I followed the instructions for this.
-- Change the font to 'medium' from the default 'large'.  (The publications information became too hard to read otherwise.)
-- Shortening the website name in *config/_default/params.yaml* since it was too long for a mobile rendering of the website (website name was overlying the menu).
-- Left default colors *minimal* and fonts *native*
-- Updated the menu choices to my preferred option: "Research", "Teaching", "Publications", "Group" - but with the url pointing to the UHH website, "Manual" - where there is a new starter guide that I patterned after [E Wallace](https://ewallace.github.io/manual/newstart), and "News".  I'm still debating/figuring out how to add a "Data" menu patterned after "Publication" and possibly an "Events" menu which is forward-looking for upcoming events/talks (rather than "News" which is backwards).
-
-### Creating the publications list
-
-I started by using the command-line tool ([instruction here](https://wowchemy.com/docs/content/publications/))to create the publications directories from a "*.bib" file.  This required
-
-```
-pip3 install -U academic
-```
-Then importing my publications from the website main directory (GitHub/ifmeo) using
-```
-academic import --bibtex data/publications.bib
-```
-This is easiest if the *publications.bib* file already has the paper abstracts in it, as well as the doi number.  Otherwise, these can be added later but re-running this may overwrite the directories and you'll have to do all the manual edits again.
-
-This creates a subdirectory for each bibtex entry, where the naming convention is based on the citekeys.  Within each directory is an *index.md* file and a *cite.bib* file, where the citation can be downloaded, and the *index.md* contains a bunch of information about the publication.
-
-Manual edits to the *index.md* file that I found necessary were:
-- Change my author name to match the folder/username specified in the content/authors/ directories
-- Add tags, where various tags I found relevant for my work were "AMOC", "gliders", "Southern Ocean", "mesoscale", "submesoscale", "bottom pressure", "methods", "mixing", "Labrador Sea".  I'm not quite sure whether the names are case sensitive or not, but I needed to create the directory *content/tags/* with a subdirectory for each tag, like *content/tags/gliders* which contains an *_index.md* file where the title is changed to "Gliders".  This is the name that will appear in the Tag at the bottom of each publication, and it is case-sensitive/space-sensitive, etc.
-- In a few cases, I've added a featured.jpg to the directory for a publication
-- In some cases, adding the project name to the *projects: [projectname]* list if I had created a *content/project/projectname/* entry.
-- In some cases (*need to update all*) I've added the `url_pdf: ` to the header as well, for the URL where the publication is contained in an institutional archive (in case the reader doesn't have a subscription to the journal in question).
-
-#### More complex changes:
-
-I'd like to change the *publications_type* that is refereneced by each *content/publication/frajkawilliams-etal-2011* to also include a type for "Dataset" and "Grey literature".  At the moment, the list is
-```
-0 = Uncategorized
-1 = Conference paper
-2 = Journal article
-3 = Preprint / Working Paper
-4 = Report
-5 = Book 
-6 = Book section
-7 = Thesis
-8 = Patent
-```
-but I don't need the `Patent` item, and possibly not the `Uncategorized` option.  This appears editable in
-
-> **Modifying Publication Types**
->
-> To rename publication types, edit the associated pub_* values in your language pack. If your language pack hasn’t been updated recently, you can copy the latest options from the English language pack.
-
-To do this, I followed the instructions [here]() to download the English language pack into a new folder ```ifmeo/i18n/``` as ```ifmeo/content/en.yaml```.  Within this, I scrolled down to ```id: pub_patent``` and changed the translation to ```Dataset```.
-
-So my list is now
-```
-0 = Uncategorized
-1 = Conference paper
-2 = Journal article
-3 = Preprint / Working Paper
-4 = Report
-5 = Grey literature 
-6 = Book section
-7 = Thesis
-8 = Dataset
-```
-
-### Updating the website
-
-Updating the website can be done in the Github repository, in which case new changes need to be *fetched* and *pulled* to update the repository on my computer.  I don't use the more robust option specified by [Jed Yang's instructions](https://jedyang.com/post/how-to-build-academic-research-group-website-in-2021/).
-
-#### Adding a new publication
-
-I do this from the command line as ([instruction here](https://wowchemy.com/docs/content/publications/))
-```
-hugo new content/publication/<my-publication>
-```
-Then edit the contents of the *index.md* file.
-
-#### Adding a new dataset
-
-Again, as for publications, I do this from the command line as ([instruction here](https://wowchemy.com/docs/content/publications/))
-```
-hugo new content/publication/data-YYYY-ID
-```
-where all datasets start with ```data``` then the year the data end (for moorings from 2017-2018, use 2018) is the ```YYYY``` and the ID is some other identifying information: either the cruise information, like MSM21 for a Merian cruise 21, or project ```rapid``` or mooring name like ```DS2```.
+## It is the Student's responsibility to
 
 
-Then edit the contents of the *index.md* file.  Here, the publication type is 8 or ["8"], the category is ["data"] and if applicable, the project is ["dsow"] or ["rapid"] or ["terific"].  
-- Within the ```index.md``` file, the ```date: YYYY-MM-DDTHH:MM:SS``` must be entered in this format.  If only the year is known, then enter the year followed by ```2018-01-01T12:00:00```.  (The date can be adjusted to order datasets sequentially.)
-- The publication is the data centre holding the data, e.g. "British Oceanographic Data Centre" with ```publication_short: "BODC"``` or ```publication: PANGAEA``` or ```publication: SEANOE```.
-- The shortened abstract (```summary:```) should include the data type (e.g., moored CTD, hydrographic CTD) and date range of the data to nearest month and year.
-- Enter the ```url_dataset:``` if known.
+1. Grow intellectually, developing the skills and learning approaches necessary for the project;
 
-For datasets downloaded from PANGAEA, the bibtex citation information can also be downloaded to the publication folder, and then renamed to ```cite.bib```.
+2. Learn about all appropriate deadline dates and regulations associated with the degree
+requirements, and inform the Advisor of deadlines well in advance;
 
-*Later updates:* Add a map with the data location.  This can be a static map, screenshot from PANGAEA or similar.
+3. Complete research work and produce a dissertation that is their own work, reflecting a capacity
+for independent scholarship in the discipline;
+
+4. Conform to requirements and academic standards of the Faculty, Academic unit and degree
+program, including those pertaining to dissertation style, intellectual property, academic
+misconduct, and any relevant safety and/or workplace regulations;
+
+5. Meet regularly with the Advisor (or designate), and arrive prepared for all scheduled meetings;
+
+6. Recognise that the Advisor has other educational, research and service obligations;
+
+7. Request changes to regular meetings with 24 hours notice, when possible;
+
+8. Manage their own time, recognising that research often takes longer than expected;
+
+9. Take advantage of analysis, coding and research input from fellow students, PhD students and/or
+researchers, where applicable;
+
+10. At the end of the project, make available to the Advisor all original research materials (data files,
+dissertation file Word or tex format, original figures and analysis scripts), where appropriate;
+
+11. Consider and respond to advice and criticisms provided by the Advisor, in a timely manner.
+
+12. Be prepared to approach the Advisor and/or the course coordinator when any perceived problems
+or changes in circumstances could affect performance;
+
+##  It is the Advisor’s responsibility to
+
+1. Facilitate the Student’s intellectual growth and contribution to a field of knowledge;
+
+2. Ensure that the Student’s dissertation project is suitably aligned with the educational programme
+objectives and manageable in the time allocated;
+
+3. Assist the Student in developing their research interests, and help them modify the program when
+unforeseen problems arise;
+
+4. Establish a professional working relationship to guide the student in their independent project;
+
+5. Be open, honest and fair with the Student when providing feedback on academic performance;
+
+6. Be reasonably accessible to the Student via electronic communication or in person for consultation and discussion of the student’s academic progress and research problems;
 
 
-#### Adding a new person
+7. Provide 24 hours notice—when possible—when cancelling an appointment;
 
-This is explained in the [Hugo steps to customise a theme](https://wowchemy.com/docs/content/authors/) but I've modified it somewhat (not sure whether things will break later) to use lastname-firstname.
+8. Examine and make constructive suggestions for improvement on formal written work;
 
-```
-hugo new content/authors/lastname-firstname
-```
+9. Give ample notice of extended absences from campus, and make arrangements for the advising
+of the student when on extended absence from the campus;
 
+10. Make reasonable arrangements, within the norms appropriate to the discipline and limits of
+resources of the University, so that the research resources necessary for execution of the
+student’s dissertation are available;
 
+11. Give credit in an appropriate manner to Student contributions to scholarly activity, e.g.,
 
+    - Where the Student’s intellectual contribution to the work is small, e.g. in the case of routine work without an active role in experimental design, execution, or data analysis, the Student will be acknowledged but not as a co-author.
+
+    - Where the Student has made a substantive intellectual contribution to the work, but has not taken the lead role in design, execution and anaysis, the Student will be a co-author.
+
+    - Where the Student has had a major intellectual contribution to the work, and has led the design, execution and data analysis, the Student will be the lead author.
+
+    - No manuscript, abstract or poster will be submitted for consideration by a scholarly journal or meeting unless its content has been approved by all co-authors.
+
+See also, the EO group expectations.
+
+## Specifics (as of 2023)
+
+1. Regular meetings: I propose the following frequency and format of meetings:
+    - Bi-weekly (every other week) for 30 min, to be scheduled on a term basis. Frequency or duration may be changed by mutual agreement. During periods where the student plans to be otherwise occupied (i.e., limited progress anticipated), meetings should be deleted.
+    - Weekly group meetings of 1–1.5 hours, to be scheduled on a term basis. These will provide opportunities to discuss work in a wider group.
+
+2. Regular report of progress: In advance of regular meetings, please digitally share with me a progress report. This should be short (0.5–2 pages), include the date and given an outline of past plans, progress made and next steps in bullet format. The compilation of these reports are useful as a record of your progress through time. Name your file something sensible that promotes organisation, e.g.: *YYYYMMDD-Lastname-dissupdate.pdf*.  Suggested headings are:
+    - Action items from last meeting
+    - Aim of work since last meeting
+    - Progress since last meeting
+    - Next steps - which may include carried over action items from previous meetings
+  
+
+3. Feedback on written work: Normally, I will review each piece of formal written work in full draft
+format only once, i.e. not an introduction section one week, and a methods section another week. Normally, comments should be returned to the student within two weeks. I strongly recommend that we discuss an outline of planned writing prior to full format writing; outlines can be discussed multiple times.
+
+4. Scheduling: There are three options for scheduling meetings:
+    - In person during a meeting, we can pick future meetings or set up regular meetings;
+    - Using the http://calendly.com/eleanorfrajka link for group members;
+    - E-mailing Francisca Terrassa for a meeting (especially any meetings requiring participation of multiple people and therefore may involve iterations).
+    - Less reliable ways of scheduling meetings with me include e-mailing, messaging in Mattermost or catching me in the hallway. Note that I organise my meetings using the University outlook calendar, and meetings that do not appear in my calendar are liable to be forgotten.
