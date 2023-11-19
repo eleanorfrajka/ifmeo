@@ -1,5 +1,5 @@
 ---
-title: Seagoing Oceanography
+title: Teaching
 summary: Teaching by group members of the IfM EO.
 date: "2022-01-05"
 
@@ -7,6 +7,8 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
+
+view: compact
 
 weight: 1
 
@@ -27,36 +29,38 @@ Topics include
 - Research cruises. Occasionally, by arrangement -- *practical*
 
 <hr>
-
+{{< toc >}}
 
 ## 2023/24
 
-### Winter semester
+**Winter semester**
 
 
-- Messmethoden & Fernerkundung / Measurement methods and remote sensing (Eleanor Frajka-Williams, Martin Gade)
+- BSc Messmethoden & Fernerkundung / Measurement methods and remote sensing (Martin Gade, Eleanor Frajka-Williams): See <a href="https://wiki.cen.uni-hamburg.de/ifm/MessFern_V">Wiki webpage for course</a>
+- <a href="ozmess/">BSc Ozeanische Messuebungen / Ocean Measurement Exercises</a> (Frajka-Williams, Hainbucher, Welsch) - <span style="color:red">updated for 2024</span>
 
+**Summer semester**
 
-### Summer semester
-
-- Seagoing oceanography (Eleanor Frajka-Williams)
-- Seepraktikum (Martin Gade)
+- <a href="seaocean/">MSc Seagoing oceanography</a> (Eleanor Frajka-Williams) - <span style="color:red">new for 2024</span>
+- BSc Seepraktikum (Martin Gade) - See <a href="https://wiki.cen.uni-hamburg.de/ifm/SeePrakt">Wiki webpage for course</a>
+- BSc Regional Oceanography (Eleanor Frajka-Williams) - We will use the <a href="https://lernen.min.uni-hamburg.de/login/index.php">MIN-Moodle</a>
 
 <hr>
 
 ## 2022/23
 
-### Winter semester
+**Winter semester**
 
-- Messmethoden & Fernerkundung (Measurement methods and remote sensing)
+- Messmethoden & Fernerkundung / Measurement methods and remote sensing (Martin Gade, Eleanor Frajka-Williams, Dirk Notz)
 
-
-### Summer semester
+**Summer semester**
 
 - Seepraktikum (Martin Gade)
 - Coastal Remote Sensing (Martin Gade)
-- Regionale Ozeanographie (Eleanor Frajka-Williams)
+- Regionale Ozeanographie (Eleanor Frajka-Williams) - <span style="color:red">updated for 2023</span>
 
 <hr>
+
+## Course overview
 
 
