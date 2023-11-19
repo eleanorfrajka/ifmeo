@@ -1,6 +1,6 @@
 ---
 title: Coming from abroad
-summary: Group documentation.
+summary: A few starting points for folks coming to Germany from abroad, including digital translation tools, the school information center in Hamburg, insurance, finding accommodation, and getting around.  Most of these are specific to Hamburg, Germany.
 date: 2023-01-06
 
 reading_time: true  # Show estimated reading time?
@@ -9,11 +9,11 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 view: compact
 lastmod: 2023-01-14
-authors: ["FrajkaWilliams-Eleanor"]
+#authors: ["FrajkaWilliams-Eleanor"]
 tags: ["newstart"]
 private: true
 
-weight: 10
+weight: 200
 
 # Optional header image (relative to `assets/media/` folder).
 header:

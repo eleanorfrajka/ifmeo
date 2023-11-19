@@ -1,6 +1,6 @@
 ---
 title: New starter
-summary: Group documentation.
+summary: A collection of steps for getting started in the IfM Experimental Oceanography group - about computing at the university, in CEN, and in the group, printing, mailing lists, recommended software, and other tidbits.
 date: 2023-01-06
 
 reading_time: false  # Show estimated reading time?
@@ -8,8 +8,8 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 view: compact
-lastmod: 2023-08-17
-authors: ["FrajkaWilliams-Eleanor"]
+lastmod: 2023-11-19
+authors: []
 tags: ["newstart"]
 private: true
 

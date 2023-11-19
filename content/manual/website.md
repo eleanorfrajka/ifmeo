@@ -1,6 +1,6 @@
 ---
 title: Creating the website
-summary: Group documentation.
+summary: Some details about this website, how it was created, where it lives, etc, and how to make minor updates.
 date: 2023-01-06
 
 reading_time: false  # Show estimated reading time?
@@ -9,11 +9,11 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 view: compact
 lastmod: 2023-01-22
-authors: ["FrajkaWilliams-Eleanor"]
+#authors: ["FrajkaWilliams-Eleanor"]
 tags: []
 private: true
 
-weight: 100
+weight: 1000
 
 # Optional header image (relative to `assets/media/` folder).
 header:

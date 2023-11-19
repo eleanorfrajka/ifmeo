@@ -1,6 +1,6 @@
 ---
 title: Quicklinks
-summary: Group documentation.
+summary: A few quicklinks for where to find that thing on the Hamburg website (but with minimal explanation, so you mostly need to already know what you're looking for).
 date: 2023-01-06
 
 reading_time: false  # Show estimated reading time?
@@ -9,11 +9,11 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 view: compact
 lastmod: 2023-06-20
-authors: ["FrajkaWilliams-Eleanor"]
+authors: []
 tags: ["newstart"]
 private: true
 
-weight: 10
+weight: 20
 
 # Optional header image (relative to `assets/media/` folder).
 header:
