@@ -168,8 +168,9 @@ For datasets downloaded from PANGAEA, the bibtex citation information can also b
 This is explained in the [Hugo steps to customise a theme](https://wowchemy.com/docs/content/authors/) but I've modified it somewhat (not sure whether things will break later) to use lastname-firstname.
 
 ```
-hugo new content/authors/lastname-firstname
+hugo new content/authors/Lastname-Firstname
 ```
 
+Then, within the new folder, edit ```_index.md``` fixing the order of the name in title, adding  the role (e.g. PhD student, Technician, Research Scientist) and update the user_groups to 'Group'.
 
 

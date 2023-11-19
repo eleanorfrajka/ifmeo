@@ -48,7 +48,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9333-703X
-
+- icon: linkedin 
+  icon_pack: fab
+  link: https://fr.linkedin.com/in/elodie-duyck-53b58710a
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
