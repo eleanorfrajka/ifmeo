@@ -1,5 +1,5 @@
 ---
-title: BSc Ozeanische Messübung / Oceanic measurement exercises
+title: BSc Ozeanische Messübung (WiSe block course)
 summary: Practical lab- and field-based exercises in using oceanographic equipment to make measurements.
 date: "2023-11-19"
 

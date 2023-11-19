@@ -1,5 +1,5 @@
 ---
-title: MSc Seagoing Oceanography
+title: MSc Seagoing Oceanography (SuSe)
 summary: New course in seagoing oceanography (on dry land) for MSc students in the Ocean and Climate Physics degree program.  This is planned to be offered every other year.
 date: "2023-11-19"
 

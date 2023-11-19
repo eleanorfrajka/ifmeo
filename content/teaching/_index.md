@@ -36,28 +36,28 @@ Topics include
 **Winter semester**
 
 
-- BSc Messmethoden & Fernerkundung / Measurement methods and remote sensing (Martin Gade, Eleanor Frajka-Williams): See <a href="https://wiki.cen.uni-hamburg.de/ifm/MessFern_V">Wiki webpage for course</a>
-- <a href="ozmess/">BSc Ozeanische Messuebungen / Ocean Measurement Exercises</a> (Frajka-Williams, Hainbucher, Welsch) - <span style="color:red">updated for 2024</span>
+- BSc Messmethoden & Fernerkundung (Gade, Frajka-Williams): See <a href="https://wiki.cen.uni-hamburg.de/ifm/MessFern_V">Wiki webpage for course</a>
+- <a href="ozmess/">BSc Ozeanische Messübung</a> (Frajka-Williams, Hainbucher, Welsch) - <span style="color:red">updated for 2024</span>
 
 **Summer semester**
 
-- <a href="seaocean/">MSc Seagoing oceanography</a> (Eleanor Frajka-Williams) - <span style="color:red">new for 2024</span>
+- <a href="seaocean/">MSc Seagoing oceanography</a> (Frajka-Williams) - <span style="color:red">new for 2024</span>
 - BSc Seepraktikum (Martin Gade) - See <a href="https://wiki.cen.uni-hamburg.de/ifm/SeePrakt">Wiki webpage for course</a>
-- BSc Regional Oceanography (Eleanor Frajka-Williams) - We will use the <a href="https://lernen.min.uni-hamburg.de/login/index.php">MIN-Moodle</a>
+- BSc Regional Oceanography (Frajka-Williams) - We will use the <a href="https://lernen.min.uni-hamburg.de/login/index.php">MIN-Moodle</a>
 
 <hr>
 
-## 2022/23
+## Past offerings (since 2022)
 
 **Winter semester**
 
-- Messmethoden & Fernerkundung / Measurement methods and remote sensing (Martin Gade, Eleanor Frajka-Williams, Dirk Notz)
+- BSc Messmethoden & Fernerkundung (Gade, Frajka-Williams, Notz) in 2022/23
 
 **Summer semester**
 
-- Seepraktikum (Martin Gade)
-- Coastal Remote Sensing (Martin Gade)
-- Regionale Ozeanographie (Eleanor Frajka-Williams) - <span style="color:red">updated for 2023</span>
+- BSc Seepraktikum (Gade), in 2022/23
+- MSc Coastal Remote Sensing (Gade), in 2022/23
+- BSc Regionale Ozeanographie (Frajka-Williams) - <span style="color:red">updated for 2023</span>, in 2022/23
 
 <hr>
 
