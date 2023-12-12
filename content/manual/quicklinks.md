@@ -33,6 +33,7 @@ header:
 
 ### Email
 - [OWA](https://exchange.uni-hamburg.de/owa) - login with B-Kennung
+- [Online archive](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/exchange-onlinearchiv.html) - Running out of space in e-mail?  Archive online - [Handout (DE)](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/handouts/handout-richtlinienbasierte-onlinearchivierung-unter-outlook-und-owa.pdf) or [Handout (EN - using google translate, 12.12.2023)](https://www.dropbox.com/scl/fi/ed9z08ugdtzw7zzi9yw0o/handout-richtlinienbasierte-onlinearchivierung-unter-outlook-und-owa.pdf?rlkey=f3btok7puqzpiuram9qcwo48s&dl=0)
 - [EPOC mailbox](https://exchange.uni-hamburg.de/owa/epoc-admin@uni-hamburg.de) - Eleanor/Kaja only
 
 ## Coding
