@@ -3,7 +3,7 @@
 
 title: "DSOW observations"
 summary: "The Denmark Straits moorings have been maintained since 1996 by the Universität of Hamburg and Iceland."
-authors: []
+authors: [FrajkaWilliams-Eleanor, TraceKleeberg-Sunke, Sorge-Yves]
 tags: []
 categories: [project]
 date: 2023-01-05T22:33:07+01:00

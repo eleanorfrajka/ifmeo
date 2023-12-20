@@ -19,7 +19,11 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: ' Mean mixed-layer density anomaly for each profile (black) with the std devs (6) for the profile, calculated
+between the surface and 700 m, marked as a vertical bar for (a) sg015 and (b) sg014. Anomalies are calculated relative
+to u 5 3.58C, S 5 34.85, and s1 5 32.33 kg m23. Positive anomalies are less dense. Small std devs indicate a high degree 0
+ofverticalhomogeneity.Thetemperaturecontributiontodensityau isgivenbytheblackopencircle,andthesalinity 0
+contribution2bS bythegrayfilledcircle.Whenthesignsofthetemperatureandsalinitycontributionsareopposites, they are density compensating. When the sign of the temperature or salinity contribution is the same as the density anomaly, they are controlling the density.'
   focal_point: ''
   preview_only: false
 
@@ -28,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["terific"]
 publishDate: '2023-01-21T07:46:57.063593Z'
 publication_types:
 - '2'

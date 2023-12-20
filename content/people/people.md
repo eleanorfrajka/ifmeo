@@ -18,7 +18,7 @@ content:
   user_groups:
     - 'Principal Investigator'
     - Group
-    - Visitors
+    - Past Members
     - Alumni
 design:
   show_interests: false

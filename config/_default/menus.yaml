@@ -25,3 +25,6 @@ main:
   - name: News
     url: post
     weight: 60
+  - name: Contact
+    url: contact
+    weight: 100

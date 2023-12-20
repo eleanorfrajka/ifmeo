@@ -20,7 +20,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Frequency spectra of vertical water velocity. Profiles from entirely within the mixed layer (black) and the stratified ocean (gray) are shown. Dashed curves of the same color are spectra calculated using the original, untuned flight parameters. Note that the difference is only apparent in the stratified case.'
   focal_point: ''
   preview_only: false
 
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["terific"]
 publishDate: '2023-01-21T07:46:58.660167Z'
 publication_types:
 - '2'

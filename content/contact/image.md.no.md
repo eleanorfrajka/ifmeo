@@ -15,14 +15,14 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: contact.jpg
+    image: 
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['0px', '0', '0px', '0']
 advanced:
   css_class: fullscreen
 ---

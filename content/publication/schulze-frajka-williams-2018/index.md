@@ -19,7 +19,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'The probability of crossings per 100 km along the bound- ary is indicated by the size of the circles, with larger circles indi- cating a larger probability. The color shows the mean salinity of the crossings at each section.'
   focal_point: ''
   preview_only: false
 
@@ -28,7 +28,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["terific"]
 publishDate: '2023-01-21T07:46:55.455048Z'
 publication_types:
 - '2'

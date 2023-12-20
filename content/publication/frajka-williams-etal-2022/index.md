@@ -19,7 +19,7 @@ abstract: This chapter gives an overview of recent advances in in situ
 draft: false
 tags: [mixing, gliders, methods]
 categories: []
-projects: []
+projects: ["terific"]
 image:
   caption: ""
   focal_point: ""
