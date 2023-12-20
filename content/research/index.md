@@ -25,13 +25,14 @@ The **Experimental Oceanography** group aims to advance our understanding of oce
 
 
 ### Active projects at IfM EO
-- [Explaining and Predicting the Ocean Conveyor (EPOC)](../project/epoc/)
-- [Denmark Strait Overflow transports](../project/dsow/)
-- [Targeted Experiment to Reconcile Increased Freshwater with Increased Convection (TERIFIC)](../project/terific/)
+- [Explaining and Predicting the Ocean Conveyor (EPOC)](../project/epoc/) - Horizon Europe consortium to understanding the AMOC, its connectivity, past and future
+- [Denmark Strait Overflow transports](../project/dsow/) - observations of the overflow from Nordic Seas to North Atlantic through Denmark Strait (between Greenland and Iceland)
+- [Targeted Experiment to Reconcile Increased Freshwater with Increased Convection (TERIFIC)](../project/terific/) - ERC fellowship with gliders and drifters in the Labrador Sea 
 
 ### Collaborative projects
-- [Generation of the ocean's permanent pycnocline in the ice-covered Southern Ocean (PycnoGen)](https://gtr.ukri.org/projects?ref=EP%2FX025136%2F1)
-- [Resolving Biological carbon Export in the Labrador Sea (ReBELS)](https://gotw.nerc.ac.uk/list_split.asp?awardref=NE%2FV012797%2F1&cookieConsent=A)
+- [Generation of the ocean's permanent pycnocline in the ice-covered Southern Ocean (PycnoGen)](https://gtr.ukri.org/projects?ref=EP%2FX025136%2F1) - under-ice moorings and gliders, fieldwork starting 2025/26
+- [Resolving Biological carbon Export in the Labrador Sea (ReBELS)](https://gotw.nerc.ac.uk/list_split.asp?awardref=NE%2FV012797%2F1&cookieConsent=A) - biophysical interactions, fieldwork starting summer 2024
+- [RAPID 26°N array](../project/rapid/) - observing the AMOC at 26°N using moorings
 
 <hr>
 

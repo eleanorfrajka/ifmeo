@@ -38,7 +38,7 @@ draft: false
 tags:
   - AMOC
 categories: []
-projects: []
+projects: [epoc]
 image:
   caption: "Reconstructed Atlantic Meridional Overturning Circulation (AMOC) in
     the subpolar North Atlantic. Dashed lines

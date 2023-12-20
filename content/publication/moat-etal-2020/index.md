@@ -29,7 +29,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: '(a) AMOC anomalies from RAPID at 26◦ N (black, Sv), 26◦ N GloSea5 reanalysis (red, Sv), AMOC 45◦ N (black dashed, Sv). (b) The AMV (black) and NAO (blue). The AMV has been decadally low-pass filtered, with a 5-year low-pass filter applied to the NAO time series. The Ekman transport has been removed from the AMOC time series.'
   focal_point: ''
   preview_only: false
 
@@ -38,7 +38,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:53.879416Z'
 publication_types:
 - '2'

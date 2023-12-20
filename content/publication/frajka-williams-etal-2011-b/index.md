@@ -9,7 +9,7 @@ authors:
 - Stuart A Cunningham
 - Harry L Bryden
 - B. A King
-tags: ["AMOC"]
+tags: ["AMOC","Southern Ocean"]
 categories: []
 date: '2011-01-01'
 lastmod: 2023-01-21T08:46:58+01:00
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:58.771517Z'
 publication_types:
 - '2'

@@ -27,7 +27,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Hovmöller diagram of 2015 daily SST anomalies (in °C) averaged over 40–20°W (coloured field). Overlaid is the Jet Stream displacement measure (ΔJS) represented with a solid grey line and smoothed using a 10-day running mean. Also shown is the difference in between the Southern Band (SB, 35–50°N) maximum SST and Northern Band (NB, 50–65°N) minimum SST (ΔSST, purple dash-dot line).'
   focal_point: ''
   preview_only: false
 
@@ -36,7 +36,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:56.144137Z'
 publication_types:
 - '2'

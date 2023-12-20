@@ -22,7 +22,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Schematic illustration of the mechanism of SLAC (sea-level annual cycle) modulation. The mean SLAC is associated with steric changes in the seasonal thermocline induced by variations in surface heat fluxes, whereas its modulation is related to density anomalies in deeper layers propagating westward as Rossby waves. These Rossby waves give rise to fast boundary waves upon impinging on the western boundary, which in turn modulate the SLAC along the Gulf and Southeast coasts and lead to the coherence over large distances along the coast.'
   focal_point: ''
   preview_only: false
 
@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:55.122926Z'
 publication_types:
 - '2'

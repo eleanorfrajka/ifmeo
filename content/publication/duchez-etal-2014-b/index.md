@@ -15,7 +15,7 @@ authors:
 - Eleanor Frajka-Williams
 - D. Rayner
 - D. Smeed
-tags: []
+tags: [amoc]
 categories: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:57+01:00
@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:57.510801Z'
 publication_types:
 - '2'

@@ -28,7 +28,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Coherence between MOC components: UMO and FC (magenta), LNADW and Ekman (green) and FC and Ekman (grey), where time series are the original 10-day filtered (seasonal varia- tions retained). The top panel shows coherence, where significance is delimited by the black horizontal line. The lower panel shows the phase relationship at each period in degrees.'
   focal_point: ''
   preview_only: false
 
@@ -37,7 +37,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:56.260630Z'
 publication_types:
 - '2'

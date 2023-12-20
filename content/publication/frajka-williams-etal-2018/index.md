@@ -21,7 +21,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Lag-correlation between density anomalies at different latitudes but the same depth. (a) Correlation coefficient between density anomalies at the western boundaries of MOVE 168N and RAPID 268N, as a function of depth (y axis) and lag in months (x axis). (b) Time series of density anomalies at the two latitudes, at 3,800 dbar. The density time series from RAPID 268N has been shifted forward in time by 7 months. Positive lag corresponds to 268N leading 168N.'
   focal_point: ''
   preview_only: false
 
@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:55.341828Z'
 publication_types:
 - '2'

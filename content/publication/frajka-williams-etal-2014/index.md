@@ -8,7 +8,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 - Peter B. Rhines
 - Charles C. Eriksen
-tags: ["Labrador Sea"]
+tags: ["Labrador Sea", submesoscale]
 categories: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:57+01:00

@@ -17,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Correlation coefficient between SLA and upper mid-ocean transport at 26.5◦N. Red indicates positive corre- lation, and blue negative. Stippled regions are significant at the 95% level. Mean dynamic ocean topography is overlaid with black contours (contour interval, 20 cm).'
   focal_point: ''
   preview_only: false
 
@@ -26,7 +26,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:56.600900Z'
 publication_types:
 - '2'

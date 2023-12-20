@@ -22,7 +22,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: '(a) Vertical profile of the 12-h sampled meridional velocity at Wba, (b) zonal and (c) meridional baroclinic velocity 3–10-h bandpass-filtered, and (d) clockwise (red) and counterclockwise (black) components of the buoyancy frequency–normalized shear variance. This subset taken in 2010 represents the transition from anticyclone A1 to cyclone C1 delimited by the vertical black line in (a) based on the sign change of the surface relative vorticity. The two wave packets mentioned in the text are marked by black rectangles in (b),(c).'
   focal_point: ''
   preview_only: false
 
@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid,mermeed]
 publishDate: '2023-01-21T07:46:56.373197Z'
 publication_types:
 - '2'
