@@ -4,7 +4,7 @@
 title: Using GRACE and in situ bottom pressure recorders to evaluate external transports
   at 26°N
 subtitle: ''
-summary: ''
+summary: 'A demonstration of how GRACE-satellite estimates of ocean bottom pressure can be used to stitch together *in situ* bottom pressure records at 26°N, alleviating the need to detrend the observed bottom pressure. However, the method does not allow determination of the trend over the full period; if the GRACE trend over the full period (2004-2016) is applied, then it implies a trend in the compensation transports from 26°N which has the opposite sign as the compensation transport derived from the RAPID 26°N mooring array.'
 authors:
 - Emma Worthington
 - "FrajkaWilliams-Eleanor"

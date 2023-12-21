@@ -25,7 +25,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: ""
+summary: "An overview of methods for measuring turbulence in the ocean, including from profiling floats and gliders, microstructure sensors on autonomous vehicles, and micro-temperature on CTD profiles."
 lastmod: 2023-01-21T08:46:52+01:00
 publication: "*Ocean Mixing: Drivers, Mechanisms and Impacts*"
 featured: false

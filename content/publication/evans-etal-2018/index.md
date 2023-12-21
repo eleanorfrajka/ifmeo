@@ -3,7 +3,7 @@
 
 title: Annual cycle of turbulence estimated from Seagliders
 subtitle: ''
-summary: 'Updated methods to estimate turbulence from Seagliders, with a demonstration in the northeast Atlantic.'
+summary: 'Updated methods to estimate turbulence from Seagliders (originally from Beaird et al. 2012), with a demonstration in the northeast Atlantic.  The primary addition is to filter by local stratification as observed by the Seaglider.  When N is large, this filter should isolate turbulent processes within the inertial subrange. When N is very low, within the surface mixed layer for example, this filtering acts to remove the mean and any trend with respect to depth from the vertical velocity.'
 authors:
 - D. G. Evans
 - N. S. Lucas
@@ -27,7 +27,7 @@ draft: false
 image:
   caption: ' Seaglider-based rate of dissipation (magenta) compared to dissipation rate estimated using the ADCP-based structure function approach (blue) and the original Beaird et al. (2012) method to estimate dissipation from glider observations using a fixed 30 m high-pass filter (gray). Time series are smoothed using a 4-day running mean. The colored shading shows the 90% confidence interval determined using a Monte Carlo approach. The gray shading indicates periods of excessive glider roll maneuvers. An estimate of glider-based dissipation rate is flagged when the number of roll maneuvers in a given 20 m depth bin exceeds 6. The gray shading indicates periods in which more than half the data used to calculate the 4-day average is flagged. The horizontal black bars denote individual glider deployments. (b) Distance between the Seaglider and the ADCP. (c) Seaglider- and ADCP-based dissipation rates averaged into bins of buoyancy frequency, N. Each N-bin contains 100 glider observations. The color of the glider data points indicates the mean number of glider roll maneuvers. The colored shading shows the 90% confidence interval determined using a Monte Carlo approach. ADCP = acoustic Doppler current profiler.'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 links:
 - url: https://eprints.soton.ac.uk/423803/
@@ -48,3 +48,6 @@ abstract: ''
 publication: '*Geophys. Res. Lett.*'
 doi: 10.1029/2018GL079966
 ---
+
+![figure](featured.png)
+Seaglider-based rate of dissipation (magenta) compared to dissipation rate estimated using the ADCP-based structure function approach (blue) and the original Beaird et al. (2012) method to estimate dissipation from glider observations using a fixed 30 m high-pass filter (gray). Time series are smoothed using a 4-day running mean. The colored shading shows the 90% confidence interval determined using a Monte Carlo approach. The gray shading indicates periods of excessive glider roll maneuvers. An estimate of glider-based dissipation rate is flagged when the number of roll maneuvers in a given 20 m depth bin exceeds 6. The gray shading indicates periods in which more than half the data used to calculate the 4-day average is flagged. The horizontal black bars denote individual glider deployments. (b) Distance between the Seaglider and the ADCP. (c) Seaglider- and ADCP-based dissipation rates averaged into bins of buoyancy frequency, N. Each N-bin contains 100 glider observations. The color of the glider data points indicates the mean number of glider roll maneuvers. The colored shading shows the 90% confidence interval determined using a Monte Carlo approach. ADCP = acoustic Doppler current profiler.

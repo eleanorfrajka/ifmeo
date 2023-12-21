@@ -4,7 +4,7 @@
 title: A dynamically based method for estimating the Atlantic meridional overturning
   circulation at 26°N from satellite altimetry
 subtitle: ''
-summary: ''
+summary: 'A method for estimating 26°N overturning from time-varying satellite altimetry and time-averaged boundary profiles of dynamic height.'
 authors:
 - A. Sanchez-Franks
 - "FrajkaWilliams-Eleanor"

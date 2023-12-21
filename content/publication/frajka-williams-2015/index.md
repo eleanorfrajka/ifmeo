@@ -3,7 +3,7 @@
 
 title: Estimating the Atlantic MOC at 26°N using satellite altimetry and cable measurements
 subtitle: ''
-summary: ''
+summary: 'A statistical relationship between satellite sea surface height (SSH) and observed transports at 26°N is used to build a proxy for the AMOC transport since 1992.  The method relies on a strong relationship between (1) the interannual variability of spatially-smoothed SSH at the western boundary of the Atlantic and (2) the RAPID 26°N estimate of upper mid-ocean transport (UMO, top ~1100m) across the Atlantic.  Explained variance is very high, but the method assumes stationarity in the relationship between SSH and UMO, which would likely be violated on longer timescales associated with e.g., deep watermass change.'
 authors:
 - "FrajkaWilliams-Eleanor"
 tags: ["AMOC", satellite, methods]
