@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Raw data including physical oceanography from mooring DS-B-18, Aug 13-25 2018 with CTD and ADCP."
 
-tags: ["MSM76"]
+tags: ["MS Merian"]
 categories: [data]
 featured: false
 

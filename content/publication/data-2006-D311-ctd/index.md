@@ -25,7 +25,7 @@ abstract: "Physical oceanography during DISCOVERY cruise D311, 10 Sep - 4 Oct 20
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["disco", "other ship"]
+tags: ["other ship"]
 categories: ["data"]
 featured: false
 

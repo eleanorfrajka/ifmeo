@@ -25,9 +25,10 @@ abstract: "The purpose of the fieldwork activities detailed in this report was t
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["gliders"]
+tags: ["gliders", freshwater]
 categories: ["cruise report"]
 featured: false
+
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,7 +40,7 @@ featured: false
 
 url_pdf: https://eprints.soton.ac.uk/437546/1/NOC_CR65_combined.pdf
 url_code:
-url_dataset: 
+url_dataset: publication/data-2020-terific/
 url_poster:
 url_project:
 url_slides:

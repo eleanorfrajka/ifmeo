@@ -9,7 +9,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 - Nicolai von Oppeln-Bronikowski
 - Stephen Woodward
-tags: ["gliders", "Labrador Sea"]
+tags: ["gliders", "Labrador Sea", freshwater]
 categories: []
 date: '2020-10-26'
 lastmod: 2023-01-21T08:46:53+01:00

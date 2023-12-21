@@ -9,7 +9,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 - Peter Rhines
 - Charles Eriksen
-tags: ["mesoscale", "labrador sea", "gliders", biophysical]
+tags: ["mesoscale", "labrador sea", "gliders", biophysical, freshwater]
 categories: []
 date: '2009-08-15'
 lastmod: 2023-01-21T08:46:59+01:00
