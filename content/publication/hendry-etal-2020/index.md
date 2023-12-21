@@ -28,6 +28,9 @@ image:
   focal_point: ''
   preview_only: false
 
+url_pdf: https://nora.nerc.ac.uk/id/eprint/530066/1/Hendry_etal2020_EquityAtSea_Challenger_equity.pdf
+url_source: https://nora.nerc.ac.uk/id/eprint/530066/
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

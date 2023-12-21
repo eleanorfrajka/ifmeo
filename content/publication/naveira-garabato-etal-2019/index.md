@@ -29,9 +29,11 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Fine-resolution transect across the abyssal boundary current near the Orkney Passage sill. (A) Along-slope velocity (color, with flow direction indicated above the color bar) and neutral density (in kilograms per cubic meter, black contours; only contours within Antarctic Bottom Water are shown) for section B3 (Fig. 1). The mean positions of measurement profiles are marked by yellow tick marks on the lower axis. (B) Cross-slope velocity (color) and neutral density (black contours). (C) Squared vertical shear (color), neutral density (black contours), and rate of turbulent kinetic energy dissipation (ε, shaded bars). (D) Potential vorticity (color) and neutral density (black contours). (E) Instability type (CTF = centrifugal, SYM = symmetric, GRV = gravitational, and their hybrids.'
   focal_point: ''
   preview_only: false
+
+url_source: https://zenodo.org/records/3240623
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -42,7 +44,7 @@ projects: [dynopo]
 publishDate: '2023-01-21T07:46:55.009405Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'The overturning circulation of the global ocean is regulated by deep-ocean mixing, which transforms cold waters sinking at high latitudes into warmer, shallower waters. The effectiveness of mixing in driving this transformation is jointly set by the intensity of turbulence near topography and the rate at which well-mixed boundary waters are exchanged with the stratified ocean interior. We use innovative observations of a branch of the overturning circulation in the Southern Ocean to identify a previously undocumented mixing mechanism, by which deep-ocean waters are rapidly laundered through intensified near-boundary turbulence and boundary–interior exchange. As the conditions triggering this mechanism are common to other branches of the overturning circulation, our findings highlight a requirement for its representation in models of the overturning.'
 publication: '*PNAS*'
 doi: 10.1073/pnas.1904087116
 ---

@@ -10,7 +10,7 @@ authors:
 - A. C. Naveira~Garabato
 tags: ["Mesoscale", "Mixing", "Satellite"]
 categories: []
-date: '2022-01-01'
+date: '2022-01-18'
 lastmod: 2023-01-21T08:46:52+01:00
 featured: false
 draft: false

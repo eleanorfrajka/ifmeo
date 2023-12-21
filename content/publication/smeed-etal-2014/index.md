@@ -28,10 +28,11 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Anomalies (positive is northward) relative to mean annual cycle. A 45-day low-pass filter was applied to the time series. Horizontal dashed lines show ± 2 standard deviations and the solid black lines show the average trend ± 1.64 standard errors (i.e. 90 % confidence limits).'
   focal_point: ''
   preview_only: false
 
+url_pdf: https://eprints.soton.ac.uk/356498/1/2014_os_smeed_etal_Observed_decline_of_the_AMOC.pdf
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

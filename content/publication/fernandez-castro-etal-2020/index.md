@@ -13,7 +13,7 @@ authors:
 - Alberto Naveira~Garabato
 tags: ["gliders", "mixing", "mesoscale"]
 categories: []
-date: '2020-01-01'
+date: '2020-07-01'
 lastmod: 2023-01-21T08:46:54+01:00
 featured: false
 draft: false
@@ -22,7 +22,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Comparison of log-averaged « profiles obtained with the VMP microstructure profiler during the MerMEED cruises (lines: gray solid for MerMEED II (November), gray dashed for MerMEED III (March), black for both cruises) and the glider estimates (markers: triangles for dives, squares for climbs, and solid circles for both). The value of the cE constant shown was obtained by least squares minimization of the difference between the log-averaged profiles.'
   focal_point: ''
   preview_only: false
 
@@ -53,5 +53,6 @@ abstract: 'A 4-month glider mission was analyzed to assess turbulent dissipation
   as a “leaky wall” controlling the propagation of internal tides into the basin’s
   interior.'
 publication: '*J. Phys. Ocean.*'
+url_pdf: https://archimer.ifremer.fr/doc/00615/72734/71841.pdf
 doi: 10.1175/JPO-D-19-0168.1
 ---

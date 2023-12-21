@@ -11,7 +11,7 @@ authors:
 - Aurelie Duchez
 tags: [Atlantic, AMV]
 categories: []
-date: '2017-01-01'
+date: '2017-09-11'
 lastmod: 2023-01-21T08:46:55+01:00
 featured: false
 draft: false
@@ -20,7 +20,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Sea surface temperature anomalies and evolution. (a) SST (°C) from the ERSST dataset for the period July 2014–June 2016 are plotted relative to the average over July 2004–June 2012. The map was created using Generic Mapping Toolbox v5.2.1 (gmt.soest.hawaii.edu/). (b) Temporal evolution of the zonally-averaged SST as a function of latitude. Both panels show that the recent period has a cold anomaly in the subpolar gyre, but also a warm anomaly in the subtropics. (c) Line plots of the zonally-averaged SSTs, where each line represents an average of 2-years. The periods included are the early part of the last cold AMO period (1963–1973, blue) and the late part (1973–1996, red). Black shows the profile for the 2 year period: July 2014–June 2016. (d) NAO index where the bar for 2015 represents the December 2015–February 2016 period.'
   focal_point: ''
   preview_only: false
 
@@ -50,6 +50,7 @@ abstract: Sea surface temperatures in the northern North Atlantic have shown a m
   of the subpolar gyre.
 publication: '*Scientific Reports*'
 doi: 10.1038/s41598-017-11046-x
+url_pdf: https://nora.nerc.ac.uk/id/eprint/517764/1/s41598-017-11046-x.pdf
 links:
 - name: URL
   url: http://nora.nerc.ac.uk/517764/

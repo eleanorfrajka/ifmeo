@@ -48,5 +48,6 @@ abstract: Determining whether the Atlantic Meridional Overturning Circulation (A
   43 years). The annual RAPID trend is currently not statistically significant (−0.11
   Sv yr−1, p > 0.05).
 publication: '*Geophys. Res. Lett.*'
+url_pdf: https://eprints.soton.ac.uk/445156/1/2020GL089974_1_.pdf
 doi: 10.1029/2020GL089974
 ---

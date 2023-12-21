@@ -8,7 +8,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 tags: []
 categories: []
-date: '2014-01-01'
+date: '2014-09-28'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false
 draft: false
@@ -17,9 +17,11 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: '(a) Temperature section at 24° N in the Atlantic from the 2010 hydrographic cruise on the RRS Discovery. Black vertical lines indicate locations of moorings from the RAPID array. (b) Overturning transport estimated from five hydrographic sections in 1957, 1981, 1992, 1998 and 2004 (red, solid). Red dashed shows the transports from the hydrographic section corrected for the seasonal cycle of the MOC, as estimated from RAPID (2004–2007). Note the amplitude of the long-term decrease from 1957 to 2004 is reduced once aliasing of the seasonal cycle is accounted for. (Online version in colour.)'
   focal_point: ''
   preview_only: false
+
+url_pdf: https://eprints.soton.ac.uk/368367/1/2014_PhilTransA_FrajkaWilliams_susobs_postprint_hold28Sep2015.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

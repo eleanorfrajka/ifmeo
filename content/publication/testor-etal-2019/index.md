@@ -13,6 +13,7 @@ authors:
 - C. M. Lee
 - C. Pattiaratchi
 - ' others'
+- FrajkaWilliams-Eleanor
 tags: [gliders]
 categories: []
 date: '2019-01-01'
@@ -27,6 +28,9 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+url_pdf: https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers19-10/010077062.pdf
+url_project: http://www.oceangliders.org/
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

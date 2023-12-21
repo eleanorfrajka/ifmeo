@@ -17,7 +17,7 @@ authors:
 - Gerard McCarthy
 tags: [AMOC]
 categories: []
-date: '2018-01-01'
+date: '2018-01-29'
 lastmod: 2023-01-21T08:46:55+01:00
 featured: false
 draft: false
@@ -26,7 +26,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Low-pass filtered transports from 26°N. For all variables, positive values imply northward transport. The total Atlantic Meridional Overturning Circulation (AMOC) (MOC) and the Ekman component (EKM) are shown. The non-Ekman part of the upper limb of the AMOC is the net sum of a northward western boundary component (WBC) and a southward recirculation in the gyre (GYR). So that it can be shown easily on the same plot, a value of 45 Sv has been added to GYR. The southward flowing lower limb of the AMOC is separated into the upper North Atlantic Deep Waters between 1,100 m and 3,000 m depth (UDW) and lower North Atlantic Deep Waters between 3,000 m and 5,000 m (LDW). The thick continuous lines are 12 month low-pass (Tukey) filtered data. The mean values for the whole time series are shown as dashed lines. Means are shown for three periods: April 2004 to March 2008, April 2008 to March 2012, and April 2012 to March 2017. The 95% confidence intervals for these means are shown by shading.'
   focal_point: ''
   preview_only: false
 
