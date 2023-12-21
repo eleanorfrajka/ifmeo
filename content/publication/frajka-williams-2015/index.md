@@ -26,7 +26,7 @@ links:
   name: URL
 url_pdf: https://eprints.soton.ac.uk/376014/1/grl52852.pdf
 url_dataset: https://figshare.com/articles/dataset/Dataset_for_MOC_and_proxy_at_26N/1461658
-
+url_slides: https://www.slideshare.net/eleanorfrajka/2015-06talkmtgiuggefwmocfromspacewide
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
