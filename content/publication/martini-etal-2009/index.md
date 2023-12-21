@@ -37,7 +37,7 @@ links:
 projects: []
 publishDate: '2023-12-21'
 publication_types:
-- '4'
+- '5'
 abstract: Can I really do this?!” Enthusiasm and doubt surrounded the junior women at the opening reception of the Pattullo Conference. As in other science and engineering fields, real and perceived challenges prevent many women from continuing careers in physical oceanography after graduate school, and we were gathered with senior scientists in the field to debunk the myths surrounding academic careers and help junior women understand the real challenges. Topics at the conference ranged from balancing work and family life to successfully funding research proposals. In this article, we—junior scientist attendees—share some of our personal revelations, surprises, and perspectives about women in physical oceanography gained from this conference. We hope this article will provide insight into the benefits of a gender-specific mentoring event such as the Pattullo Conference, inform senior scientists about what they can do to strengthen the field for junior scientists, and provide guidance to our peers in all geosciences about their chosen careers.
 publication: '*Oceanography*'
 ---

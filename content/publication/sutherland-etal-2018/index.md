@@ -42,7 +42,7 @@ links:
 projects: [rapid]
 publishDate: '2023-01-21T07:46:57.851951Z'
 publication_types:
-- '3'
+- '5'
 abstract: The Atlantic meridional overturning circulation (AMOC) has been observed
   continuously at 26° N since April 2004. The AMOC and its component parts are monitored
   by combining a transatlantic array of moored instruments with submarine-cable-based

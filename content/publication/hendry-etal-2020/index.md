@@ -41,7 +41,7 @@ links:
 projects: []
 publishDate: '2023-01-21T07:46:53.315472Z'
 publication_types:
-- '4'
+- '5'
 abstract: Today, we can celebrate a strong representation of women in sea-going science
   in the United Kingdom, providing positive role models for early-career female marine
   scientists. However, women continue to face challenges to their progression in their

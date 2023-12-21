@@ -36,7 +36,7 @@ links:
 projects: []
 publishDate: '2023-01-21T07:46:57.063593Z'
 publication_types:
-- '3'
+- '5'
 abstract: Bispectral analysis of the nonlinear resonant interaction known as parametric subharmonic instability (PSI) for a coherence semidiurnal internal tide demonstrates the ability of the bispectrum to identify and quantify the transfer rate. Assuming that the interaction is confined to a vertical plane, energy equations transform in such a way that nonlinear terms become the third-moment spectral quantity known as the bispectrum. Bispectral transfer rates computed on PSI in an idealized, fully-nonlinear, non-hydrostatic Boussinesq model compare well to model growth rates of daughter waves. Bispectra also identify the nonlinear terms responsible for energy transfer. Using resonance conditions for an M2 tide, the locus of PSI wavenumber triads is determined as a function of parent-wave frequency and wavenumbers, latitude and range of daughter-wave frequencies. The locus is used to determine the expected bispectral signal of PSI in wavenumber space. Bispectra computed using velocity profiles from the HOME experiment are relatively noisy and the signal inconclusive.
 publication: '*ArXiv*'
 doi: 10.48550/arXiv.1410.0926

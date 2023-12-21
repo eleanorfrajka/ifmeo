@@ -36,7 +36,7 @@ links:
 projects: [rapid]
 publishDate: '2023-01-21T07:46:58.660167Z'
 publication_types:
-- '4'
+- '5'
 abstract: 'The ocean conveyor is a term used to describe how a parcel of water initially at the
 surface in high northern latitudes might travel at depth to the Southern Ocean, and then
 return in surface currents (see Figure 1). The conveyor belt idea made its Hollywood
