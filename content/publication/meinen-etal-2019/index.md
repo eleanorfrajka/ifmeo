@@ -29,6 +29,11 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- url: https://eprints.soton.ac.uk/431923/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/431923/1/Meinen_et_al_2019_Journal_of_Geophysical_Research_Oceans.pdf
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

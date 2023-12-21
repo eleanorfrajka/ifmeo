@@ -23,6 +23,10 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: URL
+  url: https://nora.nerc.ac.uk/id/eprint/532248/
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

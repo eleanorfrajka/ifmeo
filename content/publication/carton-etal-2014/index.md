@@ -14,7 +14,7 @@ authors:
 - R. Msadek
 tags: ["AMOC"]
 categories: []
-date: '2014-01-01'
+date: '2014-08-14'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false
 draft: false
@@ -27,12 +27,17 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- url: https://eprints.soton.ac.uk/370279/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/370279/1/2014_bams_Carton_etal_USAMOC.pdf  
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:57.173962Z'
 publication_types:
 - '4'

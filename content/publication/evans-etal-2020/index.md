@@ -26,6 +26,11 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/445140/
+url_pdf: https://eprints.soton.ac.uk/445140/1/2020JC016246.pdf
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

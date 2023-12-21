@@ -44,6 +44,8 @@ publication_types:
 abstract: ''
 publication: '*Oceanogr.*'
 doi: 10.5670/oceanog.2021.supplement.02-04
+
+url_pdf: https://oceanrep.geomar.de/id/eprint/55225/1/ocean-observing-2021-berx.pdf
 links:
 - name: URL
   url: https://repository.library.noaa.gov/view/noaa/34116

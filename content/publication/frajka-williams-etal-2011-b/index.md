@@ -11,7 +11,7 @@ authors:
 - B. A King
 tags: ["AMOC","Southern Ocean"]
 categories: []
-date: '2011-01-01'
+date: '2011-11-17'
 lastmod: 2023-01-21T08:46:58+01:00
 featured: false
 draft: false
@@ -20,9 +20,14 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Temperature changes between (a) 1981 and 2004, (b) 2004 and 2010, and (c) 1981 and 2010, calculated as modern minus older. Red regions indicate warming while blue regions indicate cooling. Temperatures were first gridded for each hydrographic section data onto a fine pressure-longitude grid before differencing. Isotherms contoured are the mean isotherm depths (in dbar) from the sections 1981, 1992, 1998, 2004, and 2010 at 0.5° intervals in solid black, and between 1.5°C and 2.0°C at 0.1°C intervals in dashed black.'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/203563/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/203563/1/2011_jgr_FrajkaWilliams_etal_Variability_of_AABW_at_24.5N.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -49,5 +54,4 @@ abstract: A recent hydrographic section at 24.5°N in the Atlantic and 6 months 
   Sv = 106 m3s−1).
 publication: '*J. Geophys. Res.*'
 doi: 10.1029/2011JC007168
-url_pdf: "https://nora.nerc.ac.uk/id/eprint/303563/1/aabw_submitrev_sep2011.pdf"
 ---

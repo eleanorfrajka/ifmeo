@@ -4,7 +4,7 @@
 title: Probing Orographic Controls in the Himalayas During the Monsoon Using Satellite
   Imagery
 subtitle: ''
-summary: ''
+summary: 'From my bachelor''s thesis, an investigation into the scaling of cloud formation over the Himalayas. Figures 14-18.'
 authors:
 - Ana P. Barros
 - Gwangseob Kim
@@ -12,7 +12,7 @@ authors:
 - Stephen W. Nesbitt
 tags: []
 categories: []
-date: '2004-01-01'
+date: '2004-03-01'
 lastmod: 2023-01-21T08:46:59+01:00
 featured: false
 draft: false
@@ -24,6 +24,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+url_pdf: https://nhess.copernicus.org/articles/4/29/2004/nhess-4-29-2004.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

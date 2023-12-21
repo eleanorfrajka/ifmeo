@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Coherent circulation changes in the Deep North Atlantic from 16\x0EN and 26\x0E\
-  N transport arrays"
+title: "Coherent circulation changes in the Deep North Atlantic from 16°N and 26°N transport arrays"
 subtitle: ''
 summary: ''
 authors:
@@ -24,6 +23,11 @@ image:
   caption: 'Lag-correlation between density anomalies at different latitudes but the same depth. (a) Correlation coefficient between density anomalies at the western boundaries of MOVE 168N and RAPID 268N, as a function of depth (y axis) and lag in months (x axis). (b) Time series of density anomalies at the two latitudes, at 3,800 dbar. The density time series from RAPID 268N has been shifted forward in time by 7 months. Positive lag corresponds to 268N leading 168N.'
   focal_point: ''
   preview_only: false
+
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/419994/
+url_pdf: https://eprints.soton.ac.uk/419994/2/Frajka_Williams_et_al_2018_Journal_of_Geophysical_Research_3A_Oceans.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -53,7 +57,5 @@ abstract: The meridional overturning circulation (MOC) has been measured by boun
   arrays measuring ocean circulation.
 publication: '*J. Geophys. Res.*'
 doi: 10.1029/2018JC013949
-links:
-- name: URL
-  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JC013949
+
 ---

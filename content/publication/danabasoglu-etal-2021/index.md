@@ -22,9 +22,14 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'RAPID and (e) MOVE from the transport methods considered'
+  caption: 'RAPID and (e) MOVE from the transport methods considered.'
   focal_point: ''
   preview_only: false
+
+links:
+- name: URL
+  url: https://nora.nerc.ac.uk/id/eprint/531633/
+url_pdf: https://nora.nerc.ac.uk/id/eprint/531633/1/Geophysical%20Research%20Letters%20-%202021%20-%20Danabasoglu%20-%20Revisiting%20AMOC%20Transport%20Estimates%20From%20Observations%20and%20Models%20%281%29.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

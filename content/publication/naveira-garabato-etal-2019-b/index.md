@@ -23,9 +23,10 @@ lastmod: 2023-01-21T08:46:54+01:00
 featured: false
 draft: false
 
-url_source: https://nora.nerc.ac.uk/id/eprint/523502/
 url_pdf: https://nora.nerc.ac.uk/id/eprint/523502/7/2019GL082850.pdf
-
+links:
+- url: https://nora.nerc.ac.uk/id/eprint/523502/
+  name: URL
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

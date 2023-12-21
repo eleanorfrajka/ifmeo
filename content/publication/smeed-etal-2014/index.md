@@ -33,6 +33,9 @@ image:
   preview_only: false
 
 url_pdf: https://eprints.soton.ac.uk/356498/1/2014_os_smeed_etal_Observed_decline_of_the_AMOC.pdf
+links:
+- url: https://eprints.soton.ac.uk/356498
+  name: URL
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

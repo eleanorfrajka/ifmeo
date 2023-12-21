@@ -4,7 +4,7 @@
 title: "Cruise Report #65: TERIFIC project, 26 November – 10 December 2019"
 authors: 
 - FrajkaWilliams-Eleanor
-date: 2020
+date: 2020-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -43,7 +43,9 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://eprints.soton.ac.uk/437546/
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/437546/
 url_video:
 
 # Featured image

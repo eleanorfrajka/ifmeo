@@ -10,7 +10,7 @@ authors:
 - Johanna Baehr
 tags: [AMOC, coherence]
 categories: []
-date: '2013-01-01'
+date: '2013-02-15'
 lastmod: 2023-01-21T08:46:58+01:00
 featured: false
 draft: false
@@ -19,9 +19,15 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Mean annual cycle anomalies of observed (solid) and model (dashed) AMOC-Ekman and Sverdrup transport at 26°N (dark) and 41°N (light):  (c) AMOC-Ekman annual cycle anomalies, (d) Sverdrup transport annual cycle anomalies.'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/350042/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/350042/1/2013_grl_Mielke_FrajkaWilliams_Baehr_Observed_simulated_variability_AMOC.pdf
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -48,5 +54,4 @@ abstract: ' Time series of the observational estimate of the Atlantic meridional
   the North Atlantic from discontinuous observations.'
 publication: '*Geophys. Res. Lett.*'
 doi: 10.1002/grl.50233
-url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.50233"
 ---

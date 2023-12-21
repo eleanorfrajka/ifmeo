@@ -12,7 +12,7 @@ authors:
 - Stuart A. Cunningham
 tags: [AMOC, mesoscale]
 categories: []
-date: '2014-01-01'
+date: '2014-09-03'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false
 draft: false
@@ -21,9 +21,14 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Bathymetry of the western boundary from ETOPO1 with the mean velocity (colors) from current meter arrays between 1986 and 1997 as described in Bryden et al. [2005a] and mean isotherms (black lines) from the RAPID array between 2004 and 2011. The three moorings of the boundary array Wb2, Wb3, and Wb5 are indicated with their mean buoyancy frequency profiles (green) and the modal structure of the first three baroclinic modes of isopycnal displacements (black).'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/369376/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/369376/1/2014_jgr_Clement_FrajkaWilliams_etal_Eddies_and_RossbyWaves_AMOC-finalpub.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

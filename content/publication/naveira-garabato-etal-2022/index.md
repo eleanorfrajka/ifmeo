@@ -28,6 +28,10 @@ image:
   focal_point: 'center'
   preview_only: false
 
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/455172/
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

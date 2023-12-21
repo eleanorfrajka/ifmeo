@@ -3,7 +3,7 @@
 
 title: Determining Vertical Velocities from Seaglider
 subtitle: ''
-summary: ''
+summary: 'Methodology for estimating vertical seawater velocities from standard Seagliders.'
 authors:
 - "FrajkaWilliams-Eleanor"
 - Charles C. Eriksen
@@ -11,7 +11,7 @@ authors:
 - Ramsey R. Harcourt
 tags: ["gliders", "methods"]
 categories: []
-date: '2011-01-01'
+date: '2011-12-01'
 lastmod: 2023-01-21T08:46:58+01:00
 featured: false
 draft: false
@@ -23,6 +23,11 @@ image:
   caption: 'Frequency spectra of vertical water velocity. Profiles from entirely within the mixed layer (black) and the stratified ocean (gray) are shown. Dashed curves of the same color are spectra calculated using the original, untuned flight parameters. Note that the difference is only apparent in the stratified case.'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/206147/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/206147/1/2011_jtech_frajkawilliams_etal_determining_vertical_water_velocities_Seaglider.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

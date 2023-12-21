@@ -17,7 +17,7 @@ authors:
 - S. A. Cunningham
 tags: ["AMOC", "bottom pressure"]
 categories: []
-date: '2012-01-01'
+date: '2012-10-12'
 lastmod: 2023-01-21T08:46:58+01:00
 featured: false
 draft: false
@@ -26,16 +26,21 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: '(top) Transport anomaly time series after removing the average seasonal cycle (calculated over the full timeseries) and smoothing with a 180-day low-pass Tukey filter. Components include Ekman (black), upper mid-ocean with fixed Ekman (magenta) and overturning with fixed Ekman (red). Transports in units of Sverdrups. (bottom) Transport time series with the average seasonal cycle removed of the upper NADW (1100–3000 m, cyan) and lower NADW (3000–5000 m, dark blue), calculated with fixed Ekman. These are the main water masses of the deep mid-ocean transports.'
   focal_point: ''
-  preview_only: false
+  preview_only: true
+
+links:
+- url: https://eprints.soton.ac.uk/342371/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/342371/2/2012_grl_McCarthy_FrajkaWilliams_Observed_interannual_varability_amoc.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:58.543849Z'
 publication_types:
 - '2'
@@ -59,3 +64,6 @@ abstract: The Atlantic meridional overturning circulation (MOC) plays a critical
 publication: '*Geophys. Res. Lett.*'
 doi: 10.1029/2012GL052933
 ---
+
+![figure](featured.png)
+(top) Transport anomaly time series after removing the average seasonal cycle (calculated over the full timeseries) and smoothing with a 180-day low-pass Tukey filter. Components include Ekman (black), upper mid-ocean with fixed Ekman (magenta) and overturning with fixed Ekman (red). Transports in units of Sverdrups. (bottom) Transport time series with the average seasonal cycle removed of the upper NADW (1100–3000 m, cyan) and lower NADW (3000–5000 m, dark blue), calculated with fixed Ekman. These are the main water masses of the deep mid-ocean transports

@@ -17,7 +17,7 @@ authors:
 - D. Smeed
 tags: [amoc]
 categories: []
-date: '2014-01-01'
+date: '2014-09-01'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false
 draft: false
@@ -26,9 +26,14 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Comparison between the AMOCSV (black) and the AMOC transport (red), showing the (top) forced and (bottom) coupled simulations. The thick lines represent 10-yr smoothed data; the dashed lines represent 5-yr smoothed data. In the AMOCSV, the geostrophic Sverdrup transport is computed with a lag of −2 yr.'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/365713/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/365713/1/JCLI-D-13-00052.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

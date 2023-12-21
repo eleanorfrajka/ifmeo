@@ -10,7 +10,7 @@ authors:
 - K. Vage
 tags: [AMOC, freshwater]
 categories: []
-date: '2016-01-01'
+date: '2016-12-01'
 lastmod: 2023-01-21T08:46:56+01:00
 featured: false
 draft: false
@@ -22,6 +22,11 @@ image:
   caption: 'Overturning transport anomalies at 26°N and 41°N after removing Ekman trans- ports. At 41°N, transports are estimated using Argo and altimetry (black line) and altimetry only (dashed gray line). At 26°N, transports are estimated from the RAPID array (solid red line) and altimetry (dashed pink line). The blue line shows the density anomaly integrated in the Labrador Sea between 1,000 m and 2,500 m from Robson et al. (2014), and the dashed blue line shows that anomaly estimated from Argo over 1,000 m to 2,000 m, then scaled by 3/2. The x-axis on the two plots is offset by 10 years to show a possible lagged response of transports to density changes.'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/404899/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/404899/1/29-4_frajka-williams.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

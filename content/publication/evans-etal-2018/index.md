@@ -29,6 +29,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- url: https://eprints.soton.ac.uk/423803/
+  name: URL
+- url: https://eprints.soton.ac.uk/423803/1/Evans_et_al_2018_Geophysical_Research_Letters.pdf
+  name: PDF (accepted)
+  
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

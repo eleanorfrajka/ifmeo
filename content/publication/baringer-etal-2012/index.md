@@ -33,12 +33,17 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- url: https://eprints.soton.ac.uk/341749/
+  name: URL
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:58.427354Z'
 publication_types:
 - '4'

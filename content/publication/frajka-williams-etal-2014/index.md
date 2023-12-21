@@ -27,6 +27,11 @@ contribution2bS bythegrayfilledcircle.Whenthesignsofthetemperatureandsalinitycon
   focal_point: ''
   preview_only: false
 
+url_pdf: https://eprints.soton.ac.uk/357409/1/jpo-d-13-069%25252E1.pdf
+links:
+- url: https://eprints.soton.ac.uk/357409/
+  name: URL
+  
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

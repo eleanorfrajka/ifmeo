@@ -11,7 +11,7 @@ authors:
 - Charles Eriksen
 tags: ["mesoscale", "labrador sea", "gliders"]
 categories: []
-date: '2009-01-01'
+date: '2009-08-15'
 lastmod: 2023-01-21T08:46:59+01:00
 featured: false
 draft: false
@@ -20,9 +20,22 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: '(a) Near-surface (0–10 m, black line) and deeper (20–30 m, gray
+line) values of fluorescence-to-backscatter ratio F : bbp , and SeaWiFS
+iPAR (instantaneous incident light, hatched regions, described in
+Section 2) for July 4–9, 2005. Lower surface F : bbp ratios are observed
+during the day (higher iPAR), indicative of fluorescence quenching.
+(b) Day and night vertical profiles of F and bbp show the depth range
+over which fluorescence is quenched (0–30 m), while bbp is relatively
+constant in the surface layer.'
   focal_point: ''
-  preview_only: false
+  preview_only: true
+
+links:
+- url: https://eprints.soton.ac.uk/203561/
+  name: URL
+- url: https://eprints.soton.ac.uk/203561/1/FrajkaWilliams_etal_dsr2009.pdf
+  name: PDF (author's version)
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -53,3 +66,22 @@ publication: '*Deep Sea Res. I*'
 doi: 10.1016/j.dsr.2009.07.008
 url_pdf: "https://nora.nerc.ac.uk/id/eprint/303561/1/FrajkaWilliams_etal_dsr2009.pdf"
 ---
+
+![figure](featured.png)
+Figure 4. **Fluorescence quenching** (a) Near-surface (0–10 m, black line) and deeper (20–30 m, gray
+line) values of fluorescence-to-backscatter ratio F : bbp , and SeaWiFS
+iPAR (instantaneous incident light, hatched regions, described in
+Section 2) for July 4–9, 2005. Lower surface F : bbp ratios are observed
+during the day (higher iPAR), indicative of fluorescence quenching.
+(b) Day and night vertical profiles of F and bbp show the depth range
+over which fluorescence is quenched (0–30 m), while bbp is relatively
+constant in the surface layer.
+
+![Figure 12](featured2.png)
+Figure 12. **Chlorophyll within and between fresh lenses.** Mean vertical profiles of (a) salinity and (b) fluorescence bloom
+intensity inside (black) and at the edges of (blue-gray) lenses 1–3 in the
+north region. Lower salinities are in the lenses by definition, while higher
+average F values are at the edges of the lenses. Shaded regions around
+the profiles indicate one standard deviation. (For interpretation of the
+references to color in this figure legend, the reader is referred to the web
+version of this article.)

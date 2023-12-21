@@ -22,6 +22,9 @@ image:
   preview_only: false
 
 url_pdf: https://eprints.soton.ac.uk/368367/1/2014_PhilTransA_FrajkaWilliams_susobs_postprint_hold28Sep2015.pdf
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/368367
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

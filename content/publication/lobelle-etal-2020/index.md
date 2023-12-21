@@ -49,5 +49,8 @@ abstract: Determining whether the Atlantic Meridional Overturning Circulation (A
   Sv yr−1, p > 0.05).
 publication: '*Geophys. Res. Lett.*'
 url_pdf: https://eprints.soton.ac.uk/445156/1/2020GL089974_1_.pdf
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/445156
 doi: 10.1029/2020GL089974
 ---

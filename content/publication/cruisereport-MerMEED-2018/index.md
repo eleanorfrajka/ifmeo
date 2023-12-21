@@ -45,9 +45,11 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://nora.nerc.ac.uk/id/eprint/519222
+url_source: 
 url_video:
-
+links:
+- url: https://nora.nerc.ac.uk/id/eprint/519222
+  name: URL
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

@@ -26,6 +26,11 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/441026/
+url_pdf: https://archimer.ifremer.fr/doc/00615/72734/71841.pdf
+url_pdf: https://eprints.soton.ac.uk/441026/2/jpod190168.pdf
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -53,6 +58,5 @@ abstract: 'A 4-month glider mission was analyzed to assess turbulent dissipation
   as a “leaky wall” controlling the propagation of internal tides into the basin’s
   interior.'
 publication: '*J. Phys. Ocean.*'
-url_pdf: https://archimer.ifremer.fr/doc/00615/72734/71841.pdf
 doi: 10.1175/JPO-D-19-0168.1
 ---

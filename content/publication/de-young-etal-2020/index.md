@@ -11,7 +11,7 @@ authors:
 - Stephen Woodward
 tags: ["gliders", "Labrador Sea"]
 categories: []
-date: '2020-01-01'
+date: '2020-10-26'
 lastmod: 2023-01-21T08:46:53+01:00
 featured: false
 draft: false
@@ -23,6 +23,11 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+links:
+- name: URL
+  url: https://nora.nerc.ac.uk/id/eprint/528776
+url_pdf: https://nora.nerc.ac.uk/id/eprint/528776/1/V15N3%2Bpaper%2BTechnicalities%2BdeYoung%2Bet%2Bal%2BLR.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -48,7 +53,5 @@ abstract: The Labrador Sea is a fascinating and difficult environment in which t
   as they can operate in extreme conditions yet still give us the flexibility to adapt
   our sampling during the mission [deYoung et al., 2018; Testor et al., 2019].
 publication: '*The Journal of Ocean Technology*'
-links:
-- name: URL
-  url: https://nora.nerc.ac.uk/id/eprint/528776
+
 ---

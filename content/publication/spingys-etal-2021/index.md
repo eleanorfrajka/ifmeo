@@ -28,6 +28,11 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/446739/
+url_pdf: https://www2.whoi.edu/site/polzin/wp-content/uploads/sites/145/2022/03/spingys2021mixing.pdf
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -60,7 +65,6 @@ abstract: 'Water-mass transformation by turbulent mixing is a key part of the de
   processes to deep-ocean overturning, and highlight the role of DWBCs as hot spots
   of dianeutral upwelling.'
 publication: '*J. Phys. Ocean.*'
-url_pdf: https://www2.whoi.edu/site/polzin/wp-content/uploads/sites/145/2022/03/spingys2021mixing.pdf
 doi: 10.1175/JPO-D-20-0132.1
 ---
 

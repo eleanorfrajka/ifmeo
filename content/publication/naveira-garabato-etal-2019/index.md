@@ -33,7 +33,10 @@ image:
   focal_point: ''
   preview_only: false
 
-url_source: https://zenodo.org/records/3240623
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/433389/
+url_pdf: https://eprints.soton.ac.uk/433389/1/13233.full.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

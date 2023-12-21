@@ -39,6 +39,12 @@ tags:
   - AMOC
 categories: []
 projects: [epoc]
+
+links:
+- name: URL
+  url: https://nora.nerc.ac.uk/id/eprint/532667/
+url_pdf: https://nora.nerc.ac.uk/id/eprint/532667/1/nature_review_preprint.pdf
+
 image:
   caption: "Reconstructed Atlantic Meridional Overturning Circulation (AMOC) in
     the subpolar North Atlantic. Dashed lines

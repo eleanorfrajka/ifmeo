@@ -20,7 +20,7 @@ authors:
 - H. Zuo
 tags: [AMOC]
 categories: []
-date: '2013-01-01'
+date: '2013-09-11'
 lastmod: 2023-01-21T08:46:58+01:00
 featured: false
 draft: false
@@ -29,9 +29,14 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Time mean Atlantic meridional overturning stream functions at 26.5°N from RAPID (black in Figures 1a, 1b, and 1c) compared with overturning in ASSIM-3DVAR calculated using different methods: (a) Stream functions calculated using model velocities (blue). (b) Stream functions calculated using the RAPID-style method and a geostrophic reference depth of 4740 m (red). (c) Stream functions calculated using the RAPID-style method referenced to model velocities at 1000 m (dashed red line) compared with the mean profile (blue line) redrawn from Figure 1a. All calculations are for the period of January 2004 to December 2010, and hatching indicates a range of ±1 standard deviation calculated from monthly mean values.'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/360004/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/360004/1/2013_grl_Roberts_etal_Atmosphere_drives_interannual_variability_AMOC.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,5 +62,4 @@ abstract: The Atlantic meridional overturning circulation (AMOC) has been observ
   variability of the AMOC.
 publication: '*Geophys. Res. Lett.*'
 doi: 10.1002/grl.50930
-url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.50930"
 ---

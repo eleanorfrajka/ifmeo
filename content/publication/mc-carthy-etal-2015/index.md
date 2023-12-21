@@ -3,7 +3,7 @@
 
 title: Measuring the Atlantic meridional overturning circulation at 26°N
 subtitle: ''
-summary: ''
+summary: 'Methodology and error analysis for the RAPID 26°N estimates of the AMOC transport.'
 authors:
 - G. D. McCarthy
 - D. A. Smeed
@@ -28,6 +28,12 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/370316/1/McCarthy_et_al_Measuring_the_AMOC_revised.pdf
+  name: PDF (accepted)
+- url: https://eprints.soton.ac.uk/370316/
+  name: URL
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

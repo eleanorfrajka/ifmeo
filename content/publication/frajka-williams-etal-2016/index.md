@@ -19,7 +19,7 @@ authors:
 - B. I. Moat
 tags: [AMOC]
 categories: []
-date: '2016-01-01'
+date: '2016-04-01'
 lastmod: 2023-01-21T08:46:56+01:00
 featured: false
 draft: false
@@ -31,6 +31,11 @@ image:
   caption: 'Coherence between MOC components: UMO and FC (magenta), LNADW and Ekman (green) and FC and Ekman (grey), where time series are the original 10-day filtered (seasonal varia- tions retained). The top panel shows coherence, where significance is delimited by the black horizontal line. The lower panel shows the phase relationship at each period in degrees.'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/390694/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/390694/1/os-12-481-2016.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

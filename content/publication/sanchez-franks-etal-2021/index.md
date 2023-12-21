@@ -25,6 +25,11 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- name: URL
+  url: https://nora.nerc.ac.uk/id/eprint/531122/
+url_pdf: https://nora.nerc.ac.uk/id/eprint/531122/1/os-17-1321-2021%20%281%29.pdf
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

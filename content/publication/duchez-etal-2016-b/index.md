@@ -18,7 +18,7 @@ authors:
 - J. J. -M. Hirschi
 tags: [AMOC]
 categories: []
-date: '2016-01-01'
+date: '2016-07-05'
 lastmod: 2023-01-21T08:46:56+01:00
 featured: false
 draft: false
@@ -30,6 +30,12 @@ image:
   caption: 'Hovmöller diagram of 2015 daily SST anomalies (in °C) averaged over 40–20°W (coloured field). Overlaid is the Jet Stream displacement measure (ΔJS) represented with a solid grey line and smoothed using a 10-day running mean. Also shown is the difference in between the Southern Band (SB, 35–50°N) maximum SST and Northern Band (NB, 50–65°N) minimum SST (ΔSST, purple dash-dot line).'
   focal_point: ''
   preview_only: false
+
+links:
+- name: URL
+  url: https://eprints.soton.ac.uk/397901/
+url_pdf: https://eprints.soton.ac.uk/397901/2/pdf
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -59,7 +65,4 @@ abstract: 'The North Atlantic and Europe experienced two extreme climate events 
   impact events.'
 publication: '*Env. Res. Lett.*'
 doi: 10.1088/1748-9326/11/7/074004
-links:
-- name: URL
-  url: http://iopscience.iop.org/article/10.1088/1748-9326/11/7/074004/meta
 ---

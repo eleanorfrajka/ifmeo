@@ -33,6 +33,11 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- url: https://eprints.soton.ac.uk/442710/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/442710/1/os_16_863_2020.pdf
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

@@ -12,7 +12,7 @@ authors:
 - J. Willis
 tags: [AMOC, coherence, "bottom pressure"]
 categories: []
-date: '2014-01-01'
+date: '2014-02-01'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false
 draft: false
@@ -21,9 +21,15 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Correlation rxy between transports: (a) correlations between western geostrophic transports (upper triangle) and between western geostrophic and total geostrophic transports (lower triangle); (b) correlations between eastern geostrophic transports (upper triangle) and between eastern geostrophic and total geostrophic transports (lower triangle); (c) correlations between total geostrophic transports (upper triangle) and between total geostrophic and total geostrophic plus Ekman transports (lower triangle); (d) correlations between −TB and the upper-ocean transports as indicated in the legend; and (e) correlations between −TW and the upper-ocean transports as indicated in the legend. Correlations significant at the 95% confidence level in (d) and (e) are indicated by circles.'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/357093/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/357093/1/JPO-D-13-026-Elipot.pdf
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

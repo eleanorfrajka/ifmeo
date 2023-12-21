@@ -13,7 +13,7 @@ authors:
 - A. Coward
 tags: [AMOC]
 categories: []
-date: '2014-01-01'
+date: '2014-02-15'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false
 draft: false
@@ -25,6 +25,11 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/362284/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/362284/1/jgrc20599.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

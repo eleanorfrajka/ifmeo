@@ -20,7 +20,7 @@ authors:
 - Andrew Coward
 tags: [AMOC]
 categories: []
-date: '2016-01-01'
+date: '2016-04-08'
 lastmod: 2023-01-21T08:46:56+01:00
 featured: false
 draft: false
@@ -29,9 +29,14 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Model 5 day averaged wind stress anomaly (colored field) for (a) the 10 extreme positive events and (b) 10 extreme negative events between 1985 and 1994. The arrows show the mean wind stress averaged over the 10 events. The solid lines indicate the 26.58N latitude of the RAPID section.'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/391329/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/391329/2/jgrc21697.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

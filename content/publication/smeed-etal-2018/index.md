@@ -55,5 +55,5 @@ publication: '*Geophys. Res. Lett.*'
 doi: 10.1002/2017GL076350
 links:
 - name: URL
-  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017GL076350
+  url: https://repository.library.noaa.gov/view/noaa/18769
 ---

@@ -8,7 +8,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 tags: ["AMOC", satellite, methods]
 categories: []
-date: '2015-01-01'
+date: '2015-04-15'
 lastmod: 2023-01-21T08:46:56+01:00
 featured: false
 draft: false
@@ -20,6 +20,12 @@ image:
   caption: 'Correlation coefficient between SLA and upper mid-ocean transport at 26.5◦N. Red indicates positive corre- lation, and blue negative. Stippled regions are significant at the 95% level. Mean dynamic ocean topography is overlaid with black contours (contour interval, 20 cm).'
   focal_point: ''
   preview_only: false
+
+links:
+- url: https://eprints.soton.ac.uk/376014/
+  name: URL
+url_pdf: https://eprints.soton.ac.uk/376014/1/grl52852.pdf
+url_dataset: https://figshare.com/articles/dataset/Dataset_for_MOC_and_proxy_at_26N/1461658
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

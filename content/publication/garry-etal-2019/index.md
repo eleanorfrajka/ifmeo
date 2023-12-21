@@ -28,6 +28,9 @@ image:
   preview_only: false
 
 url_pdf: https://eprints.soton.ac.uk/430377/1/Garry_et_al_2019_Journal_of_Geophysical_Research_Oceans.pdf
+links:
+- url: https://eprints.soton.ac.uk/430377
+  name: URL
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

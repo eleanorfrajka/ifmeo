@@ -3,7 +3,7 @@
 
 title: Monitoring the Atlantic meridional overturning circulation
 subtitle: ''
-summary: ''
+summary: 'The original RAPID methodology, now updated in McCarthy et al. 2015.'
 authors:
 - Darren Rayner
 - J. J. -M. Hirschi
@@ -19,7 +19,7 @@ authors:
 - Stuart A. Cunningham
 tags: ["AMOC"]
 categories: []
-date: '2011-01-01'
+date: '2011-01-27'
 lastmod: 2023-01-21T08:46:59+01:00
 featured: false
 draft: false
@@ -28,16 +28,26 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: ' Schematic of the MOC monitoring array at 261N. The MOC is decomposed
+into three components: (1) Gulf Stream transport TGS through the Florida Straits
+(red arrow), (2) the near-surface wind driven Ekman transport TEK (green arrow)
+arising from the zonal wind stress and (3) geostrophic (thermal wind) contribu-
+tion TINT (light blue arrows) calculated between adjacent pairs of ‘‘moorings’’
+(vertical lines). Yellow arrows indicate a spatially constant velocity correction that
+ensures mass balance across the section. (For interpretation of the references to
+color in this figure legend, the reader is referred to the web version of this article.)'
   focal_point: ''
-  preview_only: false
+  preview_only: true
+
+
+url_pdf: https://www.aoml.noaa.gov/phod/docs/2011_DSRII_Rayner_etal.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:59.002079Z'
 publication_types:
 - '2'
@@ -58,3 +68,13 @@ abstract: A recent hydrographic section at 24.5°N in the Atlantic and 6 months 
 publication: '*Deep Sea Res. II*'
 doi: 10.1016/j.dsr2.2010.10.056
 ---
+
+![figure](featured.png)
+Figure 2. Schematic of the MOC monitoring array at 261N. The MOC is decomposed
+into three components: (1) Gulf Stream transport TGS through the Florida Straits
+(red arrow), (2) the near-surface wind driven Ekman transport TEK (green arrow)
+arising from the zonal wind stress and (3) geostrophic (thermal wind) contribu-
+tion TINT (light blue arrows) calculated between adjacent pairs of ‘‘moorings’’
+(vertical lines). Yellow arrows indicate a spatially constant velocity correction that
+ensures mass balance across the section. (For interpretation of the references to
+color in this figure legend, the reader is referred to the web version of this article.)

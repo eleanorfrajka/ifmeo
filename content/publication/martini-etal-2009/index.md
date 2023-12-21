@@ -25,8 +25,10 @@ image:
   preview_only: false
 
 url_pdf: http://mpowir.org/wp-content/uploads/2009/03/Download-the-article-by-Martini-Frajka-Williams-and-Mouw1.pdf
-url_source: https://tos.org/oceanography/article/the-pattullo-conference-building-community-through-mentoring
-
+url_source: 
+links:
+- url: https://tos.org/oceanography/article/the-pattullo-conference-building-community-through-mentoring
+  name: URL
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

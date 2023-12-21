@@ -27,6 +27,12 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+- url: https://eprints.soton.ac.uk/432142/
+  name: URL
+- url: https://eprints.soton.ac.uk/432142/1/hirschi19jpo.pdf
+  name: PDF (accepted)
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
