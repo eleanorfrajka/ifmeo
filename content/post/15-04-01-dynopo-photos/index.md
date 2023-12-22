@@ -8,7 +8,7 @@ tags: ["Southern Ocean", fieldwork]
 categories: [Photos]
 project: [dynopo]
 date: 2015-04-01
-date: 9999-01-01
+
 authors:
 
 # Featured image
@@ -45,5 +45,5 @@ slides: ""
 ---
 
 ## Fieldwork in 2015:
-<!--{{< gallery album="jr310b">}}-->
-{{< gallery album="terific3">}}
+
+{{< gallery album="jr310">}}

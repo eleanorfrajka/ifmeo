@@ -60,13 +60,13 @@ To address task (1) above, we will measure the velocity and properties of AABW a
 We will use our findings from tasks (1) and (2) to define how and why the volume and properties of the AABW escaping the Weddell Sea through the Orkney Passage react to changes in winds. Armed with this new understanding, we will revisit the widespread AABW warming and contraction observed over recent decades, and inform the international strategy to monitor future changes in AABW circulation.
 
 
-
-NERC Reference: [NE/N001745/1](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FN001745%2F1), [NE/N001745/2](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FN001745%2F2), [NE/N001745/3](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FN001745%2F3)
-
 ## Data
 
 - Cruise JR16005 Data: https://www.bodc.ac.uk/data/documents/nodb/551253/
 
 ## Grant
 
-UKRI - BAS [NE/K012843/1](https://gtr.ukri.org/projects?ref=NE%2FK012843%2F1&pn=0&fetchSize=50&selectedSortableField=parentPublicationTitle&selectedSortOrder=ASC), UKRI - Univ Southampton [NE/K013181/1](https://gotw.nerc.ac.uk/list_split.asp?awardref=NE%2FK012843%2F1)
+- UKRI - BAS [NE/K012843/1](https://gtr.ukri.org/projects?ref=NE%2FK012843%2F1&pn=0&fetchSize=50&selectedSortableField=parentPublicationTitle&selectedSortOrder=ASC), 
+- UKRI - Univ Southampton [NE/K013181/1](https://gotw.nerc.ac.uk/list_split.asp?awardref=NE%2FK012843%2F1)
+
+{{< gallery album="gallery">}}
