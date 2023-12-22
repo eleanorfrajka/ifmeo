@@ -18,7 +18,7 @@ authors:
 - K. W. Nicholls
 - L. N. Thomas
 - M. P. Meredith
-tags: [mixing, "Southern Ocean", submesoscale]
+tags: [mixing, "Southern Ocean", submesoscale, AUV]
 categories: []
 date: '2019-01-01'
 lastmod: 2023-01-21T08:46:55+01:00
