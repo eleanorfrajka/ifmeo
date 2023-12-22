@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Photos: Fieldwork in Qaqortoq, Greenland in December 2019 (TERIFIC)"
-summary: "Targeted Experiment to Reconcile Increased Freshwater with Increased Convection"
+summary: Fieldwork mobilised from Qaqortoq, Greenland aboard the Adolf Jensen.  To deploy 50 GDP drifters and two Seagliders.
 authors: [FrajkaWilliams-Eleanor, Duyck-Elodie, Breunig-Emelie,Shapkin-Boris, Schultz-Katja, Sorge-Yves]
 tags: ["Labrador Sea", fieldwork, gliders]
 categories: ["Photos"]

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Photos: Fieldwork in the Southern Ocean, JR310 (DynOPO)"
-summary: 
+summary:  Cruise to the Orkney Passage (between the Weddell Sea and Southern Ocean), to recover and redeploy OP moorings, M moorings, and complete hydrographic sections across OP and the A23 line.  9 March - 14 April 2015.
 authors: [FrajkaWilliams-Eleanor]
 tags: ["Southern Ocean", fieldwork]
 categories: [Photos]
@@ -47,3 +47,10 @@ slides: ""
 ## Fieldwork in 2015:
 
 {{< gallery album="jr310">}}
+
+
+
+## Cruise report for JR310
+
+- As PDF [here (external)](https://www.bodc.ac.uk/resources/inventories/cruise_inventory/reports/jr310.pdf)
+
