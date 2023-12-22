@@ -61,5 +61,5 @@ EU grant number [803140](https://cordis.europa.eu/project/id/803140) with doi [1
 
 ## Fieldwork photos
 
-- [Fieldwork in December 2019](terific-gallery1)
-- [Fieldwork in December 2021](terific-gallery3)
+- [Fieldwork in December 2019](../../post/19-12-01-terific-photos/)
+- [Fieldwork in December 2021](../../post/21-12-01-terific-photos/)
