@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Atlantic meridional overturning circulation observed by the RAPID-MOCHA-WBTS (RAPID-Meridional Overturning Circulation and Heatflux Array-Western Boundary Time Series) array at 26°N from 2004 to 2020 (v2020.2)"
+title: "Atlantic meridional overturning circulation observed by the RAPID-MOCHA-WBTS (RAPID-Meridional Overturning Circulation and Heatflux Array-Western Boundary Time Series) array at 26°N from 2004 to 2020 (v2020.1)"
 authors: 
-- Ben Moat
 - "FrajkaWilliams-Eleanor"
+- Ben Moat
 - David Smeed
 - D. Rayner
 - W. E. Johns 
 - M. O. Baringer
 - D. Volkov
 - J. Collins
-date: 2022-01-22T14:00:00
-doi: "10.5285/e91b10af-6f0a-7fa7-e053-6c86abc05a09"
+date: 2021-07-22T14:00:00
+doi: "10.5285/cc1e34b3-3385-662b-e053-6c86abc03444"
+category: [data]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-01-22T14:33:27+01:00
@@ -24,10 +25,10 @@ publishDate: 2023-01-22T14:33:27+01:00
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "British Oceanographic Data Centre - Natural Environment Research Council"
+publication: "British Oceanographic Data Centre"
 publication_short: "BODC"
 
-abstract: "RAPID 26°N array volume transport measurements and temperature/salinity profiles, from 2004 - 2020 (v2020.2)."
+abstract: "RAPID 26°N array volume transport measurements and temperature/salinity profiles, from 2004 - 2020 (v2020.1)."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -46,7 +47,7 @@ featured: false
 
 url_pdf:
 url_code:
-url_dataset: https://rapid.ac.uk/rapidmoc/rapid_data/datadl.php
+url_dataset:
 url_poster:
 url_project:
 url_slides:
