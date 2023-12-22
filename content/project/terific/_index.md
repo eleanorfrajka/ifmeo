@@ -10,7 +10,7 @@ categories: [project]
 date: 2023-01-05T21:21:51+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://terific.org"
+external_link: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,6 +33,11 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+#gallery_item:
+#- album: gallery
+#  image: https://vip1.loli.net/2020/11/11/OmVGhaz79iQJsvj.png
+#  caption: Another caption  # only shown when zoom out      
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -53,3 +58,8 @@ TERIFIC (2018-2023 + 2) addresses these gaps in understanding through new observ
 TERIFIC (Targeted Experiment to Reconcile Increased Freshwater with Increased Convection) is a 5-year ERC Starting Grant fellowship (Nov 2018 - Oct 2023 + 2 years) under the Horizon 2020 research and innovation programme, led by Eleanor Frajka-Williams (NOC).  It has two major fieldwork components: using drifters around the shelves of Greenland and autonomous surface and underwater vehicles in the Labrador Sea.  
 
 EU grant number [803140](https://cordis.europa.eu/project/id/803140) with doi [10.3030/803140](http://dx.doi.org/10.3030/803140).
+
+## Fieldwork photos
+
+- [Fieldwork in December 2019](terific-gallery1)
+- [Fieldwork in December 2021](terific-gallery3)
