@@ -36,4 +36,10 @@ The **Experimental Oceanography** group aims to advance our understanding of oce
 
 <hr>
 
+### Selected past projects (NOC and Univ. Southampton)
+
+- [Mechanisms responsible for Mesoscale Eddy Energy Dissipation (MerMEED)](../project/mermeed) - understanding the local drivers of mesoscale eddy dissipation at the western boundary of the Atlantic.
+
+- [Dynamics of the Orkney Passage Outflow (DynOPO)](../project/dynopo) - understanding drivers of outflow from the Weddell Sea to the wider Southern Ocean.
+
 For other past projects by the PI, see {{% staticref "uploads/EFW_CV.pdf" %}}CV{{% /staticref %}}

@@ -31,7 +31,7 @@ abstract: "The Denmark Strait Overflow (DSO) contributes roughly half to the tot
 # Summary. An optional shortened abstract.
 summary: "The main objectives of the cruise MSM21/1b were to characterize the spatio-temporal variability of the Denmark Strait overflow and to identify processes responsible for the exchange of the overflow plume with ambient water downstream of Denmark Strait. A multi-platform approach was taken to achieve the goals, based on moorings, an autonomous underwater vehicle (AUV), as well as lowered and vessel-mounted observations. From these platforms, measurements of temperature, salinity, dissolved oxygen, current velocity, dissipation of turbulent kinetic energy, and bottom pressure were obtained."
 
-tags: ["merian"]
+tags: ["MS Merian", microstructure]
 categories: ["data"]
 featured: false
 

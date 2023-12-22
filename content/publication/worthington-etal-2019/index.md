@@ -9,7 +9,7 @@ authors:
 - Emma Worthington
 - "FrajkaWilliams-Eleanor"
 - Gerard McCarthy
-tags: ["bottom pressure", methods, satellite]
+tags: ["bottom pressure", methods, satellite, gravimetry]
 categories: []
 date: '2019-01-15'
 lastmod: 2023-01-21T08:46:54+01:00

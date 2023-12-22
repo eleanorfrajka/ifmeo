@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Raw data including physical oceanography from mooring DS-D-18, Aug 8-25 2018 with CTD and ADCP."
 
-tags: ["mooring"]
+tags: [mooring, "CTD", "ADCP"]
 categories: [data]
 featured: false
 

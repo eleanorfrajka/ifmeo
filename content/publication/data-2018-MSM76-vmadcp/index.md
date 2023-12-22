@@ -27,7 +27,7 @@ abstract: "Shipboard ADCP data (75kHz) from the MSM76, 11 Aug 2018 - 11 Sep 2018
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["merian"]
+tags: ["MS Merian"]
 categories: [data]
 featured: false
 

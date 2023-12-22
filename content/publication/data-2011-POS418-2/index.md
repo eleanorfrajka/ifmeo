@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Physical oceanography during Poseidon cruise POS418/2, 24 July - 5 Aug 2011."
 
-tags: ["poseidon"]
+tags: ["Poseidon"]
 categories: ["data"]
 featured: false
 

@@ -16,7 +16,7 @@ authors:
 - B. Sinha
 - D. I. Berry
 - J. J. -M. Hirschi
-tags: [AMOC]
+tags: [AMOC,satellite,SST]
 categories: []
 date: '2016-07-05'
 lastmod: 2023-01-21T08:46:56+01:00

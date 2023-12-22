@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["mooring"]
+tags: [mooring, "MS Merian"]
 categories: [data]
 featured: false
 

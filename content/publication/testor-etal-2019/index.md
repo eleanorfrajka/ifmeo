@@ -14,7 +14,7 @@ authors:
 - C. Pattiaratchi
 - ' others'
 - FrajkaWilliams-Eleanor
-tags: [gliders]
+tags: [gliders,observing system]
 categories: []
 date: '2019-01-01'
 lastmod: 2023-01-21T08:46:54+01:00

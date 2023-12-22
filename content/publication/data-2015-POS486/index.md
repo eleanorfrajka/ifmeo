@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "CTD data in Denmark Strait and along the East Greenland slope, June 2015."
 
-tags: ["poseidon"]
+tags: ["Poseidon"]
 categories: [data]
 featured: false
 

@@ -10,7 +10,7 @@ authors:
 - Gwangseob Kim
 - Eleanor Williams
 - Stephen W. Nesbitt
-tags: []
+tags: [satellite]
 categories: []
 date: '2004-03-01'
 lastmod: 2023-01-21T08:46:59+01:00

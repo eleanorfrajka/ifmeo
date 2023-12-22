@@ -23,12 +23,12 @@ publication_short: ""
 
 abstract: "GEOMAR's autonomous underwater vehicle (AUV Abyss REMUS 6000) was deployed within the framework of a multi-platform experiment in June 2012 with R/V Maria S. Merian cruise MSM21/1b at about 180 km downstream of Denmark Strait. The scientific payload included a pumped Seabird 49 FastCAT CTD system, a paroscientific pressure sensor, and shear and temperature microstructure profiler from Rockland Scientific Inc.
 
-In total, six of eight AUV dives were carried out successfully. Aborts on three dives were caused by strong counter currents the AUV experienced in the Denmark Strait Overflow plume, which made the AUV fail to reach its waypoints on schedule. During all missions the AUV was programmed to dive at constant depth levels along  straight legs approximately parallel to chosen isobaths with a constant speed of 1.6 m s-1 through the water."
+In total, six of eight AUV dives were carried out successfully. Aborts on three dives were caused by strong counter currents the AUV experienced in the Denmark Strait Overflow plume, which made the AUV fail to reach its waypoints on schedule. During all missions the AUV was programmed to dive at constant depth levels along straight legs approximately parallel to chosen isobaths with a constant speed of 1.6 m s-1 through the water."
 
 # Summary. An optional shortened abstract.
 summary: "Dissipation from MicroRider, Rockland Scientific Inc."
 
-tags: ["merian"]
+tags: ["MS Merian"]
 categories: [data]
 featured: false
 

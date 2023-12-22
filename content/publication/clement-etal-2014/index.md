@@ -10,7 +10,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 - Zoltan B. Szuts
 - Stuart A. Cunningham
-tags: [AMOC, mesoscale]
+tags: [AMOC, mesoscale, satellite, altimetry]
 categories: []
 date: '2014-09-03'
 lastmod: 2023-01-21T08:46:57+01:00

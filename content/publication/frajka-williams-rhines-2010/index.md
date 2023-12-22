@@ -8,7 +8,7 @@ summary: ''
 authors:
 - "FrajkaWilliams-Eleanor"
 - Peter B. Rhines
-tags: ["Labrador Sea", biophysical, freshwater]
+tags: ["Labrador Sea", biophysical, freshwater,satellite,ocean colour]
 categories: []
 date: '2010-01-21'
 lastmod: 2023-01-21T08:46:59+01:00

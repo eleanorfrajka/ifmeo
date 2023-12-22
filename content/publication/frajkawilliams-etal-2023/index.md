@@ -27,7 +27,7 @@ abstract: "The Atlantic meridional overturning circulation (AMOC) is a large-sca
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ['AMOC']
+tags: ['AMOC', observing system]
 categories: []
 featured: false
 

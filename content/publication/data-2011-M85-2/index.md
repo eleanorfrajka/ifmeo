@@ -27,7 +27,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "CTD data from the METEOR M85/2 cruise in Denmark Strait, East Greenland Current and Flemish Cap region, Aug 2011."
 
-tags: ["meteor"]
+tags: ["Meteor"]
 categories: ["data"]
 featured: false
 

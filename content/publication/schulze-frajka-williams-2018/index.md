@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Lena M. Schulze Chretien
 - "FrajkaWilliams-Eleanor"
-tags: ["freshwater", "Labrador Sea"]
+tags: ["freshwater", "Labrador Sea", model, satellite,altimetry]
 categories: []
 date: '2018-01-01'
 lastmod: 2023-01-21T08:46:55+01:00

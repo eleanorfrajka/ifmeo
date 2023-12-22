@@ -23,9 +23,9 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Physical oceanography during Meteor cruise M8/2, 27 Nov - 13 Dec 1988."
+summary: "Physical oceanography during Maria S. Merian cruise MSM12/1, May - June 2009."
 
-tags: ["merian"]
+tags: ["MS Merian"]
 categories: [data]
 featured: false
 

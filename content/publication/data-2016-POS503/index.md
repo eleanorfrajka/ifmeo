@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Physical oceanography during POSEIDON cruise POS503, Aug 2016."
 
-tags: ["poseidon"]
+tags: ["Poseidon"]
 categories: [data]
 featured: false
 

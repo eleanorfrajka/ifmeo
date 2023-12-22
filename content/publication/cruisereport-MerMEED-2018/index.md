@@ -27,7 +27,7 @@ abstract: "The MerMEED (Mechanisms responsible for Mesoscale Eddy Energy Dissipa
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["microstructure"]
+tags: ["microstructure", "Cruise Report"]
 categories: ["cruise report"]
 featured: false
 

@@ -27,7 +27,7 @@ abstract: "Physical oceanography (CTD) during Maria S. Merian cruise MSM76, 11 A
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["merian"]
+tags: ["MS Merian"]
 categories: [data]
 featured: false
 

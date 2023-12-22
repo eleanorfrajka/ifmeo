@@ -10,7 +10,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 - B. I. Moat
 - D. A. Smeed
-tags: [AMOC, methods, satellite]
+tags: [AMOC, methods, satellite, altimetry]
 categories: []
 date: '2021-01-01'
 lastmod: 2023-01-21T08:46:53+01:00

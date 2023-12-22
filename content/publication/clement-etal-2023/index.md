@@ -10,7 +10,7 @@ authors:
 - N. von Oppeln-Bronikowski
 - I. Goszczko
 - B. de Young
-tags: ["gliders","labrador sea","submesoscale", freshwater]
+tags: ["gliders","labrador Sea","submesoscale", freshwater,SST]
 categories: ["terific"]
 date: '2023-07-01'
 lastmod: 2023-01-21T08:46:58+01:00

@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Hydrographic observations (CTD) on the Greenland-Scotland Ridge during Poseidon cruise 294 from 7-27 Sep 2002."
 
-tags: ["poseidon"]
+tags: ["Poseidon"]
 categories: [data]
 featured: false
 

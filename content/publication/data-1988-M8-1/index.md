@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Physical oceanography during Meteor cruise M8/1, 2-14 Nov 1988."
 
-tags: ["meteor"]
+tags: ["Meteor"]
 categories: [data]
 featured: false
 

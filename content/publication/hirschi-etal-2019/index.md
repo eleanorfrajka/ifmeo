@@ -12,7 +12,7 @@ authors:
 - P. Hyder
 - A. Coward
 - ' others'
-tags: [mesoscale, AMOC]
+tags: [mesoscale, AMOC, satellite, "Gulf Stream",altimetry]
 categories: []
 date: '2019-01-01'
 lastmod: 2023-01-21T08:46:54+01:00

@@ -27,7 +27,7 @@ abstract: "For the station-based current velocity measurements during MSM76, a p
 # Summary. An optional shortened abstract.
 summary: "LADCP data from the MSM76 cruise, Svalbard to Denmark Strait in Aug 2018 - Sep 2018."
 
-tags: ["merian"]
+tags: ["MS Merian", "ADCP"]
 categories: [data]
 featured: false
 

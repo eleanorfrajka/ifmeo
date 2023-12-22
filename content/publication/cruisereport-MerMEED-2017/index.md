@@ -6,7 +6,8 @@ authors:
 - FrajkaWilliams-Eleanor
 date: 2017-06-08
 doi: ""
-
+tags: 
+  - Cruise Report
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-12-21
 
@@ -26,7 +27,7 @@ The purpose of this cruise was to make microstructure temperature and shear meas
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["microstructure"]
+tags: ["microstructure", "Cruise Report"]
 categories: ["cruise report"]
 featured: false
 

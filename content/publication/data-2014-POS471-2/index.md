@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Hydrographic observations on the Greenland-Scotland Ridge during Poseidon cruises 471/2 and 3 from 5. - 24. July 2014."
 
-tags: ["poseidon"]
+tags: ["Poseidon"]
 categories: [data]
 featured: false
 

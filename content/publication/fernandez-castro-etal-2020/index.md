@@ -11,7 +11,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 - Clement Vic
 - Alberto Naveira~Garabato
-tags: ["gliders", "mixing", "mesoscale"]
+tags: ["gliders", "mixing", "mesoscale", satellite,altimetry]
 categories: []
 date: '2020-07-01'
 lastmod: 2023-01-21T08:46:54+01:00

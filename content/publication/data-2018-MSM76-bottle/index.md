@@ -27,7 +27,7 @@ abstract: "Physical oceanography (bottle data) during Maria S. Merian cruise MSM
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["merian"]
+tags: ["MS Merian"]
 categories: [data]
 featured: false
 

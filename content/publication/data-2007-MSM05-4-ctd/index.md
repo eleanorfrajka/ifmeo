@@ -26,7 +26,7 @@ abstract: "Physical oceanography during Maria S. Merian cruise MSM05/4, 9-15 Jul
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["merian"]
+tags: ["MS Merian"]
 categories: ["data"]
 featured: false
 

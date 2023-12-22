@@ -15,7 +15,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 - A. Ridout
 - M. P. Meredith
-tags: ["Southern Ocean", "satellite"]
+tags: ["Southern Ocean", "satellite",altimetry]
 categories: []
 date: '2018-06-15'
 lastmod: 2023-01-21T08:46:55+01:00

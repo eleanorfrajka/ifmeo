@@ -28,7 +28,7 @@ This is the third cruise of the MerMEED project. The purpose of this cruise was 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["microstructure"]
+tags: ["microstructure", "Cruise Report"]
 categories: ["cruise report"]
 featured: false
 

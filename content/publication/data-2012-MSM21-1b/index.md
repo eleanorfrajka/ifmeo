@@ -28,7 +28,7 @@ In total, six of eight AUV dives were carried out successfully. Aborts on three 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["merian"]
+tags: ["MS Merian"]
 categories: [data]
 featured: false
 

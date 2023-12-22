@@ -8,7 +8,7 @@ authors:
 - D. G. Evans
 - "FrajkaWilliams-Eleanor"
 - A. C. Naveira~Garabato
-tags: ["Mesoscale", "Mixing", "Satellite"]
+tags: ["Mesoscale", "Mixing",satellite,altimetry]
 categories: []
 date: '2022-01-18'
 lastmod: 2023-01-21T08:46:52+01:00

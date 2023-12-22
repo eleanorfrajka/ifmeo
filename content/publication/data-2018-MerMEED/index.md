@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "MeRMEED cruise and mooring data - Vertical microstructure, CTD, vessel mounted ADCP, moored ADCP, 2016-2018"
+title: "Data: MeRMEED cruise and mooring data - Vertical microstructure, CTD, vessel mounted ADCP, moored ADCP, 2016-2018"
 authors: 
 - D. Gwyn Evans
 - "FrajkaWilliams-Eleanor"
 - Alberto C. Naveira Garabato
 - Kurt L. Polzin
 - Alex Forryan
-date: 2018-03-16T12:00:00
+date: 2020-11-19
 doi: "10.1594/PANGAEA.925756"
 
 # Schedule page publish date (NOT publication's date).

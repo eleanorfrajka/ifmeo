@@ -25,7 +25,7 @@ abstract: "Physical oceanography (CTD) during Meteor cruise M59/1. 30 June - 19 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["meteor"]
+tags: ["Meteor"]
 categories: ["data"]
 featured: false
 

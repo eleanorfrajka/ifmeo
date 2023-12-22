@@ -25,7 +25,7 @@ abstract: "Physical oceanography during Meteor cruise M82/1, 5-31 July 2010."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["meteor"]
+tags: ["Meteor"]
 categories: [data]
 featured: false
 

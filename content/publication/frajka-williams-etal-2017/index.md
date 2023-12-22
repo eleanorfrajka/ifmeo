@@ -9,7 +9,7 @@ authors:
 - "FrajkaWilliams-Eleanor"
 - Claudie Beaulieu
 - Aurelie Duchez
-tags: [Atlantic, AMV]
+tags: [Atlantic, AMV,satellite,SST]
 categories: []
 date: '2017-09-11'
 lastmod: 2023-01-21T08:46:55+01:00

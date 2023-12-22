@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: "Physical oceanography during VALDIVIA cruise VA35, 5-28 Oct 1985."
 
-tags: ["valdivia"]
+tags: ["Valdivia"]
 categories: [data]
 featured: false
 

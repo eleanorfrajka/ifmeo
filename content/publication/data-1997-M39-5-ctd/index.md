@@ -26,7 +26,7 @@ abstract: "Physical oceanography during METEOR cruise M39/5, 14-28 Aug 1997."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["meteor"]
+tags: ["Meteor"]
 categories: ["data"]
 featured: false
 

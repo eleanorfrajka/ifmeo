@@ -16,7 +16,7 @@ authors:
 - P. R. Holland
 - H. D. B. S. Heorton
 - M. P. Meredith
-tags: ["Southern Ocean"]
+tags: ["Southern Ocean", satellite,altimetry]
 categories: []
 date: '2019-05-23'
 lastmod: 2023-01-21T08:46:54+01:00

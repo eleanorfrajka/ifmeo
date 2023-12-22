@@ -10,7 +10,7 @@ authors:
 - C. S. Meinen
 - L. M. Beal
 - S. A. Cunningham
-tags: [AMOC,mesoscale]
+tags: [AMOC,mesoscale,satellite,Gulf Stream,altimetry]
 categories: []
 date: '2013-01-10'
 lastmod: 2023-01-21T08:46:58+01:00

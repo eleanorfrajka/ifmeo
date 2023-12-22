@@ -25,7 +25,7 @@ abstract: "Physical oceanography during POSEIDON cruise POS437/1, 4-12 Aug 2012.
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["poseidon"]
+tags: ["Poseidon"]
 categories: [data]
 featured: false
 

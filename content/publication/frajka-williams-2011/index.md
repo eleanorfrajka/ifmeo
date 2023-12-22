@@ -6,7 +6,7 @@ subtitle: ''
 summary: 'A summary of the RAPID 26°N results through 2011.'
 authors:
 - "FrajkaWilliams-Eleanor"
-tags: ["moorings"]
+tags: ["mooring"]
 categories: []
 date: '2011-06-01'
 lastmod: 2023-01-21T08:46:58+01:00

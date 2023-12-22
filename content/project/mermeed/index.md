@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "MerMEED"
+title: "MerMEED Project (2015 - 2020)"
 summary: "Mechanisms responsible for mesoscale eddy energy dissipation"
-authors: [FrajkaWilliams-Eleanor]
+authors: [FrajkaWilliams-Eleanor, Alberto Naveira Garabato, D. Gwyn Evans]
 tags: []
 categories: [project]
 date: 2015-09-01
@@ -51,7 +51,7 @@ Over the last decades, oceanographers have been searching for the missing mixing
 Fundamental physics dictate that most eddies move slowly westward, and these eddies are visible in satellite measurements of sea surface height a few months before they arrive at the boundary. In the project MeRMEED, we will watch the eddies in near real-time satellite data, and when an appropriate eddy approaches the east coast of North America, we will deploy a small team of researchers, with advanced instruments, to meet the eddy upon arrival. There, we will survey the eddy using high-resolution profilers deployed from small boats and autonomous underwater vehicles called Seagliders. After the ship-based survey is completed, the gliders will continue to observe the eddies for several months, as the eddies are slowly disappearing. These gliders transmit their measurements via satellite communications back to our base station in England. We also plan to use the existing observations from the joint UK/US-funded RAPID programme, measuring ocean circulation at 26N. We will install additional high-resolution velocity and temperature meters on one of these moorings, to make continuous observations of the eddies over 18 months. From the survey, glider and moored measurements, we will be able to assess how important local dissipation is to the disappearance of eddies. We will use our findings to shed light on the processes responsible for eddy disappearance from the oceans, and how those processes change in time.
 
 
-NERC Reference: NE/N001745/1, NE/N001745/2, NE/N001745/3 
+NERC Reference: [NE/N001745/1](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FN001745%2F1), [NE/N001745/2](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FN001745%2F2), [NE/N001745/3](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FN001745%2F3)
 
 ## Data
 

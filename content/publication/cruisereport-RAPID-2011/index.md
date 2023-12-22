@@ -10,6 +10,7 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: 2012-01-24
 
+tags: []
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -33,7 +34,7 @@ abstract: "This report describes the mooring operations conducted during RV Knor
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["moorings"]
+tags: [mooring, "Cruise Report"]
 categories: ["cruise report"]
 featured: false
 
@@ -69,7 +70,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["rapid"]
+projects: [rapid]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -26,7 +26,7 @@ abstract: ""
 summary: "Hydrographic observations in the Northwest and Northeast Atlantic during Valdivia cruise 161/2 from 19. August - 5. September 1996.
 "
 
-tags: ["valdivia"]
+tags: ["Valdivia"]
 categories: [data]
 featured: false
 

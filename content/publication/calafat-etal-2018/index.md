@@ -11,7 +11,7 @@ authors:
 - Fredrik Lindsten
 - Joanne Williams
 - "FrajkaWilliams-Eleanor"
-tags: [AMOC]
+tags: [AMOC, satellite, Atlantic,altimetry]
 categories: []
 date: '2018-12-01'
 lastmod: 2023-01-21T08:46:55+01:00
