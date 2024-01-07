@@ -5,7 +5,7 @@ title: Topographic Eddies
 subtitle: ''
 summary: ''
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 tags: [mesoscale]
 categories: []
 date: 2019-03-13
@@ -28,8 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-01-21T07:46:54.563931Z'
-publication_types:
-- '6'
+publication_types: ["chapter"]
 abstract: 'This is a article on flow over topography named “Topographic eddies”. It covers the theory behind flow interactions with topography including islands, headlands and capes, sills and seamounts, as well as observational investigations of the same, and their influence on biology.'
 publication: '*Encyclopedia of Ocean Sciences*'
 doi: 10.1016/B978-0-12-409548-9.10852-8

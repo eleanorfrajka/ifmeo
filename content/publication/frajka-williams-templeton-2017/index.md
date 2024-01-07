@@ -5,7 +5,7 @@ title: Boaty McBoatface M44 in Orkney Passage
 subtitle: ''
 summary: ''
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - Rob Templeton
 tags: [AUV, "Southern ocean"]
 categories: []
@@ -33,7 +33,7 @@ links:
 projects: [dynopo]
 publishDate: '2023-01-21T07:46:55.803130Z'
 publication_types:
-- '0'
+  - "motion_picture"
 abstract: 'Autosub Long Range (aka Boaty McBoatface) is an autonomous underwater vehicle developed at the National Oceanography Centre Southampton. For its maiden voyage, University of Southampton oceanographers led by Alberto Naveira Garabato deployed the ALR around Orkney Passage as part of the DynOPO (Dynamics of the Orkney Passage Outflow) field operations in 2017.
 
 During the recent DynOPO 2017 cruise, we created a fly-through animation of Autosub Long Range''s voyage (3.5 days, compressed into 3.5 minutes) to visualise its progress. It has cameo appearances by a Rockland Vertical Microstructure Profiler and the British Antarctic Survey ship, the RRS James Clark Ross.

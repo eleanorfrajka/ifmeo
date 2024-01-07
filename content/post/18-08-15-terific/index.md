@@ -3,6 +3,8 @@ title: Greenland melting - where does the freshwater go?
 date: 2018-08-15
 show_related: true
 private: true
+projects: ["terific"]
+tags: ["terific"]
 author: FrajkaWilliams-Eleanor
 image:
     caption: 'Trajectories of surface drifters passing through the red triangle near 65N, 40W. Bathymetry is shaded.'

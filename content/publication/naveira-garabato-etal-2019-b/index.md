@@ -11,7 +11,7 @@ authors:
 - S. Bacon
 - M. Tsamados
 - A. Ridout
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - L. Herraiz-Borreguero
 - P. R. Holland
 - H. D. B. S. Heorton
@@ -42,8 +42,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-01-21T07:46:54.231326Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'The response of the subpolar Southern Ocean (sSO) to wind forcing is assessed using satellite radar altimetry. sSO sea level exhibits a phased, zonally coherent, bimodal adjustment to circumpolar wind changes, involving comparable seasonal and interannual variations. The adjustment is effected via a quasi-instantaneous exchange of mass between the Antarctic continental shelf and the sSO to the north, and a 2-month-delayed transfer of mass between the wider Southern Ocean and the subtropics. Both adjustment modes are consistent with an Ekman-mediated response to variations in surface stress. Only the fast mode projects significantly onto the surface geostrophic flow of the sSO; thus, the regional circulation varies in phase with the leading edge of sSO sea level variability. The surface forcing of changes in the sSO system is partly associated with variations of surface winds linked to the Southern Annular Mode and is modulated by sea ice cover near Antarctica.'
 publication: '*Geophys. Res. Lett.*'
 doi: 10.1029/2019GL082850

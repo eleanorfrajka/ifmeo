@@ -4,6 +4,9 @@ date: 2019-05-01
 tags:
     - Labrador Sea
     - drifters
+    - terific
+projects:
+    - terific
 show_related: true
 private: true
 author: 

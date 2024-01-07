@@ -5,7 +5,7 @@ title: "RAPID: Monitoring the meridional overturning circulation at 26°N"
 subtitle: ''
 summary: 'A summary of the RAPID 26°N results through 2011.'
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 tags: ["mooring"]
 categories: []
 date: '2011-06-01'
@@ -36,7 +36,7 @@ links:
 projects: [rapid]
 publishDate: '2023-01-21T07:46:58.660167Z'
 publication_types:
-- '5'
+- 'article_magazine'
 abstract: 'The ocean conveyor is a term used to describe how a parcel of water initially at the
 surface in high northern latitudes might travel at depth to the Southern Ocean, and then
 return in surface currents (see Figure 1). The conveyor belt idea made its Hollywood

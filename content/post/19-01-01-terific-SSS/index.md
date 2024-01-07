@@ -5,6 +5,9 @@ tags:
     - satellite
     - SSS
     - Labrador Sea
+    - terific
+projects:
+    - terific
 show_related: true
 private: true
 author: FrajkaWilliams-Eleanor

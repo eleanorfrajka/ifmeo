@@ -11,7 +11,7 @@ authors:
 - Ryan H. Smith
 - Elizabeth M. Johns
 - Darren Rayner
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - Rigoberto F. Garcia
 - Silvia L. Garzoli
 tags: [AMOC]
@@ -41,8 +41,11 @@ url_pdf: https://eprints.soton.ac.uk/431923/1/Meinen_et_al_2019_Journal_of_Geoph
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:54.341643Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: ''
 publication: '*J. Geophys. Res.*'
 doi: 10.1029/2018JC014836

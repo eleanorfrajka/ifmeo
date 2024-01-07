@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. J. -M. Hirschi
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - A. T. Blaker
 - B. Sinha
 - P. Hyder
@@ -40,8 +40,11 @@ links:
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:54.450299Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: ''
 publication: '*J. Phys. Ocean.*'
 doi: 10.1175/JPO-D-18-0236.1

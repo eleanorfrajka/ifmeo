@@ -7,7 +7,7 @@ subtitle: ''
 summary: 'A method for estimating 26°N overturning from time-varying satellite altimetry and time-averaged boundary profiles of dynamic height.'
 authors:
 - A. Sanchez-Franks
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - B. I. Moat
 - D. A. Smeed
 tags: [AMOC, methods, satellite, altimetry]
@@ -37,8 +37,11 @@ url_pdf: https://nora.nerc.ac.uk/id/eprint/531122/1/os-17-1321-2021%20%281%29.pd
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:52.985550Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The large-scale system of ocean currents that transport warm waters in the
   upper 1000 m northward and return deeper cooler waters southward is known as the
   At- lantic meridional overturning circulation (AMOC). Varia- tions in the AMOC have

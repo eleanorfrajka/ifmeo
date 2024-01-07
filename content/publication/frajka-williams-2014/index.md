@@ -5,7 +5,7 @@ title: Sustaining observations of an unsteady ocean circulation
 subtitle: ''
 summary: ''
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 tags: []
 categories: []
 date: '2014-09-28'
@@ -33,8 +33,11 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-01-21T07:46:56.948925Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Sustained observations of ocean properties reveal a global warming trend
   and rising sea levels. These changes have been documented by traditional ship-based
   measurements of ocean properties, whereas more recent Argo profiling floats and

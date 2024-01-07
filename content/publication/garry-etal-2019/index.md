@@ -10,7 +10,7 @@ authors:
 - A. T. Blaker
 - C. D. Roberts
 - D. G. Desbruyeres
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - B. A. King
 tags: [observing system]
 categories: []
@@ -39,8 +39,11 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-01-21T07:46:54.672441Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'In recent decades, deep (below 2,000 m) ocean temperature trends have been measured when scientific research vessels repeat the same lines across an ocean basin. Repeats typically happen once or twice a decade, and there are only a few repeated lines across each basin. The sparsity of data in both space and time will result in errors in the multidecadal temperature trends calculated from this data. Here, we use a state-of-the-art ocean model to show how trends calculated from observational-style sampling compare to trends calculated using all model data. For the period 1990–2010, we estimate the error that may exist in observed deep ocean trend estimates. Overall, around 80% of the below 2,000-m warming trend was captured by observational-style sampling in the model, so deep ocean warming in recent decades may have been underestimated. However, our results are based on only one model simulation. The largest sources of sampling error are found in the Atlantic, Southern, and Indian Oceans. For each basin, we reveal whether limited sampling in time or space contributes most error to the temperature trend estimate, and therefore in which regions temperature trend estimates would benefit from additional deep ocean sampling.'
 publication: '*J. Geophys. Res.*'
 doi: 10.1029/2018JC014225

@@ -6,7 +6,7 @@ deep convecting Labrador Sea, as observed by Seagliders'
 subtitle: ''
 summary: ''
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 tags: ["mesoscale", "labrador sea", "gliders", biophysical, methods]
 categories: []
 date: '2009-08-15'
@@ -35,7 +35,7 @@ links:
 projects: []
 publishDate: '2023-01-21T07:46:59.227233Z'
 publication_types:
-- '7'
+- 'thesis'
 abstract: 'The Labrador Sea is a critical region in the world’s ocean: a region where the effects of climate
 change are seen quickly and strikingly, and where dynamic processes that affect climate change are
 observed. A recent effect of climate change is the increase of freshwater to high latitudes, as Arctic

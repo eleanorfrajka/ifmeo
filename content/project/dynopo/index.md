@@ -2,15 +2,15 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "DynOPO Project (2014 - 2020)"
-summary: "Mechanisms responsible for mesoscale eddy energy dissipation"
-authors: [Alberto Naveira Garabato, FrajkaWilliams-Eleanor, Mike Meredith, Povl Abrahamsen, Keith Nicholls, Sonya Legg, Kurt Polzin, Christian Buckingham, Carl Spingys, Chris Auckland]
-tags: []
+summary: "Dynamics of the Orkney Passage Outflow. Understanding drivers of outflow from the Weddell Sea to the wider Southern Ocean."
+authors: [Alberto Naveira Garabato, Eleanor Frajka-Williams, Mike Meredith, Povl Abrahamsen, Keith Nicholls, Sonya Legg, Kurt Polzin, Christian Buckingham, Carl Spingys, Chris Auckland]
+tags: [mesoscale]
 categories: [project]
 date: 2015-09-01
 
 lastmod: 2020-02-28
 # Optional external URL for project (replaces project detail page).
-external_link: "https://projects.noc.ac.uk/mermeed/"
+external_link: 
 
 # Turn off icons
 share: false

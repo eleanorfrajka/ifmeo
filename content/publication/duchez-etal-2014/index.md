@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Duchez
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - N. Castro
 - J. J. -M. Hirschi
 - A. Coward
@@ -38,8 +38,11 @@ url_pdf: https://eprints.soton.ac.uk/362284/1/jgrc20599.pdf
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:57.624956Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The meridional interior flow obtained from the RAPID array is determined
   by horizontal density fluctuations at the eastern and western boundary of 26°N.
   The physical causes of these density variations are responsible for fluctuations

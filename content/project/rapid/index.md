@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "RAPID project"
-summary: "RAPID/MOCHA/WBTS array at 26°N"
+summary: "RAPID/MOCHA/WBTS array at 26°N to observe the AMOC at 26°N using a moored array spanning the Atlantic."
 authors: []
 tags: ["AMOC"]
 categories: [project]

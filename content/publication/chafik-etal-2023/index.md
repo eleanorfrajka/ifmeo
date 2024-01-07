@@ -8,7 +8,7 @@ authors:
 - S. Bacon
 - J. A. Baker
 - D. Desbruyeres
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - L. C. Jackson
 date: 2023-12-18T08:41:33+01:00
 doi: "https://doi.org/10.1098/rsta.2022.0183"
@@ -17,10 +17,9 @@ doi: "https://doi.org/10.1098/rsta.2022.0183"
 publishDate: 2023-10-23T08:41:33+01:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, title-short, url, chapter-number, edition, page (range), volume, submitted (Date it was submitted)
+publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
 publication: "Philosophical Transactions of the Royal Society A"

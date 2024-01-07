@@ -1,9 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Global oceans: Meridional overturning circulation observations in the subtropical
+title: 'Meridional overturning circulation observations in the subtropical
   North Atlantic.'
-subtitle: ''
+subtitle: '*State of the Climate in 2011: Global Oceans*'
+container-title: '*State of the Climate in 2011: Global Oceans*'
 summary: ''
 authors:
 - M. O. Baringer
@@ -13,7 +14,7 @@ authors:
 - J. Willis
 - M. Lankhorst
 - W. R. Hobbs
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - T. Kanzow
 - D. Rayner
 - W. E. Johns
@@ -46,8 +47,8 @@ links:
 projects: [rapid]
 publishDate: '2023-01-21T07:46:58.427354Z'
 publication_types:
-- '4'
+- 'report'
 abstract: ''
-publication: '*State of the Climate in 2011*'
+publication: '*Bull. Amer. Meteor. Soc.*'
 doi: 10.1175/2012BAMSStateoftheClimate.1
 ---

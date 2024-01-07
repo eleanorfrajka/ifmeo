@@ -2,9 +2,12 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "MerMEED Project (2015 - 2020)"
-summary: "Mechanisms responsible for mesoscale eddy energy dissipation"
-authors: [FrajkaWilliams-Eleanor, Alberto Naveira Garabato, D. Gwyn Evans]
-tags: []
+summary: "Mechanisms responsible for mesoscale eddy energy dissipation. Understanding the local drivers of mesoscale eddy dissipation at the western boundary of the Atlantic."
+authors: 
+- Eleanor Frajka-Williams
+- Alberto Naveira Garabato
+- D. Gwyn Evans
+tags: [mesoscale]
 categories: [project]
 date: 2015-09-01
 

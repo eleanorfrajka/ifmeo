@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Bieito Fernandez-Castro
 - Dafydd Gwyn Evans
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - Clement Vic
 - Alberto Naveira~Garabato
 tags: ["gliders", "mixing", "mesoscale", satellite,altimetry]
@@ -38,8 +38,11 @@ url_pdf: https://eprints.soton.ac.uk/441026/2/jpod190168.pdf
 #   Otherwise, set `projects = []`.
 projects: [mermeed]
 publishDate: '2023-01-21T07:46:53.997184Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'A 4-month glider mission was analyzed to assess turbulent dissipation in
   an anticyclonic eddy at the western boundary of the subtropical North Atlantic.
   The eddy (radius ≈ 60 km) had a core of low potential vorticity between 100 and

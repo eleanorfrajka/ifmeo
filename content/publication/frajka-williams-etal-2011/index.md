@@ -5,7 +5,7 @@ title: Determining Vertical Velocities from Seaglider
 subtitle: ''
 summary: 'Methodology for estimating vertical seawater velocities from standard Seagliders.'
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - Charles C. Eriksen
 - Peter B. Rhines
 - Ramsey R. Harcourt
@@ -36,8 +36,11 @@ url_pdf: https://eprints.soton.ac.uk/206147/1/2011_jtech_frajkawilliams_etal_det
 #   Otherwise, set `projects = []`.
 projects: ["terific"]
 publishDate: '2023-01-21T07:46:58.660167Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Vertical velocities in the world’s oceans are typically small, less than
   1 cm s−1, posing a significant challenge for observational techniques. Seaglider,
   an autonomous profiling instrument, can be used to estimate vertical water velocity

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Stuart A. Cunningham
 - Chris Roberts
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - W. E. Johns
 - W. Hobbs
 - Matt D. Palmer
@@ -41,8 +41,11 @@ url_pdf: https://eprints.soton.ac.uk/361697/1/2013_grl_Cunningham_etal_AMOC_slow
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:57.397173Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Observations show that the upper 2 km of the subtropical North Atlantic
   Ocean cooled throughout 2010 and remained cold until at least December 2011. We
   show that these cold anomalies are partly driven by anomalous air-sea exchange during

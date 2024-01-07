@@ -34,7 +34,7 @@ url_pdf: hhttps://eprints.soton.ac.uk/412585/1/Garry_Freya_PhD_Thesis_June_17.pd
 projects: []
 publishDate: '2023-01-21T07:46:57.285207Z'
 publication_types:
-- '7'
+- 'thesis'
 abstract: 'Changes in full depth ocean heat content (OHC) serve as a key metric of climate change with accurate measurements vital to reduce uncertainties in other climate metrics such as the planetary energy imbalance and to improve global and re- gional sea level rise prediction. The below 2000 m ocean experiences low frequency sampling in time and space; over the last 30 years hydrographic ship transects were typically repeated every 5 - 10 years, covering a small fraction of the oceans.
 
 Uncertainties that exist in repeat hydrographic sampling are quantified here by deploying a pseudo hydrographic sampling array in high resolution ocean model output. Through comparison to the complete model output, this work presents an estimation of temporal and spatial biases that may exist in calculations of decadal OHC change below 2000 m from hydrographic sampling. In addition, longer times- cale changes in OHC and its spatial variations are revealed using centennial length simulations from four coupled climate models. The spatial structure and depth structure of OHC change are evaluated in anthropogenically unforced and forced scenarios to identify key regions and depths for future deep OHC observing.

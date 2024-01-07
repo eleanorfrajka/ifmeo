@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Gerard McCarthy
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - William E. Johns
 - M. O. Baringer
 - C. S. Meinen
@@ -42,8 +42,11 @@ url_pdf: https://eprints.soton.ac.uk/342371/2/2012_grl_McCarthy_FrajkaWilliams_O
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:58.543849Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The Atlantic meridional overturning circulation (MOC) plays a critical role
   in the climate system and is responsible for much of the heat transported by the
   ocean. A mooring array, nominally at 26°N between the Bahamas and the Canary Islands,

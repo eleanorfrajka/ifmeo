@@ -9,7 +9,7 @@ authors:
 - Simon Josey
 - William Johns
 - Bengamin Moat
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - D. Rayner
 - Christopher Meinen
 - Molly Baringer
@@ -37,8 +37,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:55.573410Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The Atlantic Meridional Overturning Circulation (AMOC) is responsible for
   a variable and climatically important northward transport of heat. Using data from
   an array of instruments that span theAtlantic at 26N, we show that the AMOC has

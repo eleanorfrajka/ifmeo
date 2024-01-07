@@ -5,7 +5,7 @@ title: Compensation between meridional flow components  of the Atlantic MOC at  
 subtitle: ''
 summary: ''
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - C. S. Meinen
 - W. E. Johns
 - D. A. Smeed
@@ -44,8 +44,11 @@ url_pdf: https://eprints.soton.ac.uk/390694/1/os-12-481-2016.pdf
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:56.260630Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: From ten years of observations of the Atlantic meridional overturning circulation
   (MOC) at 26° N (2004–2014), we revisit the question of flow compensation between
   components of the circulation. Contrasting with early results from the observations,

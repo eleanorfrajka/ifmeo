@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. Duchez
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - S. A. Josey
 - D. G. Evans
 - J. P. Grist
@@ -44,8 +44,11 @@ url_pdf: https://eprints.soton.ac.uk/397901/2/pdf
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:56.144137Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'The North Atlantic and Europe experienced two extreme climate events in
   2015: exceptionally cold ocean surface temperatures and a summer heat wave ranked
   in the top ten over the past 65 years. Here, we show that the cold ocean temperatures

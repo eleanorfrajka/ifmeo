@@ -1,9 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Global Oceans: Meridional overturning circulation and heat transport observations
+title: 'Meridional overturning circulation and heat transport observations
   in the Atlantic Ocean'
-subtitle: ''
+subtitle: 'State of the Climate in 2012: Global Oceans'
+container-title: 'State of the Climate in 2012: Global Oceans'
 summary: ''
 authors:
 - M. O. Baringer
@@ -20,7 +21,7 @@ authors:
 - D. A. Smeed
 - T. Kanzow
 - P. Heimbach
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - A. Macdonald
 - S. Dong
 - J. Marotzke
@@ -48,11 +49,11 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:58.082192Z'
 publication_types:
-- '4'
+- 'report'
 abstract: ''
-publication: '*State of the Climate in 2012*'
+publication: '*Bull. Amer. Meteor. Soc.*'
 doi: 10.1175/2013BAMSStateoftheClimate.1
 ---

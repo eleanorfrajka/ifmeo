@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Shane Elipot
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - C. Hughes
 - J. Willis
 tags: [AMOC, coherence, "bottom pressure"]
@@ -38,8 +38,11 @@ url_pdf: https://eprints.soton.ac.uk/357093/1/JPO-D-13-026-Elipot.pdf
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:57.736894Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'Analyses of meridional transport time series from the Rapid Climate Change–Meridional
   Overturning Circulation (RAPID MOC) array at 26°N and from Argo float and altimetry
   data at 41°N reveal that, at semiannual and longer time scales, the contribution

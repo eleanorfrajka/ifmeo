@@ -8,7 +8,7 @@ authors:
 - Victoria S. Hemsley
 - Timothy J. Smyth
 - Adrian P. Martin
-- FrajkaWilliams-Eleanor
+- Eleanor Frajka-Williams
 - Andrew F. Thompson
 - Gillian Damerell
 - Stuart C. PAinter
@@ -39,8 +39,11 @@ url_pdf: https://eprints.soton.ac.uk/374146/1/acs.est.5b00608.pdf
 #   Otherwise, set `projects = []`.
 projects: [osmosis]
 publishDate: '2023-01-21T07:46:57.285207Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'An autonomous underwater vehicle (Seaglider) has been used to estimate marine primary production (PP) using a combination of irradiance and fluorescence vertical profiles. This method provides estimates for depth-resolved and temporally evolving PP on fine spatial scales in the absence of ship-based calibrations. We describe techniques to correct for known issues associated with long autonomous deployments such as sensor calibration drift and fluorescence quenching. Comparisons were made between the Seaglider, stable isotope (13C) and satellite estimates of PP. The Seaglider-based PP estimates were comparable to both satellite estimates and stable isotope measurements.'
 publication: '*Environmental Science Technology*'
 doi: 10.1021/acs.est.5b00608

@@ -5,7 +5,7 @@ title: Eddy impacts on the Florida Current
 subtitle: ''
 summary: ''
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - W. E. Johns
 - C. S. Meinen
 - L. M. Beal
@@ -37,8 +37,11 @@ url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.50115"
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:57.968379Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The Gulf Stream in the Atlantic carries warm water northwards and forms
   both the return closure of the subtropical gyre as well as the upper limb of the
   meridional overturning circulation. Recent time series recorded east of the Bahamas

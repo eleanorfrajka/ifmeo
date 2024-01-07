@@ -9,7 +9,7 @@ authors:
 - Claudie Beaulieu
 - Valerie Livina
 - Florian Sevellec
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 tags: [AMOC]
 categories: []
 date: '2020-01-01'
@@ -32,8 +32,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-01-21T07:46:53.763395Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Determining whether the Atlantic Meridional Overturning Circulation (AMOC)'s
   transport is in decline is challenging due to the short duration of continuous observations.
   To estimate how many years are needed to detect a decline, we conduct a simulation

@@ -10,7 +10,7 @@ authors:
 - Thomas Wahl
 - Fredrik Lindsten
 - Joanne Williams
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 tags: [AMOC, satellite, Atlantic,altimetry]
 categories: []
 date: '2018-12-01'
@@ -38,8 +38,11 @@ url_pdf: https://eprints.soton.ac.uk/422069/1/s41467_018_04898_y.pdf
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:55.122926Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'Changes in the sea-level annual cycle (SLAC) can have profound impacts on coastal areas, including increased flooding risk and ecosystem alteration, yet little is known about the magnitude and drivers of such changes. Here we show, using novel Bayesian methods, that there are significant decadal fluctuations in the amplitude of the SLAC along the United States Gulf and Southeast coasts, including an extreme event in 2008–2009 that is likely (probability ≥68%) unprecedented in the tide-gauge record. Such fluctuations are coherent along the coast but decoupled from deep-ocean changes. Through the use of numerical and analytical ocean models, we show that the primary driver of these fluctuations involves incident Rossby waves that generate fast western-boundary waves. These Rossby waves project onto the basin-wide upper mid-ocean transport (top 1000 m) leading to a link with the SLAC, wherein larger SLAC amplitudes coincide with enhanced transport variability.'
 publication: '*Nature Comm.*'
 doi: 10.1038/s41467-018-04898-y

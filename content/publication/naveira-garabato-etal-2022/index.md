@@ -11,7 +11,7 @@ authors:
 - J. Callies
 - R. Barkan
 - K. L. Polzin
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - ' others'
 tags: [mesoscale, submesoscale]
 categories: []
@@ -37,10 +37,13 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [osmosis]
 publishDate: '2023-01-21T07:46:52.873850Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- article-journal
 abstract: Mesoscale eddies contain the bulk of the ocean’s kinetic energy (KE), but
   fundamental questions remain on the cross-scale KE transfers linking eddy generation
   and dissipation. The role of submesoscale flows represents the key point of discussion,

@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -8,10 +8,10 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: native
-  font_size: M
+  font: minimal
+  font_size: L
 
-# SEO - https://wowchemy.com/docs/hugo-tutorials/analytics/
+# SEO
 
 marketing:
   seo:
@@ -27,6 +27,7 @@ marketing:
     google: ''
     baidu: ''
 
+
 # Site header
 
 header:
@@ -35,9 +36,9 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
@@ -53,7 +54,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2 Jan 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -61,14 +62,12 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
-    extra_languages:
-      - r
-      - latex
+    theme_light: github-light
+    theme_dark: dracula
   math:
-    enable: true
+    enable: false
   privacy_pack:
-    enable: true
+    enable: false
   repository:
     url: 'https://github.com/eleanorfrajka/ifmeo'
     content_dir: content
@@ -108,6 +107,12 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
 
 # Citation style
 

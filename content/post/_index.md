@@ -1,13 +1,16 @@
 ---
-title: Latest News
+title: Posts
+cms_exclude: true
 
-# Listing view
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
 view: compact
+type: section
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
+# Optional header image (relative to `static/media/` folder).
+header:
   caption: ''
   image: ''
-
-show_related: true
 ---

@@ -3,7 +3,7 @@
 
 title: "Should AMOC observations continue: how and why?"
 authors: 
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - N. Foukal
 - G. Danabasoglu
 date: 2023-12-18T08:48:15+01:00
@@ -16,7 +16,7 @@ publishDate: 2023-10-23T08:48:15+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: [article-journal]
 
 # Publication name and optional abbreviated publication name.
 publication: "Philosophical Transactions of the Royal Society A"
@@ -28,7 +28,8 @@ abstract: "The Atlantic meridional overturning circulation (AMOC) is a large-sca
 summary: ""
 
 tags: ['AMOC', observing system]
-categories: []
+categories: [epoc]
+projects: [epoc]
 featured: false
 
 # Custom links (optional).
@@ -55,13 +56,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ['epoc']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - B. I. Moat
 - D. A. Smeed
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - Damien G. Desbruyeres
 - C. Beaulieu
 - William E. Johns
@@ -45,8 +45,12 @@ url_pdf: https://eprints.soton.ac.uk/442710/1/os_16_863_2020.pdf
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:53.879416Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
+
 abstract: The strength of the Atlantic meridional overturning circulation (AMOC) at
   26∘ N has now been continuously measured by the RAPID array over the period April
   2004–September 2018. This record provides unique insight into the variability of

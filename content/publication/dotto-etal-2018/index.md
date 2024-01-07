@@ -12,7 +12,7 @@ authors:
 - M. Tsamados
 - P. R. Holland
 - J. Hooley
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - A. Ridout
 - M. P. Meredith
 tags: ["Southern Ocean", "satellite",altimetry]
@@ -39,8 +39,11 @@ url_pdf: https://eprints.soton.ac.uk/421907/2/RossGyre.pdf
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-01-21T07:46:55.234133Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'The Ross Gyre is one of the main current systems of the Southern Ocean and conveys heat toward the cold continental shelves of the Antarctic Pacific sector, thus impacting the stability of diverse ice shelves. Due to the seasonal sea ice cover, measurements are sparse and little is known about the variability of the gyre''s circulation and its driving forces. Here we use satellite radar altimetry to generate new light on the Ross Gyre variability. Two key aspects are identified: (i) large-scale variability of the sea surface height driven by the zonal winds that flow around Antarctica and (ii) changes in area and strength of the gyre, which are linked to a regional center of low pressure that modulates the local meteorology and sea ice conditions. This same pressure system regulates the strength of the coastal currents, which potentially impacts on the distribution of key oceanic properties toward the Ross Sea. The processes identified in this study have strong implications for our understanding of the oceanic forcing of Antarctic Ice Sheet melting and for the downstream propagation of its ocean freshening footprint.'
 publication: '*Geophys. Res. Lett.*'
 doi: 10.1029/2018GL078607

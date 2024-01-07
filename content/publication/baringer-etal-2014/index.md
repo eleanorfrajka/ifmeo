@@ -1,9 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Global Oceans: Meridional overturning circulation observations in the North
+title: 'Meridional overturning circulation observations in the North
   Atlantic Ocean'
-subtitle: ''
+subtitle: 'State of the Climate in 2013: Global Oceans'
+container-title: 'State of the Climate in 2013: Global Oceans'
 summary: ''
 authors:
 - M. O. Baringer
@@ -17,7 +18,7 @@ authors:
 - C. S. Meinen
 - S. A. Cunningham
 - T. O. Kanzow
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - J. Marotzke
 tags: [AMOC]
 categories: []
@@ -39,11 +40,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [rapid]
 publishDate: '2023-01-21T07:46:56.834091Z'
 publication_types:
-- '4'
+- 'report'
 abstract: ''
-publication: '*State of the Climate in 2013*'
+publication: '*Bull. Amer. Meteor. Soc.*'
 doi: 10.1175/2014BAMSStateoftheClimate.1
 ---

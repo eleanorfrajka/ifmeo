@@ -1,0 +1,21 @@
+{{ define "main" }}
+	<!-- TITLE-->
+	{{ block "title" . }}
+		{{ partial "title.html" . }}
+	{{ end }}
+
+	<!-- CONTENT -->
+	{{ block "content" . }}
+		{{ partial "content.html" . }}
+	{{ end  }}
+
+	<!-- PAGE LIST -->
+	{{ block "pages" . }}
+		{{ partial "pages.html" . }}
+	{{ end }}
+
+	<!-- FILE LIST -->
+	{{ block "files" . }}
+		{{ partial "files.html" . }}
+	{{ end }}
+{{ end }}

@@ -6,11 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - B. de Young
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - Nicolai von Oppeln-Bronikowski
 - Stephen Woodward
 tags: ["gliders", "Labrador Sea", freshwater]
-categories: []
+categories: ["terific"]
+projects: [terific]
 date: '2020-10-26'
 lastmod: 2023-01-21T08:46:53+01:00
 featured: false
@@ -29,15 +30,12 @@ links:
   url: https://nora.nerc.ac.uk/id/eprint/528776
 url_pdf: https://nora.nerc.ac.uk/id/eprint/528776/1/V15N3%2Bpaper%2BTechnicalities%2BdeYoung%2Bet%2Bal%2BLR.pdf
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: [terific]
 publishDate: '2023-01-21T07:46:53.423022Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The Labrador Sea is a fascinating and difficult environment in which to
   work. In the winter, wind speeds can gust upwards of 200 km/hr, while 10-m wave
   heights and below freezing temperatures (-20°C) are not unheard off, making it an

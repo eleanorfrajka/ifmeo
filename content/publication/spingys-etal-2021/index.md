@@ -12,7 +12,7 @@ authors:
 - E. P. Abrahamsen
 - C. E. Buckingham
 - A. Forryan
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 tags: [mixing, "southern ocean"]
 categories: []
 date: '2021-01-01'
@@ -40,8 +40,11 @@ url_pdf: https://www2.whoi.edu/site/polzin/wp-content/uploads/sites/145/2022/03/
 #   Otherwise, set `projects = []`.
 projects: [dynopo]
 publishDate: '2023-01-21T07:46:53.206838Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'Water-mass transformation by turbulent mixing is a key part of the deep-ocean
   overturning, as it drives the upwelling of dense waters formed at high latitudes.
   Here, we quantify this transformation and its underpinning processes in a small

@@ -9,7 +9,7 @@ authors:
 - F. S. Castruccio
 - R. J. Small
 - R. Tomas
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - M. Lankhorst
 tags: [AMOC, methods]
 categories: []
@@ -38,8 +38,11 @@ url_pdf: https://nora.nerc.ac.uk/id/eprint/531633/1/Geophysical%20Research%20Let
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:53.097065Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- article-journal
 abstract: Reference level assumptions used to calculate the Atlantic meridional overturning
   circulation transports at the RAPID and Meridional Overturning Variability Experiment
   (MOVE) observing arrays are revisited in an eddying ocean model. Observational transport

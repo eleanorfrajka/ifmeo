@@ -5,12 +5,12 @@ title: Estimating the Atlantic MOC at 26°N using satellite altimetry and cable 
 subtitle: ''
 summary: 'A statistical relationship between satellite sea surface height (SSH) and observed transports at 26°N is used to build a proxy for the AMOC transport since 1992.  The method relies on a strong relationship between (1) the interannual variability of spatially-smoothed SSH at the western boundary of the Atlantic and (2) the RAPID 26°N estimate of upper mid-ocean transport (UMO, top ~1100m) across the Atlantic.  Explained variance is very high, but the method assumes stationarity in the relationship between SSH and UMO, which would likely be violated on longer timescales associated with e.g., deep watermass change.'
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 tags: ["AMOC", satellite, methods,altimetry]
 categories: []
 date: '2015-04-15'
 lastmod: 2023-01-21T08:46:56+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -34,8 +34,11 @@ url_slides: https://www.slideshare.net/eleanorfrajka/2015-06talkmtgiuggefwmocfro
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:56.600900Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Climate simulations predict a slowing of the Atlantic meridional overturning
   circulation (MOC), a key oceanic component of the climate system, while continuous
   observations of the MOC from boundary arrays demonstrate substantial variability

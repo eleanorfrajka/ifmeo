@@ -3,7 +3,7 @@
 
 title: "Cruise Report #65: TERIFIC project, 26 November – 10 December 2019"
 authors: 
-- FrajkaWilliams-Eleanor
+- Eleanor Frajka-Williams
 date: 2020-01-01
 doi: ""
 
@@ -14,7 +14,7 @@ publishDate: 2020-02-04
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
 publication: "National Oceanography Centre Cruise Report"
@@ -25,8 +25,10 @@ abstract: "The purpose of the fieldwork activities detailed in this report was t
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["gliders", freshwater,"Cruise Report"]
-categories: ["cruise report"]
+tags: ["gliders", freshwater,"Cruise Report","terific"]
+categories: ["terific"]
+projects:
+  - terific
 featured: false
 
 
@@ -57,12 +59,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: ["terific"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

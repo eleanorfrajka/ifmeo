@@ -6,12 +6,12 @@ title: Atmosphere drives observed interannual variability of the Atlantic meridi
 subtitle: ''
 summary: ''
 authors:
-- C. ~D. Roberts
+- C. D. Roberts
 - J. Waters
 - K. A. Peterson
 - M. Palmer
 - G. D. McCarthy
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - K. Haines
 - D. J. Lea
 - M. J. Martin
@@ -45,8 +45,11 @@ url_pdf: https://eprints.soton.ac.uk/360004/1/2013_grl_Roberts_etal_Atmosphere_d
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:58.198115Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The Atlantic meridional overturning circulation (AMOC) has been observed
   at 26.5°N since 2004. During 2009/2010, there was a transient 30% weakening of the
   AMOC driven by anomalies in geostrophic and Ekman transports. Here, we use simulations

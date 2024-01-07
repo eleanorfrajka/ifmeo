@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - D. Gwyn Evans
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - A. C. Naveira Garabato
 - K. L. Polzin
 - A. Forryan
@@ -38,8 +38,11 @@ url_pdf: https://eprints.soton.ac.uk/445140/1/2020JC016246.pdf
 #   Otherwise, set `projects = []`.
 projects: [mermeed]
 publishDate: '2023-01-21T07:46:53.646627Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Mesoscale eddies are ubiquitous dynamical features that tend to propagate
   westward and disappear along ocean western boundaries. Using a multiscale observational
   study, we assess the extent to which eddies dissipate via a direct cascade of energy

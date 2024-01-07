@@ -3,6 +3,8 @@ title: Deep convection in the Labrador Sea
 date: 2018-08-01
 show_related: true
 private: true
+projects: ["terific"]
+tags: "terific"
 author: FrajkaWilliams-Eleanor
 image:
     caption: '(a) Density and (b) salinity anomalies in the Labrador Sea given by Argo float data. In 2013/14 and 2014/15 convection was deep, while the Labrador Sea Water produced was relatively fresh.'

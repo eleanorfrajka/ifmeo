@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Charlotte Mielke
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - Johanna Baehr
 tags: [AMOC, coherence]
 categories: []
@@ -36,8 +36,11 @@ url_pdf: https://eprints.soton.ac.uk/350042/1/2013_grl_Mielke_FrajkaWilliams_Bae
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:58.312958Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: ' Time series of the observational estimate of the Atlantic meridional overturning
   circulation (AMOC) have recently become available, but so far, no contemporaneous
   relation has been documented between them. Here, we analyze the variability of the

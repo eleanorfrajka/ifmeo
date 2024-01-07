@@ -34,7 +34,7 @@ image:
 projects: [rapid]
 publishDate: '2023-07-21T07:46:57.968379Z'
 publication_types:
-- '4'
+- 'report'
 abstract: Ocean circulation, including ocean currents and systems of ocean currents, such as ocean gyres and the meridional overturning circulation, play a key role in the climate system through the redistribution of heat, freshwater, carbon, and ecosystem-relevant quantities. Some of these systems of ocean currents are on a large spatial scale and of global climate relevance. For example, the basin-scale Atlantic Meridional Overturning Circulation (AMOC) plays an important role in the climate of north-west Europe (Bellomo et al., 2021; McCarthy et al., 2015). Other ocean circulation features are on a smaller spatial scale and still have an important climate relevance. For example, the regional-scale exchanges across the north-west European shelf are large and enable a disproportionately large carbon transport that plays an important role in the ocean’s sequestration of anthropogenic carbon (Legge et al., 2020). How these systems will change as the climate changes is a key focus of research.
 publication: '*Marine Climate Change Impacts Partnership*'
 doi: 10.14465/2023.reu05.cir

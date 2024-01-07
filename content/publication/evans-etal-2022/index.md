@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - D. G. Evans
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - A. C. Naveira~Garabato
 tags: ["Mesoscale", "Mixing",satellite,altimetry]
 categories: []
@@ -34,8 +34,11 @@ links:
 #   Otherwise, set `projects = []`.
 projects: [mermeed]
 publishDate: '2023-01-21T07:46:52.542571Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- article-journal
 abstract: The fate of mesoscale eddy kinetic energy represents a large source of uncertainty
   in the global ocean energy budget. Satellite altimetry suggests that mesoscale eddies
   vanish at ocean western boundaries. However, the fate of the eddies’ kinetic energy

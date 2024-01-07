@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Louis Clément
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - Zoltan B. Szuts
 - Stuart A. Cunningham
 tags: [AMOC, mesoscale, satellite, altimetry]
@@ -37,8 +37,11 @@ url_pdf: https://eprints.soton.ac.uk/369376/1/2014_jgr_Clement_FrajkaWilliams_et
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:57.285207Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The meridional overturning circulation (MOC) at  inline image in the Atlantic
   has a standard deviation of 4.9 Sv and contains large fluctuations at subannual
   periods. The geostrophic component of the MOC is believed to be influenced on subannual

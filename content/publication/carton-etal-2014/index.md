@@ -8,7 +8,7 @@ summary: ''
 authors:
 - J. Carton
 - S. A. Cunningham
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - Y. -O. Kwon
 - D. P. Marshall
 - R. Msadek
@@ -40,7 +40,7 @@ url_pdf: https://eprints.soton.ac.uk/370279/1/2014_bams_Carton_etal_USAMOC.pdf
 projects: [rapid]
 publishDate: '2023-01-21T07:46:57.173962Z'
 publication_types:
-- '4'
+- 'report'
 abstract: A unique feature of the Atlantic Ocean is the presence of regions in the
   Labrador Sea and Nordic Seas where surface water can convect and sink to deep levels.
   This process of deep water formation and the related northward transport of warm

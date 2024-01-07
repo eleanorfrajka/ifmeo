@@ -2,9 +2,9 @@
 title: New technological frontiers in ocean mixing
 subtitle: ""
 publication_types:
-  - "6"
+  - "chapter"
 authors:
-  - "FrajkaWilliams-Eleanor"
+  - Eleanor Frajka-Williams
   - J. Alexander Brearley
   - J. D. Nash
   - C. B. Whalen

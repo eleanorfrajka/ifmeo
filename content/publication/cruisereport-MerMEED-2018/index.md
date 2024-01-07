@@ -3,7 +3,7 @@
 
 title: "Cruise Report 50: RV Walton Smith Cruise WS17305, 31 OCT - 10 NOV 2017, Miami to Miami, USA, MerMEED microstructure cruise report. CR No. 50"
 authors: 
-- FrajkaWilliams-Eleanor
+- Eleanor Frajka-Williams
 date: 2018-02-05
 doi: ""
 
@@ -14,7 +14,7 @@ publishDate: 2018-02-05
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
 publication: "National Oceanography Centre Cruise Report"

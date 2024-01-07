@@ -8,7 +8,7 @@ authors:
 - G. D. McCarthy
 - D. A. Smeed
 - W. E. Johns
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - B. I. Moat
 - D. Rayner
 - M. O. Baringer
@@ -42,8 +42,11 @@ links:
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:56.717222Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The Atlantic Meridional Overturning Circulation (AMOC) plays a key role
   in the global climate system through its redistribution of heat. Changes in the
   AMOC have been associated with large fluctuations in the earth’s climate in the

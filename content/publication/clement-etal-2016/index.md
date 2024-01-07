@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - L. Clement
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - K. L. Sheen
 - J. A. Brearley
 - A. C. Naveira~Garabato
@@ -33,8 +33,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [rapid,mermeed]
 publishDate: '2023-01-21T07:46:56.373197Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Despite the major role played by mesoscale eddies in redistributing the
   energy of the large-scale circulation, our understanding of their dissipation is
   still incomplete. This study investigates the generation of internal waves by decaying

@@ -2,13 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Atlantic meridional overturning circulation and associated heat transport
-subtitle: ''
+subtitle: 'State of the Climate in 2019: Global Oceans'
 summary: 'Update on the Atlantic meridional overturning circulation (AMOC) in the annual State of the Climate report.  This issue includes estimates using XBT data compared against mooring-derived transport estimates.'
+container-title: 'State of the Climate in 2019: Global Oceans'
 authors:
 - D. L. Volkov
 - C. S. Meinen
 - ' others'
-- FrajkaWilliams-Eleanor
+- "Eleanor Frajka-Williams"
 tags: [AMOC]
 categories: []
 date: '2020-01-01'
@@ -37,7 +38,7 @@ url_pdf: https://nora.nerc.ac.uk/id/eprint/528362/1/bamsd200105.pdf
 projects: [rapid]
 publishDate: '2023-01-21T07:46:53.533507Z'
 publication_types:
-- '4'
+- 'report'
 abstract: "The Atlantic meridional overturning circulation (AMOC) is a key component of the ocean circu-
 lation system that is constantly moving water, heat, salt, carbon, nutrients, and other substances
 around the globe. The AMOC impacts the Atlantic Ocean in a unique way, making it the only

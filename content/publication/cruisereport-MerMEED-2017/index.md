@@ -3,11 +3,15 @@
 
 title: "Cruise Report: RV Walton Smith Cruise WS16336, 01 - 07 DEC 2016, Miami to Miami, USA, MerMEED microstructure cruise report. CR No.44."
 authors: 
-- FrajkaWilliams-Eleanor
+- Eleanor Frajka-Williams
 date: 2017-06-08
 doi: ""
 tags: 
   - Cruise Report
+categories:
+  - mermeed
+projects:
+  - mermeed
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-12-21
 
@@ -15,7 +19,7 @@ publishDate: 2023-12-21
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
 publication: "National Oceanography Centre Cruise Report"

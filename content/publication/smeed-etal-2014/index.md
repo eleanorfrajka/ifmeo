@@ -6,10 +6,10 @@ title: Observed decline of the Atlantic meridional overturning circulation 2004 
 subtitle: ''
 summary: ''
 authors:
-- D. ~A. Smeed
+- D. A. Smeed
 - G. McCarthy
 - S. A. Cunningham
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - D. Rayner
 - W. E. Johns
 - C. S. Meinen
@@ -43,8 +43,11 @@ links:
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:57.851951Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The Atlantic meridional overturning circulation (AMOC) has been observed
   continuously at 26° N since April 2004. The AMOC and its component parts are monitored
   by combining a transatlantic array of moored instruments with submarine-cable-based

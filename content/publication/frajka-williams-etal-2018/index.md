@@ -5,7 +5,7 @@ title: "Coherent circulation changes in the Deep North Atlantic from 16°N and 2
 subtitle: ''
 summary: ''
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - M. Lankhorst
 - J. Koelling
 - U. Send
@@ -36,8 +36,11 @@ url_pdf: https://eprints.soton.ac.uk/419994/2/Frajka_Williams_et_al_2018_Journal
 #   Otherwise, set `projects = []`.
 projects: [rapid]
 publishDate: '2023-01-21T07:46:55.341828Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The meridional overturning circulation (MOC) has been measured by boundary
   arrays in the Atlantic since 2000. Over the past decade of measurements, however,
   the reported tendencies in overturning circulation strength have differed between

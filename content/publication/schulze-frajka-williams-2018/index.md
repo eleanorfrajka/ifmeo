@@ -7,9 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - Lena M. Schulze Chretien
-- "FrajkaWilliams-Eleanor"
-tags: ["freshwater", "Labrador Sea", model, satellite,altimetry]
-categories: []
+- Eleanor Frajka-Williams
+tags: ["freshwater", "Labrador Sea", model, satellite,altimetry,"terific"]
+categories: "terific"
+projects: ["terific"]
 date: '2018-01-01'
 lastmod: 2023-01-21T08:46:55+01:00
 featured: false
@@ -27,15 +28,12 @@ links:
 - url: https://os.copernicus.org/articles/14/1247/2018/
   name: URL
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: ["terific"]
 publishDate: '2023-01-21T07:46:55.455048Z'
+# Publication type.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'The Labrador Sea is one of a small number of deep convection sites in the
   North Atlantic, that contribute to the meridional overturning circulation. Buoyancy
   is lost from surface waters during winter, allowing the formation of dense deep

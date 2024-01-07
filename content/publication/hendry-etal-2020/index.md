@@ -11,7 +11,7 @@ authors:
 - G. M. Damerell
 - S. Fielding
 - Y. L. Firing
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - ' others'
 tags: [gender]
 categories: []
@@ -41,7 +41,7 @@ links:
 projects: []
 publishDate: '2023-01-21T07:46:53.315472Z'
 publication_types:
-- '5'
+- 'article_magazine'
 abstract: Today, we can celebrate a strong representation of women in sea-going science
   in the United Kingdom, providing positive role models for early-career female marine
   scientists. However, women continue to face challenges to their progression in their

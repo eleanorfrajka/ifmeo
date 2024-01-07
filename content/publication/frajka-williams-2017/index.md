@@ -5,7 +5,7 @@ title: Building Boaty using Matlab
 subtitle: ''
 summary: ''
 authors:
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 tags: [AUV, "Southern ocean"]
 categories: []
 date: '2017-05-14'
@@ -31,8 +31,7 @@ links:
 #   Otherwise, set `projects = []`.
 projects: [dynopo]
 publishDate: '2023-01-21T07:46:55.803130Z'
-publication_types:
-- '0'
+publication_types: ['motion_picture']
 abstract: 'This is a brief animation showing the steps to build the Autosub Long Range (aka Boaty McBoatface) using Matlab.
 
 As a bit of fun during the recent DynOPO 2017 cruise (oceanmixing.github.io/projects/dynopo/), we discussed ways to display the data being collected by the ALR. One of tricky aspects of using data from an autonomous platform is that it is neither a vertical profile (where plotting axes are depth and quantity being plotted) nor a horizontal section (where the x-axis is time or distance, and the vertical axis is depth). Instead, the data are along a track -- wherever the submarine goes -- which in this case, was to be bottom-following down the slope of Orkney Passage, a steep underwater mountain pass. So a movie in 3-d was the aim, but for a little extra pizzazz, data could appear under the track of an animated autosub. This is how autosub was constructed in Matlab. The animation shows the component pieces (body - or rather the fiberglass fairing, propeller, stern planes and rudder, wings, Rockland MicroRider instrument) and animates the propeller to give the impression of a flying Boaty.
