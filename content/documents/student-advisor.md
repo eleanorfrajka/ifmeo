@@ -10,7 +10,7 @@ comments: false  # Show comments?
 show_related: true
 
 view: compact
-lastmod: 2023-11-19
+lastmod: 2024-01-08
 #authors: ["FrajkaWilliams-Eleanor"]
 tags: ["student"]
 private: true
@@ -81,25 +81,30 @@ student’s dissertation are available;
 
 <!---See also, the EO group expectations.--->
 
-## Specifics for IFMEO-2023
+## Specifics for IFMEO-2024
 
-1. **Regular meetings:** For MSc students, I propose 30 minute meetings every other week.  Please arrive prepared with a short list of 3-5 items to be discussed so that we can keep to time.  
+See also the [Meetings and Scheduling](../meetings) document.
+
+1. **Shared OwnCloud** folder.  All UHH students should have access to OwnCloud.  At the start of your dissertation work, we will create a folder (named, e.g. FirstnameLastname_MSc or FirstnameLastname_BSc) for progress reports and updates.
+
+2. **Regular meetings:** For BSc and MSc students actively working on their dissertations, I suggest 30-minute meetings up to every-other week.   Please arrive prepared, including starting the meeting with a short list of items to be discussed.  
     - Bi-weekly (every other week) for 30 min, to be scheduled on a term basis. During periods where the student anticipates limited progress, meetings should be cancelled.
-    - Weekly group meetings of 1–1.5 hours, to be scheduled on a term basis. Plan to bring a recent figure to be discussed for feedback within the wider group.
+    - Weekly group meetings, to be scheduled on a term basis. 
 
-2. **Regular report of progress:** In advance of regular meetings, please digitally share a short (0.5-2 page) progress report, including planned work, progress made and next steps in bullet format. The compilation of these reports provide a record of progress through time.  Name your file something sensible that promotes organisation, e.g.: *YYYYMMDD-Lastname-dissupdate.pdf*.  Suggested headings are:
-    - Action items from last meeting
-    - Aim of work since last meeting
-    - Progress since last meeting
-    - Next steps - including any action items carried forward
+3. **Regular report of progress:** Within 1 day after an individual meeting, please digitally share a short progress report to the OwnCloud folder.  This can be the slides that you use during the meeting as well as notes from the meeting on next steps.  The compilation of these reports provide a record of progress through time.  Name your file something sensible that promotes organisation, e.g.: *YYYYMMDD-Lastname-dissupdate.pdf*.  Suggested headings are:
+    - Agenda for meeting
+    - Scientific content (e.g., action items from last meeting, aim of work since last meeting, progress since last meeting).
+    - Next steps, including any action items carried forward
+    - Notes from meeting
 
-3. **Feedback on written work:** I expect to review each piece of formal written work for your degree program only once, and normally to be able to provide feedback within two weeks.  This refers to drafts in full format (not an introduction section one week and a methods section another week).  I strongly recommend that we discuss an outline of planned writing prior to full format writing; outlines may be discussed multiple times.
+4. **Feedback on written work:** I expect to review each piece of formal written work for your degree program only once, and normally to be able to provide feedback within two weeks.  This refers to drafts in full format (not an introduction section one week and a methods section another week).  I strongly recommend that we discuss an outline of planned writing prior to full format writing; outlines may be discussed multiple times.
 
-4. **Scheduling:** Ways to schedule meetings:
-    - In person during a meeting: we can pick future meetings or set up regular meetings;
-    - Using the http://calendly.com/eleanorfrajka link which is for group members;
-    - E-mailing Francisca Terrassa for a meeting (Please use this method for any meetings requiring participation of multiple people and where scheduling may require iterations);
+4. **Scheduling:** See [Meetings & Scheduling](../meetings) for how to schedule a meeting.  
+
+    For a first meeting, please use http://calendly.com/eleanorfrajka and pick the 30-minute meeting.  Subsequent meetings can be scheduled in the same way, or during a meeting we can pick future meetings or set up regular meetings.
+
+    Alternatively, you can email [Francisca Terrassa](francisca.terrassa@uni-hamburg.de) for a meeting (Please use this method for any meetings requiring participation of multiple people and where scheduling may require iterations);
     
     Less reliable ways of scheduling meetings with me include e-mailing, messaging in Mattermost or catching me in the hallway. Note that I organise my meetings using the University outlook calendar, and meetings that do not appear in my calendar are liable to be forgotten.
 
-    Once a meeting is scheduled, I strongly prefer that you use a digital calendar program (e.g., Outlook) where the meeting event can be created, and I can be invited by adding my e-mail address <eleanor.frajka@uni-hamburg.de>.  This will help me avoid double-booking.
+    Once a meeting is agreed, I strongly prefer that you use a digital calendar program (e.g., Outlook or google calendar) where the meeting event can be created, and I can be invited by adding my e-mail address <eleanor.frajka@uni-hamburg.de>.  This will help me avoid double-booking.  See [Meetings & Scheduling: Calendar invites](../meetings/#calendar-invites) for how to do this.
