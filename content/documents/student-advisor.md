@@ -31,7 +31,9 @@ This document outlines expectations for the student-advisor relationship for the
 **Expectations of the Advisor:** The Advisor’s primary task is to facilitate the Student's research and educational experience, to guide the Student in their research project and foster independent learning. The Advisor should promote conditions conducive to the Student’s research and intellectual growth, providing guidance on the progress of the research and the standards expected.
 
 
-## It is the Student's responsibility to
+## Student's responsibility
+
+It is the student's responsibility to
 
 
 1. Grow intellectually, developing skills and learning approaches necessary for the project; complete research work and produce a dissertation that is their own work, reflecting a capacity for independent scholarship in the discipline;
@@ -50,7 +52,9 @@ This document outlines expectations for the student-advisor relationship for the
 7. By the end of the project (or continuously, via e.g., GitHub), make available to the Advisor all original research materials (data files, dissertation files, figures and analysis scripts) where appropriate;
 
 
-##  It is the Advisor’s responsibility to
+##  Advisor's responsibility
+
+It is the advisor’s responsibility to
 
 1. Facilitate the Student’s intellectual growth and contribution to a field of knowledge; assist the Student in developing their research interests and help them modify the program when unforeseen problems arise;
 
@@ -81,8 +85,9 @@ student’s dissertation are available;
 
 <!---See also, the EO group expectations.--->
 
-## Specifics for IFMEO-2024
+## EO group (2024)
 
+Specific guidelines for BSc and MSc students in the EO group (updated 2024).
 See also the [Meetings and Scheduling](../meetings) document.
 
 1. **Shared OwnCloud** folder.  All UHH students should have access to OwnCloud.  At the start of your dissertation work, we will create a folder (named, e.g. FirstnameLastname_MSc or FirstnameLastname_BSc) for progress reports and updates.
