@@ -23,7 +23,7 @@ header:
   image: ""
 ---
 
-This document outlines expectations for the student-advisor relationship for the undertaking of a dissertation research project in Experimental Oceanography at UHH.  If anything herein conflicts with the University, Faculty or Academic programme requirements or guidelines, or those of the relevant courses, then those guidelines supersede what is written here. The agreement is open for discussion or revision by mutual agreement at any time during the project work.
+This document outlines expectations for the student-advisor relationship for the undertaking of a dissertation research project (bachelor's or master's) in Experimental Oceanography at UHH.  If anything herein conflicts with the University, Faculty or Academic programme requirements or guidelines, or those of the relevant courses, then those guidelines supersede what is written here. The agreement is open for discussion or revision by mutual agreement at any time during the project work.
 
 
 **Expectations of the Student:** The most important expectation to communicate is that you, the Student, should take ownership over your educational and research experience. From the choice of your Advisor, research project and through to degree completion, you carry the primary responsibility for your success.
@@ -66,22 +66,27 @@ of the student when on extended absence from the campus;
 
 4. Be reasonably accessible to the Student via electronic communication or in person for consultation and discussion of the student’s academic progress and research problems;  provide 24 hours notice, when possible, when cancelling an appointment;
 
-
 5. Be open, honest and fair with the Student when providing feedback on academic performance; examine and make constructive suggestions for improvement on formal written work;
 
 6. Make reasonable arrangements, within the norms appropriate to the discipline and limits of
 resources of the University, so that the research resources necessary for execution of the
 student’s dissertation are available;
 
-7. Give credit in an appropriate manner to Student contributions to scholarly activity, e.g.,
+## Publishing work
 
-    - Where the Student’s intellectual contribution to the work is small, e.g. in the case of routine work without an active role in experimental design, execution, or data analysis, the Student will be acknowledged but not as a co-author.
+In some cases, a student thesis may be suitable for publication as a whole or as a contribution to another piece of work.  In these cases, the Advisor will facilitate appropriate crediting of the Student's contributions to scholarly activity.
 
-    - Where the Student has made a substantive intellectual contribution to the work, but has not taken the lead role in design, execution and anaysis, the Student will be a co-author.
+For example,
 
-    - Where the Student has had a major intellectual contribution to the work, and has led the design, execution and data analysis, the Student will be the lead author.
+- A. Where the Student’s intellectual contribution to the work is small but essential, e.g. in the case of routine work without an active role in experimental design, execution, or data analysis, the Student will be acknowledged in the publication but not a co-author.
 
-    - No manuscript, abstract or poster will be submitted for consideration by a scholarly journal or meeting unless its content has been approved by all co-authors.
+- B. Where the Student has made a substantive intellectual contribution to the work, but has not taken the lead role in design, execution and anaysis, the Student will be a co-author.
+
+- C. Where the Student has had a major intellectual contribution to the work, and has led the design, execution and data analysis, the Student will be the lead author.
+
+- D. Note that no manuscript, abstract or poster should be submitted for consideration by a scholarly journal or meeting unless its content has been approved by all co-authors.
+
+If the work is publishable, but the student has not prepared and submitted it for publication within 1 year since the student has left the group (or 2 years by prior agreement), then the work may be taken forward by others. Previous work on the project will be acknowledged by (i) co-authorship or (ii) in the 'acknowledgements' section of the paper.  Note that co-authorship would further require timely responses by the student to contact from authors/publishers (see point D above).
 
 <!---See also, the EO group expectations.--->
 
