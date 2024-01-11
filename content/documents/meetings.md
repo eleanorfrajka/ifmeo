@@ -30,7 +30,7 @@ toc: true
 
 Eleanor's public facing calendar is [here](https://shorturl.at/pqwPT).
 
-If you're a student or collaborator, or have already received an e-mail from Eleanor about meeting, please e-mail directly to suggest a timeslot which is empty or marked "Free" on my calendar.  Otherwise, please contact [Francisca Terrassa](mailto:francisca.terrassa@uni-hamburg.de).
+If you're a student or collaborator, or have already received an e-mail from Eleanor about meeting, please either (i) use the [Calendly link](http://localhost:1313/documents/meetings/#individual-meetings-with-eleanor) or (ii) e-mail Eleanor directly to suggest a timeslot which is empty or marked "Free" on my calendar.  Otherwise, please contact [Francisca Terrassa](mailto:francisca.terrassa@uni-hamburg.de).
 
 ## Group meetings
 
