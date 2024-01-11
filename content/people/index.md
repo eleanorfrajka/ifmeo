@@ -1,5 +1,5 @@
 ---
-title: Experimental Oceanography working group
+title: Group
 summary: 
 date: "2023-12-27"
 

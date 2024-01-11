@@ -1,5 +1,6 @@
 ---
-title: Posts
+title: News
+subtitle: Updates from the EO group.
 cms_exclude: true
 
 # View.

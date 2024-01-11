@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Gallery
 type: landing
 sections:
   - block: markdown
