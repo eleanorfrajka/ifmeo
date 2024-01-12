@@ -10,6 +10,8 @@ authors:
 first_name: Elodie
 last_name: Duyck
 
+external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/duyck.html
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -18,8 +20,9 @@ role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+  - name: Universität Hamburg
+    url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

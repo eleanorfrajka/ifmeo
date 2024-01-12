@@ -12,10 +12,12 @@ superuser: true
 # Role/position
 role: Professor of Ocean Dynamics in a Changing Climate
 
+create_profile_page: true
+
 # Organizations/Affiliations
 organizations:
   - name: Universität Hamburg
-    url: ''
+    url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a physical oceanographer who uses ocean observations to investigate ocean dynamics and circulation in a changing climate. I have a particular interest in problems spanning scales (from micro- to large-scale) or spheres (biogeosphere, cryosphere, atmosphere), and in methods that leverage traditional observations with new platforms and satellite data.
@@ -23,6 +25,10 @@ bio: I am a physical oceanographer who uses ocean observations to investigate oc
 interests:
   - Ocean dynamics in a changing climate
   - Observational methods and technology
+
+#tools:
+#  - Testing 1
+#  - Testing 2
 
 education:
   courses:
@@ -47,9 +53,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:eleanor.frajka@uni-hamburg.de'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/eleanorfrajka
+  - icon: cloud
+    icon_pack: fas
+    link: https://bsky.app/profile/eleanorfrajka.bsky.social
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/eleanorfrajka
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=lb6i-2EAAAAJ&hl=en
@@ -69,7 +78,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'eleanorfrajka@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -80,5 +89,5 @@ user_groups:
   - 'Principal Investigator'
 ---
 
-I am a physical oceanographer who uses ocean observations to investigate ocean dynamics and circulation in a changing climate. I have a particular interest in problems spanning scales (from micro- to large-scale) or spheres (biogeosphere, cryosphere, atmosphere), and in methods that leverage traditional observations with new platforms and satellite data.
+I am a physical oceanographer who uses ocean observations to investigate ocean dynamics and circulation in a changing climate, and the leader of the Experimental Oceanography working group at the Institute of Oceanography, Universität Hamburg. I have a particular interest in problems spanning scales (from micro- to large-scale) or spheres (biogeosphere, cryosphere, atmosphere), and in methods that leverage traditional observations with new platforms and satellite data.
 {style="text-align: justify;"}

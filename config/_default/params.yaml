@@ -74,7 +74,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: circle # Can change to square
   comment:
     provider: ''
     disqus:
@@ -118,4 +118,4 @@ security:
 
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: classic

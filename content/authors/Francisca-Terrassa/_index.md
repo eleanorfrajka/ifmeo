@@ -21,6 +21,8 @@ organizations:
 - name: 
   url: ""
 
+external_link: https://www.ifm.uni-hamburg.de/institute/staff/terrassa.html 
+
 # Short bio (displayed in user profile at end of posts)
 bio: 
 

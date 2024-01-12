@@ -13,30 +13,33 @@ last_name: Shapkin
 # Is this the primary user of the site?
 superuser: false
 
+external_link: https://www.linkedin.com/in/boris-shapkin
+
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: MSc student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+  - name: Universität Hamburg
+    url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
+#interests:
+#- Interest 1
+#- Interest 2
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+#education:
+#  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    year: 2012
+#    institution: Name of Institution
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

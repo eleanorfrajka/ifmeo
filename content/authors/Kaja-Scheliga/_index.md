@@ -13,7 +13,9 @@ last_name: Scheliga
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Scientific Project Manager
+role: Scientific Project Manager (EPOC)
+
+external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/scheliga.html
 
 # Organizations/Affiliations
 organizations:
@@ -24,18 +26,18 @@ organizations:
 bio: 
 
 # List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
+#interests:
+#- Interest 1
+#- Interest 2
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+#education:
+#  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

@@ -98,15 +98,21 @@
 
 # About widget
 
-- id: interests
+- id: tools
   translation: Tools
 
-- id: education
+- id: topics
   translation: Topics
 
 - id: user_profile_latest
   translation: Latest
 
+- id: interests
+  translation: Interests
+
+- id: education
+  translation: Education
+  
 # Accomplishments widget
 
 - id: see_certificate

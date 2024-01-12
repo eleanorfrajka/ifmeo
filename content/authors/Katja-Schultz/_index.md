@@ -13,13 +13,15 @@ last_name: Schultz
 # Is this the primary user of the site?
 superuser: false
 
+external_link: https://www.researchgate.net/profile/Katja-Schultz
+
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: MSc student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url:
+  - name: Universität Hamburg
+    url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -42,6 +44,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
@@ -51,12 +54,14 @@ education:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/USERNAME
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Katja-Schultz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:katja.schultz@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".

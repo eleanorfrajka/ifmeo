@@ -28,12 +28,12 @@ organizations:
 bio: The Experimental Oceanography group aims to advance our understanding of ocean dynamics and circulation in a changing climate. We are a seagoing group, specialising in physical oceanographic measurements and using approaches that leverage traditional observations with new platforms and satellite data. Using a range of observational platforms enables us to address problems spanning scales (from micro- to large-scale), and spanning spheres (from the ocean to biogeosphere, cryosphere and atmosphere). We are driven by scientific curiosity, and motivated by problems with the potential to address societal needs.
 
 # Interests to show in About widget
-interests:
+tools:
   - '*In situ* Moorings & gliders'
   - Satellite remote sensing
   - '[Wind-wave tank](https://wiki.cen.uni-hamburg.de/ifm/KFEW3O/WWK)'
   
-education:
+topics:
   courses:
     - course: Ocean circulation & processes
     - course: Methods & technology

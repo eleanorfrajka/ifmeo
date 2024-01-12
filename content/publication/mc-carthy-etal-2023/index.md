@@ -9,7 +9,7 @@ authors:
 - K. Burmeister
 - S. A. Cunningham
 - A. Düsterhus
-- "FrajkaWilliams-Eleanor"
+- Eleanor Frajka-Williams
 - and others
 tags: ["AMOC"]
 categories: []

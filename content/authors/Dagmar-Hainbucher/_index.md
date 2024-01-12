@@ -13,13 +13,16 @@ last_name: Hainbucher
 # Is this the primary user of the site?
 superuser: false
 
+external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/hainbucher.html
+
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+  - name: Universität Hamburg
+    url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -46,6 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dagmar.hainbucher@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Dagmar-Hainbucher
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME

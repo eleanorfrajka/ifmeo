@@ -1,0 +1,99 @@
+<!--https://discourse.gohugo.io/t/hugo-academic-authors-profile-page-how-it-is-built/21780-->
+<!-- Edit to change 'latest' to publications -->
+{{- define "main" -}}
+
+{{/* Author profile page. */}}
+
+{{/* If an account has not been created for this user, just display their name as the title. */}}
+{{ if not .File }}
+<div class="universal-wrapper pt-3">
+  <h1>{{ .Title }}</h1>
+</div>
+{{ end }}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    {{/* Show the About block if an account exists for this user. */}}
+    {{/* TODO: remove dependency on v1 blocks. Either migrate to v2 blocks(?) or directly implement layout here. */}}
+    {{ if .File }}
+      {{ $widget := "blocks/v1/about.html" }}
+      {{ $username := (path.Base .File.Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $params := dict "wcPage" $ "wcBlock" . "author" $username }}
+      {{ partial $widget $params }}
+    {{end}}
+
+    {{ $query := where .Pages ".IsNode" false }}
+    {{ $count := len $query }}
+    {{ if $count }}
+    <div class="article-widget content-widget-hr">
+      <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+      <ul>
+        {{ range $query }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    <!-- Trying to modify to show publications -->
+    {{ $query1 := where (where .Pages ".IsNode" false) ".Type" "publication" }}
+
+    {{ $col_pub := slice }}
+    {{ $col_pr := slice }}
+    {{ $col_conf := slice }}
+    {{ $col_ch := slice }}
+
+
+    {{ range $item := $query1 }}
+      {{with (index .Params.publication_types 0) }}
+        {{ if eq . "2" }}
+          {{ $col_pub = $col_pub | append $item }}
+        {{ else if eq . "1" }}
+          {{ $col_conf = $col_conf | append $item }}
+        {{ else if eq . "3" }}
+          {{ $col_pr = $col_pr | append $item }}
+        {{ else if eq . "6" }}
+          {{ $col_ch = $col_ch | append $item }}
+        {{ end }}
+      {{end}}
+    {{ end }}
+
+    <div class="article-widget">
+
+    {{ if (len $col_pub) }}
+      <div class="hr-light"></div>
+      <h3>Publications</h3>		
+      <ul>
+        {{ range $col_pub }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    {{ if (len $col_pr) }}
+      <div class="hr-light"></div>
+      <h3>Preprints</h3>   
+      <ul>
+        {{ range $col_pr }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+    {{ if (len $col_conf) }}
+      <div class="hr-light"></div>
+      <h3>Conference Papers</h3>   
+      <ul>
+        {{ range $col_conf }}
+          <li>{{ partial "li_citation" . }}</li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+  </div>
+</section>
+
+{{- end -}}
