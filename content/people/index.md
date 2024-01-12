@@ -52,11 +52,11 @@ sections:
       subtitle: 
       text: 'If you are interested in joining the EO group, please contact us.  
 
-        - For students (MSc and BSc), priority is given to students in Oceanography at UHH or students in the Ocean and Climate Physics MSc program.  
+        - For students (MSc and BSc), priority is given to UHH students planning dissertations in the [Oceanography/Geophysics](https://www.ifm.uni-hamburg.de/education/bachelor.html) (BSc) or [Ocean and Climate Physics](https://www.ifm.uni-hamburg.de/en/education/master.html) (MSc) programs.  
 
         - PhD students are usually hired through the [IMPRS graduate school](https://mpimet.mpg.de/en/career/imprs-esm) with a deadline by the middle of September each year. 
 
-        - Additionally, we anticipate hiring a postdoc and technical staff in the near future (1-2 years).'
+        - Additionally, we anticipate hiring a postdoc and technical staff in the near future (1-2 years).  If this may be of interest to you, please email [Eleanor](mailto:eleanor.frajka@uni-hamburg.de).'
     design:
         columns: 2
   - block: slider
