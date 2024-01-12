@@ -27,6 +27,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: The Experimental Oceanography group aims to advance our understanding of ocean dynamics and circulation in a changing climate. We are a seagoing group, specialising in physical oceanographic measurements and using approaches that leverage traditional observations with new platforms and satellite data. Using a range of observational platforms enables us to address problems spanning scales (from micro- to large-scale), and spanning spheres (from the ocean to biogeosphere, cryosphere and atmosphere). We are driven by scientific curiosity, and motivated by problems with the potential to address societal needs.
 
+
 # Interests to show in About widget
 tools:
   - '*In situ* Moorings & gliders'
@@ -120,3 +121,5 @@ user_groups:
 
 The Experimental Oceanography group aims to advance our understanding of ocean dynamics and circulation in a changing climate. We are a seagoing group, specialising in physical oceanographic measurements and using approaches that leverage traditional observations with new platforms and satellite data. Using a range of observational platforms enables us to address problems spanning scales (from micro- to large-scale), and spanning spheres (from the ocean to biogeosphere, cryosphere and atmosphere). We are driven by scientific curiosity, and motivated by problems with the potential to address societal needs.
 {style="text-align: justify;"}
+
+The Experimental Oceanography working group is led by Prof. [Eleanor Frajka-Williams](/authors/eleanor-frajka-williams).
