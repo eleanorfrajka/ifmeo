@@ -3,6 +3,8 @@ title: MSc Seagoing Oceanography
 
 event: MSc in Ocean and Climate Physics
 event_url: https://www.ifm.uni-hamburg.de/en/education/master.html
+draft: true 
+private: true
 
 location: TBD
 address:
