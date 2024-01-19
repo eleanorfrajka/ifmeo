@@ -1,39 +1,22 @@
 ---
-title: Resources
+title: Teaching
+summary: Teaching by group members of the Universität Hamburg - Institute of Oceanography - Experimental Oceanography group.
 type: landing
+date: "2022-01-05"
+draft: false
+lastmod: 2024-01-19
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
 
 sections:
-  - block: collection
-    id: posts
-    content:
-      title: Resources
-      subtitle: 'for EO group'
-      text: 'Collection of links and how-tos for the group. <hr>'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 0
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - documents
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: weight
-      sort_ascending: true
-    design:
-      # Choose a listing view
-      view: list
-      columns: '2'
   - block: markdown
     id: teaching
     class: anchor
@@ -149,12 +132,48 @@ sections:
         padding: ['20px', '0', '20px', '0']
   - block: markdown
     content:
-      title: Fieldwork gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="terific1" >}}
-        <br>
-        [SEE ALL GALLERIES >](../galleries/)
+      title: Past offerings
+      subtitle: by the EO group
+      text: '
+        - BSc Messmethoden & Fernerkundung (Gade, Frajka-Williams, Notz) in WiSe22/23
+
+        - BSc Seepraktikum (Gade), in SuSe24
+
+        - MSc Coastal Remote Sensing (Gade), in SuSe24
+
+        - BSc Regionale Ozeanographie (Frajka-Williams) in SuSe24'
     design:
-      columns: '2'
+      columns: 2
 ---
+
+
+
+
+- BSc Messmethoden & Fernerkundung (Gade, Frajka-Williams): See <a href="https://wiki.cen.uni-hamburg.de/ifm/MessFern_V">Wiki webpage for course</a>
+- <a href="ozmess/">BSc Ozeanische Messübung</a> (Frajka-Williams, Hainbucher, Welsch) - <span style="color:red">updated for 2024</span>
+
+**Summer semester**
+
+- <a href="seaocean/">MSc Seagoing oceanography</a> (Frajka-Williams) - <span style="color:red">new for 2024</span>
+- BSc Seepraktikum (Martin Gade) - See <a href="https://wiki.cen.uni-hamburg.de/ifm/SeePrakt">Wiki webpage for course</a>
+- BSc Regional Oceanography (Frajka-Williams) - We will use the <a href="https://lernen.min.uni-hamburg.de/login/index.php">MIN-Moodle</a>
+
+<hr>
+
+## Past offerings (since 2022)
+
+**Winter semester**
+
+- BSc Messmethoden & Fernerkundung (Gade, Frajka-Williams, Notz) in 2022/23
+
+**Summer semester**
+
+- BSc Seepraktikum (Gade), in 2022/23
+- MSc Coastal Remote Sensing (Gade), in 2022/23
+- BSc Regionale Ozeanographie (Frajka-Williams) - <span style="color:red">updated for 2023</span>, in 2022/23
+
+<hr>
+
+## Course overview
+
+
