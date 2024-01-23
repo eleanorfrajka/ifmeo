@@ -30,18 +30,18 @@ toc: true
 
 
 <!--{{< toc >}}-->
+## Computing
 
-## Email: web Outlook
+### Email: web Outlook
 
 - [OWA](https://exchange.uni-hamburg.de/owa) - login with B-Kennung
 - [Online archive](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/exchange-onlinearchiv.html) - Running out of space in e-mail?  Archive online - [Handout (DE)](https://www.rrz.uni-hamburg.de/services/e-mail/fuer-mitarbeiter/exchange/handouts/handout-richtlinienbasierte-onlinearchivierung-unter-outlook-und-owa.pdf) or [Handout (EN - using google translate, 12.12.2023)](https://www.dropbox.com/scl/fi/ed9z08ugdtzw7zzi9yw0o/handout-richtlinienbasierte-onlinearchivierung-unter-outlook-und-owa.pdf?rlkey=f3btok7puqzpiuram9qcwo48s&dl=0)
 - [EPOC mailbox](https://exchange.uni-hamburg.de/owa/epoc-admin@uni-hamburg.de) - Eleanor/Kaja only
 
-## Changing your password
+### Changing your password
 
 - [https://bv.uni-hamburg.de](https://bv.uni-hamburg.de) - for your B-kennung
 
-## Computing
 
 ### EO Gitlab
 - [IFMEO group](https://gitlab.rrz.uni-hamburg.de/ifmeo) - you may need to create an account and ask to join ifmeo
@@ -60,6 +60,11 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 
 - [CEN poster printing - form (En)](https://www.cen.uni-hamburg.de/en/facilities/cen-it/printing/poster/formular.html)
 
+### Eduroam
+
+- [Eduroam 'certificate' at cat.eduroam.org](http://cat.eduroam.org) - website to get the right certificate for your phone.  Then login with your b-kennung 'e-mail' which should look something like 'bbbXXXX@uni-hamburg.de' and your password for your b-kennung.  
+
+---
 
 ## Hiring & Finance
 
@@ -79,6 +84,7 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 
 - IfmWiki: https://wiki.cen.uni-hamburg.de/ifm/SeePrakt?action=login (ask Martin to add you if needed)
 
+---
 ## Teaching
 
 ### University calendar
@@ -95,7 +101,8 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 - [SeePraktikum](https://wiki.cen.uni-hamburg.de/ifm/SeePrakt) - if you need access, ask Martin
 - [Messmethoden](https://wiki.cen.uni-hamburg.de/ifm/MessFern_V) - if you need access, ask Martin
 
-## Useful links to share to colleagues
+--- 
+## Useful links to share to visiting colleagues
 
 ### Building directions
 - [Directions to Bu53](https://www.ifm.uni-hamburg.de/en/institute/contact-map.html) 
@@ -111,19 +118,21 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 
 - YoHo
 
-YoHo Hamburg
-Moorkamp 5
-20357 HamburgTel. +49-40-2841910
-yoho@yoho-hamburg.de
+  YoHo Hamburg,
+  Moorkamp 5,
+  20357 Hamburg, 
+  Tel. +49-40-2841910
+  yoho@yoho-hamburg.de
 
 - Mercure
 
-Mercure Hotel Hamburg Mitte
-Schroederstiftstr. 3 
-20146 HAMBURG 
-Tel. +49 40 450690 
-h5394@accor.com
+  Mercure Hotel Hamburg Mitte,
+  Schroederstiftstr. 3 ,
+  20146 Hamburg,
+  Tel. +49-40-450690 
+  h5394@accor.com
 
+---
 
 ## Other IT help
 
@@ -137,6 +146,7 @@ h5394@accor.com
 ### Help (IFMEO)
 - We have a 'Help' channel on mattermost.  If you're on the IFMEO mattermost, but can't see the Help channel, then try the "+" sign in the top left, then "Browse Channels", then select "Help".
 
+---
 ## Online tools
 - [Mattermost - CEN](https://mattermost.cen.uni-hamburg.de/) - login with username/password
 - [Confluence - CEN](https://collaboration.cen.uni-hamburg.de/) 
@@ -153,12 +163,17 @@ h5394@accor.com
 - Managing lists.uni-hamburg.de - [RRZ Service portal](https://rrz-serviceportal.uni-hamburg.de)
 - Phone management - https://4940428389540.phones.voicecoresystem.de/ - change to your phone number.
 
+---
 
 ## Seminars
 
 - [Joint seminars with MPIM](https://mpimet.mpg.de/en/communication/seminars)
+  - Internal - Tuesdays at 3:15pm (work in progress, CEN/MPIM staff)
+  - Scientific - Wednesdays at 1:30pm (guests or CEN/MPIM staff)
+  - KlimaCampus Colloquium - Thursdays at 3:15pm in 022/023
 - [TRR181 seminars](https://www.trr-energytransfers.de/events)
 
+--- 
 ## Templates
 
 ### Poster templates
