@@ -63,7 +63,7 @@ sections:
           icon: UHH
           organization: Universität Hamburg
           organization_url: https://www.ifm.uni-hamburg.de/en/education/master.html
-          url: '../teaching/seaocean/'
+          url: '../courses/seaocean/'
         - title: BSc Regional Oceanography
           date_end: '2024-07-15'
           date_start: '2024-04-01'
@@ -123,7 +123,7 @@ sections:
           icon: UHH
           organization: Universität Hamburg
           organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
-          url: '../teaching/ozmess/'
+          url: '../courses/ozmess/'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'  
