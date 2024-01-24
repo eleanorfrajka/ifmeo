@@ -36,12 +36,12 @@ consisting of multiple individual moorings, in a distributed configuration) can 
 
 ## Equipment at IfM EO
 
-- Acoustic releases
+- Acoustic releases and deck box
 - moored CTDs (e.g., Seabird microCATs)
 - moored current meters (e.g., Nortek Aquadopps)
 - moored velocity profilers (e.g., 150kHz and 75kHz ADCPs)
 - moored thermistors (e.g., RBR soloT and TR-1050)
-- PIES 6.2b (Pressure-equipped inverted echo sounder)
+- PIES 6.2b (Pressure-equipped inverted echo sounder) 
 
 ## Publications (selected)
 
