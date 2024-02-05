@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 show_related: true
-draft: false
+draft: true
 
 view: compact
 lastmod: 2024-01-08
