@@ -1,5 +1,5 @@
 ---
-title: Coming from abroad
+title: Moving to Hamburg (tips and notes)
 summary: A few starting points for folks coming to Germany from abroad, including digital translation tools, the school information center in Hamburg, insurance, finding accommodation, and getting around.  Most of these are specific to Hamburg, Germany.
 date: 2023-01-06
 
@@ -14,7 +14,7 @@ lastmod: 2024-01-12
 tags: ["newstart"]
 private: true
 toc: true
-weight: 200
+weight: 501
 
 # Optional header image (relative to `assets/media/` folder).
 header:

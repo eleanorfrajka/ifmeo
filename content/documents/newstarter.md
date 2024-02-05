@@ -1,5 +1,5 @@
 ---
-title: New starter
+title: New starter (especially for EO postdocs, PhD students and staff)
 summary: A collection of steps for getting started in the IfM Experimental Oceanography group - about computing at the university, in CEN, and in the group, printing, mailing lists, recommended software, and other tidbits.
 subtitle: 
 date: 2023-01-06
@@ -15,7 +15,7 @@ authors: []
 tags: ["newstart"]
 private: true
 
-weight: 1
+weight: 500
 
 # Optional header image (relative to `assets/media/` folder).
 header:
@@ -66,7 +66,7 @@ Latest [UHH info on Corona/Covid19](https://www.uni-hamburg.de/en/newsroom/inter
 
 ### Group meetings
 
-- Weekly group meetings (SuSe23 - Thursdays 3pm in 253, changes each semester)
+- Weekly group meetings (SuSe24 - Thursdays at 11am in 253, changes each semester)
 - ~Fortnightly 1-1 meetings with Eleanor (use [calendly](http://calendly.com/eleanorfrajka) to schedule, or let Eleanor/Francisca know if none of the times work for you.)
 
 Weekly meetings will be likely change in time by semester, due to teaching/classes and other conflicts.

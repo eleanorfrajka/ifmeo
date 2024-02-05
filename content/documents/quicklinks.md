@@ -15,7 +15,7 @@ authors: []
 tags: ["newstart"]
 private: true
 
-weight: 20
+weight: 1
 
 # Optional header image (relative to `assets/media/` folder).
 header:

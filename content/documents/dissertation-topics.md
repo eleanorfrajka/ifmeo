@@ -15,7 +15,7 @@ authors: []
 tags: ["student"]
 private: true
 
-weight: 501
+weight: 300
 
 # Optional header image (relative to `assets/media/` folder).
 header:

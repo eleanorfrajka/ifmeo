@@ -1,5 +1,5 @@
 ---
-title: UHH staff offers
+title: UHH staff offers (Health / wellness offers from UHH)
 summary: Staff offers from central UHH
 date: 2024-01-15
 
@@ -14,7 +14,7 @@ tags: []
 private: true
 toc: true
 
-weight: 500
+weight: 600
 
 # Optional header image (relative to `assets/media/` folder).
 header:

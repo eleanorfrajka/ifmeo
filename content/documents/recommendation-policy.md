@@ -14,7 +14,7 @@ lastmod: 2023-11-19
 tags: ["student"]
 private: true
 
-weight: 510
+weight: 310
 
 # Optional header image (relative to `assets/media/` folder).
 header:
