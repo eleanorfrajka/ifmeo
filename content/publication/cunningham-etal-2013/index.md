@@ -6,14 +6,14 @@ subtitle: ''
 summary: ''
 authors:
 - Stuart A. Cunningham
-- Chris Roberts
+- Chris D. Roberts
 - Eleanor Frajka-Williams
-- W. E. Johns
+- William E. Johns
 - W. Hobbs
-- Matt D. Palmer
-- D. Rayner
-- D. A. Smeed
-- G. ~D. McCarthy
+- M. D. Palmer
+- Darren Rayner
+- David A. Smeed
+- Gerard D. McCarthy
 tags: [AMOC]
 categories: []
 date: '2013-11-28'

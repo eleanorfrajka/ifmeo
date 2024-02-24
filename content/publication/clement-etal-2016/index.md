@@ -6,11 +6,11 @@ title: Generation of Internal Waves by Eddies Impinging on the Western Boundary 
 subtitle: ''
 summary: ''
 authors:
-- L. Clement
+- Louis Clement
 - Eleanor Frajka-Williams
-- K. L. Sheen
-- J. A. Brearley
-- A. C. Naveira~Garabato
+- Katy L. Sheen
+- J. Alex Brearley
+- Alberto C. Naveira Garabato
 tags: ["mixing", "mesoscale", satellite,altimetry]
 categories: []
 date: '2016-04-01'

@@ -10,7 +10,7 @@ authors:
 - Eleanor Frajka-Williams
 - C. Hughes
 - Sofia Olhede
-- M. Lankhorst
+- Matthias Lankhorst
 tags: [AMOC, coherence, "bottom pressure"]
 categories: []
 date: '2017-01-01'

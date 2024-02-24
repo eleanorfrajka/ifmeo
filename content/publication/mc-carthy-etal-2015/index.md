@@ -5,15 +5,15 @@ title: Measuring the Atlantic meridional overturning circulation at 26°N
 subtitle: ''
 summary: 'Methodology and error analysis for the RAPID 26°N estimates of the AMOC transport.'
 authors:
-- G. D. McCarthy
-- D. A. Smeed
-- W. E. Johns
+- Gerard D. McCarthy
+- David A. Smeed
+- Williams E. Johns
 - Eleanor Frajka-Williams
-- B. I. Moat
-- D. Rayner
-- M. O. Baringer
-- C. S. Meinen
-- H. L. Bryden
+- Ben I. Moat
+- Darren Rayner
+- Molly O. Baringer
+- Chris S. Meinen
+- Harry L. Bryden
 tags: [AMOC, methods]
 categories: []
 date: '2015-01-01'

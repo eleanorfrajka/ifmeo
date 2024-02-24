@@ -6,11 +6,11 @@ title: Kinetic Energy Transfers between Mesoscale and Submesoscale Motions in th
 subtitle: ''
 summary: ''
 authors:
-- A. C. Naveira~Garabato
+- Alberto C. Naveira Garabato
 - X. Yu
 - J. Callies
 - R. Barkan
-- K. L. Polzin
+- Kurt L. Polzin
 - Eleanor Frajka-Williams
 - ' others'
 tags: [mesoscale, submesoscale]

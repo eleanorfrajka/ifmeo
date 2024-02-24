@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Eleanor Frajka-Williams
-- J. Bamber
-- K. Vage
+- Jonathan Bamber
+- Kjetil Vage
 tags: [AMOC, freshwater]
 categories: []
 date: '2016-12-01'

@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Eleanor Frajka-Williams
-- Peter Rhines
-- Charles Eriksen
+- Peter B. Rhines
+- Charles C. Eriksen
 tags: ["mesoscale", "labrador sea", "gliders", biophysical, freshwater,satellite,altimetry,ocean colour,"terific"]
 categories: []
 projects: ["terific","rebels"]

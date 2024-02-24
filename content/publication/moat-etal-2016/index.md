@@ -6,17 +6,17 @@ title: Major Variations in Sub-Tropical North Atlantic Heat Transport at Short (
 subtitle: ''
 summary: ''
 authors:
-- Bengamin Moat
-- Simon Josey
+- Ben I. Moat
+- Simon A. Josey
 - Bablu Sinha
-- Adam Blaker
-- David Smeed
-- Gerard McCarthy
-- William Johns
-- Joël Hirschi
+- Adam T. Blaker
+- David A. Smeed
+- Gerard D. McCarthy
+- William E. Johns
+- Joël J.-M. Hirschi
 - Eleanor Frajka-Williams
-- D. Rayner
-- Aurélie Duchez
+- Darren Rayner
+- Aurelie D. Duchez
 - Andrew Coward
 tags: [AMOC]
 categories: []

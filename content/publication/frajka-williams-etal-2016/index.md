@@ -6,17 +6,17 @@ subtitle: ''
 summary: ''
 authors:
 - Eleanor Frajka-Williams
-- C. S. Meinen
-- W. E. Johns
-- D. A. Smeed
-- A. D. Duchez
-- A. J. Lawrence
-- D. A. Cuthbertson
-- H. L. Bryden
-- G. D. McCarthy
-- M. O. Baringer
-- D. Rayner
-- B. I. Moat
+- Chris S. Meinen
+- William E. Johns
+- David A. Smeed
+- Aurelie D. Duchez
+- Adam J. Lawrence
+- David A. Cuthbertson
+- Harry L. Bryden
+- Gerard D. McCarthy
+- Molly O. Baringer
+- Darren Rayner
+- Ben I. Moat
 tags: [AMOC]
 categories: []
 date: '2016-04-01'

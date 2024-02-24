@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Eleanor Frajka-Williams
 - Claudie Beaulieu
-- Aurelie Duchez
+- Aurelie D. Duchez
 tags: [Atlantic, AMV,satellite,SST]
 categories: []
 date: '2017-09-11'

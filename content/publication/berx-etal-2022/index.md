@@ -6,14 +6,14 @@ subtitle: ''
 summary: ''
 authors:
 - B Berx
-- D Volkov
-- J Baehr
-- MO Baringer
-- P Brandt
-- K Burmeister
-- S Cunningham
+- Denis L. Volkov
+- Johanna Baehr
+- Molly O. Baringer
+- Peter Brandt
+- K. Burmeister
+- Stuart A. Cunningham
 - MF de Jong
-- L de Steur
+- Laura de Steur
 - S Dong
 - Eleanor Frajka-Williams
 - ' others'

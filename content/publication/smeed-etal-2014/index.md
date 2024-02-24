@@ -6,17 +6,17 @@ title: Observed decline of the Atlantic meridional overturning circulation 2004 
 subtitle: ''
 summary: ''
 authors:
-- D. A. Smeed
-- G. McCarthy
-- S. A. Cunningham
+- David A. Smeed
+- Gerard D. McCarthy
+- Stuart A. Cunningham
 - Eleanor Frajka-Williams
-- D. Rayner
-- W. E. Johns
-- C. S. Meinen
-- M. O. Baringer
-- B. I. Moat
-- A. Duchez
-- H. L. Bryden
+- Darren Rayner
+- William E. Johns
+- Chris S. Meinen
+- Molly O. Baringer
+- Ben I. Moat
+- Aurelie D. Duchez
+- Harry L. Bryden
 tags: [AMOC]
 categories: []
 date: '2014-01-01'

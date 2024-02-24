@@ -6,9 +6,9 @@ subtitle: ''
 summary: 'The original RAPID methodology, now updated in McCarthy et al. 2015.'
 authors:
 - Darren Rayner
-- J. J. -M. Hirschi
+- Joel J.-M. Hirschi
 - Torsten Kanzow
-- W. E. Johns
+- William E. Johns
 - Paul G. Wright
 - Eleanor Frajka-Williams
 - Harry L. Bryden

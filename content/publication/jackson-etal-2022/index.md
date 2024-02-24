@@ -8,13 +8,13 @@ subtitle: ""
 publication_types:
   - article-journal
 authors:
-  - L. C. Jackson
-  - A. Biastoch
-  - M. W. Buckley
-  - D. G. Desbruyeres
+  - Laura C. Jackson
+  - Arne Biastoch
+  - Martha W. Buckley
+  - Damien G. Desbruyeres
   - Eleanor Frajka-Williams
-  - B. Moat
-  - J. Robson
+  - Ben I. Moat
+  - Jon Robson
 doi: 10.1038/s43017-022-00263-2
 url_pdf: https://archimer.ifremer.fr/doc/00753/86518/95863.pdf
 abstract: The Atlantic Meridional Overturning Circulation (AMOC) is a key

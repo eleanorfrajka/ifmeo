@@ -6,10 +6,10 @@ subtitle: 'State of the Climate in 2019: Global Oceans'
 summary: 'Update on the Atlantic meridional overturning circulation (AMOC) in the annual State of the Climate report.  This issue includes estimates using XBT data compared against mooring-derived transport estimates.'
 container-title: 'State of the Climate in 2019: Global Oceans'
 authors:
-- D. L. Volkov
-- C. S. Meinen
+- Denis L. Volkov
+- Chris S. Meinen
 - ' others'
-- "Eleanor Frajka-Williams"
+- Eleanor Frajka-Williams
 tags: [AMOC]
 categories: []
 date: '2020-01-01'

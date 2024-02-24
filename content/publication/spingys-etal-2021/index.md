@@ -5,13 +5,13 @@ title: 'Mixing and transformation in a deep western boundary current: A case stu
 subtitle: ''
 summary: ''
 authors:
-- C. P. Spingys
-- A. C. Naveira-Garabato
-- S. Legg
-- K. L. Polzin
-- E. P. Abrahamsen
-- C. E. Buckingham
-- A. Forryan
+- Carl P. Spingys
+- Alberto C. Naveira Garabato
+- Sonya Legg
+- Kurt L. Polzin
+- E. Povl Abrahamsen
+- Christian E. Buckingham
+- Alex Forryan
 - Eleanor Frajka-Williams
 tags: [mixing, "southern ocean"]
 categories: []

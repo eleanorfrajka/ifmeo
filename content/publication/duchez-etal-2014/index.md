@@ -6,11 +6,11 @@ title: Seasonal to interannual variability in density around the Canary Islands 
 subtitle: ''
 summary: ''
 authors:
-- A. Duchez
+- Aurelie D. Duchez
 - Eleanor Frajka-Williams
-- N. Castro
-- J. J. -M. Hirschi
-- A. Coward
+- Natalia Castro
+- Joel J.-M. Hirschi
+- Andrew Coward
 tags: [AMOC,model]
 categories: []
 date: '2014-02-15'

@@ -6,12 +6,12 @@ title: 'The Atlantic overturning circulation: More evidence of variability and l
 subtitle: ''
 summary: ''
 authors:
-- J. Carton
-- S. A. Cunningham
+- James Carton
+- Stuart A. Cunningham
 - Eleanor Frajka-Williams
-- Y. -O. Kwon
-- D. P. Marshall
-- R. Msadek
+- Y. O. Kwon
+- David P. Marshall
+- Rym Msadek
 tags: ["AMOC"]
 categories: []
 date: '2014-08-14'

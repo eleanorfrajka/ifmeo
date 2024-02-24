@@ -6,16 +6,16 @@ title: Pending recovery in the strength of the meridional overturning circulatio
 subtitle: ''
 summary: ''
 authors:
-- B. I. Moat
-- D. A. Smeed
+- Ben I. Moat
+- David A. Smeed
 - Eleanor Frajka-Williams
 - Damien G. Desbruyeres
-- C. Beaulieu
+- Claudie Beaulieu
 - William E. Johns
 - Darren Rayner
 - Alejandra Sanchez-Franks
 - Molly O. Baringer
-- Denis Volkov
+- Denis L. Volkov
 - Laura C. Jackson
 - Harry L. Bryden
 tags: [AMOC,coherence]

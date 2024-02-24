@@ -5,7 +5,7 @@ title: The effect of eddies and Rossby waves on the Atlantic meridional overturn
 subtitle: ''
 summary: ''
 authors:
-- Louis Clément
+- Louis Clement
 tags: [AMOC, mesoscale]
 categories: []
 date: '2014-07-01'

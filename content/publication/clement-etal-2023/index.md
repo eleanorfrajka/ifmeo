@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Louis Clément
 - Eleanor Frajka-Williams
-- N. von Oppeln-Bronikowski
+- Nicolai von Oppeln-Bronikowski
 - I. Goszczko
-- B. de Young
+- Brad de Young
 tags: ["gliders", "Labrador Sea", "terific", "submesoscale", "freshwater", "SST"]
 categories: "terific"
 projects: ["terific"]

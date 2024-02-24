@@ -6,18 +6,18 @@ subtitle: 'State of the Climate in 2010: Global Oceans'
 container-title: 'State of the Climate in 2010: Global Oceans'
 summary: ''
 authors:
-- M. O. Baringer
-- S. A. Cunningham
-- C. S. Meinen
-- S. Garzoli
-- J. Willis
-- M. Lankhorst
+- Molly O. Baringer
+- Stuart A. Cunningham
+- Chris S. Meinen
+- Silvia L. Garzoli
+- Josh Willis
+- Matthias Lankhorst
 - W. R. Hobbs
 - Eleanor Frajka-Williams
-- T. Kanzow
-- D. Rayner
-- W. E. Johns
-- J. Marotzke
+- Torsten O. Kanzow
+- Darren Rayner
+- William E. Johns
+- Jochem Marotzke
 tags: ["AMOC"]
 categories: []
 date: '2011-01-01'

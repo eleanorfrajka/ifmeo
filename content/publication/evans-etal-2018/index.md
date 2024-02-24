@@ -5,13 +5,13 @@ title: Annual cycle of turbulence estimated from Seagliders
 subtitle: ''
 summary: 'Updated methods to estimate turbulence from Seagliders (originally from Beaird et al. 2012), with a demonstration in the northeast Atlantic.  The primary addition is to filter by local stratification as observed by the Seaglider.  When N is large, this filter should isolate turbulent processes within the inertial subrange. When N is very low, within the surface mixed layer for example, this filtering acts to remove the mean and any trend with respect to depth from the vertical velocity.'
 authors:
-- D. G. Evans
+- D. Gwyn Evans
 - N. S. Lucas
-- V. Hemsley
+- Victoria Hemsley
 - Eleanor Frajka-Williams
 - Adrian Martin
 - Stuart C. Painter
-- Alberto C. Naveira~Garabato
+- Alberto C. Naveira Garabato
 - Mark E. Inall
 - Matthew R. Palmer
 tags: ["mixing", "methods", "gliders"]

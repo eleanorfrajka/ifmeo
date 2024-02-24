@@ -4,7 +4,7 @@
 title: "Cruise Report #07: RV Knorr Cruise KN200-4, 13 Apr-03 May 2011. RAPID Mooring Cruise."
 authors: 
 - Eleanor Frajka-Williams
-- William Johns
+- William E. Johns
 date: 2012-01-24
 doi: ""
 

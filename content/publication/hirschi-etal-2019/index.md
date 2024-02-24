@@ -5,12 +5,12 @@ title: Loop Current variability as trigger of coherent Gulf Stream transport ano
 subtitle: ''
 summary: ''
 authors:
-- J. J. -M. Hirschi
+- Joel J.-M. Hirschi
 - Eleanor Frajka-Williams
-- A. T. Blaker
-- B. Sinha
+- Adam T. Blaker
+- Bablu Sinha
 - P. Hyder
-- A. Coward
+- Andrew Coward
 - ' others'
 tags: [mesoscale, AMOC, satellite, "Gulf Stream",altimetry]
 categories: []

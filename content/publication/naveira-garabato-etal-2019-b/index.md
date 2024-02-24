@@ -5,17 +5,17 @@ title: Phased response of the subpolar Southern Ocean to changes in circumpolar 
 subtitle: ''
 summary: ''
 authors:
-- A. C. Naveira Garabato
-- J. Hooley
-- T. S. Dotto
-- S. Bacon
+- Alberto C. Naveira Garabato
+- Jack Hooley
+- Tiago S. Dotto
+- Sheldon Bacon
 - M. Tsamados
 - A. Ridout
 - Eleanor Frajka-Williams
 - L. Herraiz-Borreguero
-- P. R. Holland
+- Paul R. Holland
 - H. D. B. S. Heorton
-- M. P. Meredith
+- Mike P. Meredith
 tags: ["Southern Ocean", satellite,altimetry]
 categories: []
 date: '2019-05-23'

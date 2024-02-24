@@ -6,10 +6,10 @@ title: A dynamically based method for estimating the Atlantic meridional overtur
 subtitle: ''
 summary: 'A method for estimating 26°N overturning from time-varying satellite altimetry and time-averaged boundary profiles of dynamic height.'
 authors:
-- A. Sanchez-Franks
+- Alejandra Sanchez-Franks
 - Eleanor Frajka-Williams
-- B. I. Moat
-- D. A. Smeed
+- Ben I. Moat
+- David A. Smeed
 tags: [AMOC, methods, satellite, altimetry]
 categories: []
 date: '2021-01-01'

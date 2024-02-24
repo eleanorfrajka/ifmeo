@@ -5,13 +5,13 @@ title: Model derived uncertainties in deep ocean temperature trends between 1990
 subtitle: ''
 summary: ''
 authors:
-- F. K. Garry
-- E. L. McDonagh
-- A. T. Blaker
-- C. D. Roberts
-- D. G. Desbruyeres
+- Freya K. Garry
+- Elaine L. McDonagh
+- Adam T. Blaker
+- Chris D. Roberts
+- Damien G. Desbruyeres
 - Eleanor Frajka-Williams
-- B. A. King
+- Brian A. King
 tags: [observing system]
 categories: []
 date: '2019-01-28'

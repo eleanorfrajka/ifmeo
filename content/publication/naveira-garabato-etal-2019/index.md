@@ -5,19 +5,19 @@ title: Rapid mixing and exchange of deep-ocean waters in an abyssal boundary cur
 subtitle: ''
 summary: ''
 authors:
-- A. C. Naveira Garabato
+- Alberto C. Naveira Garabato
 - Eleanor Frajka-Williams
-- C. P. Spingys
-- S. Legg
-- K. L. Polzin
-- A. Forryan
-- E. P. Abrahamsen
-- C. E. Buckingham
-- S. M. Griffies
-- S. D. McPhail
-- K. W. Nicholls
-- L. N. Thomas
-- M. P. Meredith
+- Carl P. Spingys
+- Sonya Legg
+- Kurt L. Polzin
+- Alex Forryan
+- E. Povl Abrahamsen
+- Chris E. Buckingham
+- Stephen M. Griffies
+- Stephen D. McPhail
+- Keith W. Nicholls
+- Leif N. Thomas
+- Mike P. Meredith
 tags: [mixing, "Southern Ocean", submesoscale, AUV]
 categories: []
 date: '2019-01-01'

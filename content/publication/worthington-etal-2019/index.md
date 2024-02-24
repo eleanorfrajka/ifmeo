@@ -8,7 +8,7 @@ summary: 'A demonstration of how GRACE-satellite estimates of ocean bottom press
 authors:
 - Emma Worthington
 - Eleanor Frajka-Williams
-- Gerard McCarthy
+- G. D. McCarthy
 tags: ["bottom pressure", methods, satellite, gravimetry]
 categories: []
 date: '2019-01-15'

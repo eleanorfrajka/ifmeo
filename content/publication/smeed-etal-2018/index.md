@@ -6,15 +6,15 @@ subtitle: ''
 summary: ''
 authors:
 - David A. Smeed
-- Simon Josey
-- William Johns
-- Bengamin Moat
+- Simon A. Josey
+- William E. Johns
+- Ben I. Moat
 - Eleanor Frajka-Williams
-- D. Rayner
-- Christopher Meinen
-- Molly Baringer
-- Harry Bryden
-- Gerard McCarthy
+- Darren Rayner
+- Chris S. Meinen
+- Molly O. Baringer
+- Harry L. Bryden
+- Gerard D. McCarthy
 tags: [AMOC]
 categories: []
 date: '2018-01-29'

@@ -6,15 +6,15 @@ title: 'Variability of the Ross Gyre, Southern Ocean: drivers and responses reve
 subtitle: ''
 summary: ''
 authors:
-- T. S. Dotto
-- A. C. Naveira~Garabato
-- S. Bacon
+- Tiago S. Dotto
+- Alberto C. Naveira Garabato
+- Sheldon Bacon
 - M. Tsamados
-- P. R. Holland
-- J. Hooley
+- Paul R. Holland
+- Jack Hooley
 - Eleanor Frajka-Williams
 - A. Ridout
-- M. P. Meredith
+- Mike P. Meredith
 tags: ["Southern Ocean", "satellite",altimetry]
 categories: []
 date: '2018-06-15'

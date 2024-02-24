@@ -5,7 +5,7 @@ title: "Should AMOC observations continue: how and why?"
 authors: 
 - Eleanor Frajka-Williams
 - N. Foukal
-- G. Danabasoglu
+- Gokhan Danabasoglu
 date: 2023-12-18T08:48:15+01:00
 doi: "https://doi.org/10.1098/rsta.2022.0195"
 

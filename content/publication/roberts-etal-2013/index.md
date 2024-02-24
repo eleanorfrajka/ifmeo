@@ -10,7 +10,7 @@ authors:
 - J. Waters
 - K. A. Peterson
 - M. Palmer
-- G. D. McCarthy
+- Gerard D. McCarthy
 - Eleanor Frajka-Williams
 - K. Haines
 - D. J. Lea

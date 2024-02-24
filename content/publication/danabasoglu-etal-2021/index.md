@@ -5,12 +5,12 @@ title: Revisiting AMOC transport estimates from observations and models
 subtitle: ''
 summary: 'A model-based evaluation of how the choice of referencing geostrophic velocities at AMOC transport mooring arrays can influence the resultant transport estimate, with a focus on the MOVE latitude of 16°N and the RAPID latitude of 26.5°N.'
 authors:
-- G. Danabasoglu
+- Gokhan Danabasoglu
 - F. S. Castruccio
 - R. J. Small
 - R. Tomas
 - Eleanor Frajka-Williams
-- M. Lankhorst
+- Matthias Lankhorst
 tags: [AMOC, methods]
 categories: []
 date: '2021-01-01'

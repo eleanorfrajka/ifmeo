@@ -8,9 +8,9 @@ summary: ''
 authors:
 - D. Gwyn Evans
 - Eleanor Frajka-Williams
-- A. C. Naveira Garabato
-- K. L. Polzin
-- A. Forryan
+- Alberto C. Naveira Garabato
+- Kurt L. Polzin
+- Alex Forryan
 tags: ["Mesoscale", "Mixing", "submesoscale"]
 categories: []
 date: '2020-11-04'

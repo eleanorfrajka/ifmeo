@@ -5,9 +5,9 @@ title: Climate change impacts on ocean circulation relevant to the UK and Irelan
 subtitle: ''
 summary: ''
 authors:
-- G. McCarthy
+- Gerard D. McCarthy
 - K. Burmeister
-- S. A. Cunningham
+- Stuart A. Cunningham
 - A. Düsterhus
 - Eleanor Frajka-Williams
 - and others

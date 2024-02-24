@@ -7,10 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - Bieito Fernandez-Castro
-- Dafydd Gwyn Evans
+- D. Gwyn Evans
 - Eleanor Frajka-Williams
 - Clement Vic
-- Alberto Naveira~Garabato
+- Alberto C Naveira Garabato
 tags: ["gliders", "mixing", "mesoscale", satellite,altimetry]
 categories: []
 date: '2020-07-01'

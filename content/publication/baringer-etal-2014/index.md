@@ -7,19 +7,19 @@ subtitle: 'State of the Climate in 2013: Global Oceans'
 container-title: 'State of the Climate in 2013: Global Oceans'
 summary: ''
 authors:
-- M. O. Baringer
-- G. D. McCarthy
-- J. Willis
-- M. Lankhorst
-- D. A. Smeed
-- U. Send
-- D. Rayner
-- W. E. Johns
-- C. S. Meinen
-- S. A. Cunningham
-- T. O. Kanzow
+- Molly O. Baringer
+- Gerard D. McCarthy
+- Josh Willis
+- Matthias Lankhorst
+- David A. Smeed
+- Uwe Send
+- Darren Rayner
+- William E. Johns
+- Chris S. Meinen
+- Stuart A. Cunningham
+- Torsten O. Kanzow
 - Eleanor Frajka-Williams
-- J. Marotzke
+- Jochem Marotzke
 tags: [AMOC]
 categories: []
 date: '2014-01-01'

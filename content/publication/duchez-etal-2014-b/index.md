@@ -5,16 +5,16 @@ title: A new index for the Atlantic meridional overturning circulation
 subtitle: ''
 summary: ''
 authors:
-- A. Duchez
-- S. A. Cunningham
-- J. J. -M. Hirschi
-- A. Blaker
-- H. Bryden
+- Aurelie D. Duchez
+- Stuart A. Cunningham
+- Joel J.-M. Hirschi
+- Adam T. Blaker
+- Harry L. Bryden
 - C. Atkinson
-- G. McCarthy
+- Gerard D. McCarthy
 - Eleanor Frajka-Williams
-- D. Rayner
-- D. Smeed
+- Darren Rayner
+- David A. Smeed
 tags: [amoc,methods,model]
 categories: []
 date: '2014-09-01'

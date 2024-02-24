@@ -6,16 +6,16 @@ title: Drivers of exceptionally cold North Atlantic Ocean temperatures and their
 subtitle: ''
 summary: ''
 authors:
-- A. Duchez
+- Aurelie D. Duchez
 - Eleanor Frajka-Williams
-- S. A. Josey
-- D. G. Evans
-- J. P. Grist
+- Simon A. Josey
+- D. Gwyn Evans
+- Jeremy P. Grist
 - R. Marsh
-- G. D. McCarthy
-- B. Sinha
-- D. I. Berry
-- J. J. -M. Hirschi
+- Gerard D. McCarthy
+- Bablu Sinha
+- David I. Berry
+- Joel J.-M. Hirschi
 tags: [AMOC,satellite,SST]
 categories: []
 date: '2016-07-05'

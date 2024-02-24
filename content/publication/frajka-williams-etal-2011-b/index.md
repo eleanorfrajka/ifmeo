@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Eleanor Frajka-Williams
-- Stuart A Cunningham
-- Harry L Bryden
-- B. A King
+- Stuart A. Cunningham
+- Harry L. Bryden
+- Brian A. King
 tags: ["AMOC","Southern Ocean"]
 categories: []
 date: '2011-11-17'

@@ -5,16 +5,16 @@ title: Observed Interannual Variability of the Atlantic MOC  at 26.5°N
 subtitle: ''
 summary: ''
 authors:
-- Gerard McCarthy
+- Gerard D. McCarthy
 - Eleanor Frajka-Williams
 - William E. Johns
-- M. O. Baringer
-- C. S. Meinen
-- H. L. Bryden
-- D. Rayner
-- A. Duchez
-- C. D. Roberts
-- S. A. Cunningham
+- Molly O. Baringer
+- Chris S. Meinen
+- Harry L. Bryden
+- Darren Rayner
+- Aurelie D. Duchez
+- Chris D. Roberts
+- Stuart A. Cunningham
 tags: ["AMOC", "bottom pressure"]
 categories: []
 date: '2012-10-12'

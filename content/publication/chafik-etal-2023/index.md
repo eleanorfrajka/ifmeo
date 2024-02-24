@@ -3,13 +3,13 @@
 
 title: "Observed mechanisms activating the recent subpolar North Atlantic Warming since 2016"
 authors: 
-- L. Chafik
-- N. P. Holliday
-- S. Bacon
+- Leon Chafik
+- N. Penny Holliday
+- Sheldon Bacon
 - J. A. Baker
-- D. Desbruyeres
+- Damien G. Desbruyeres
 - Eleanor Frajka-Williams
-- L. C. Jackson
+- Laura C. Jackson
 date: 2023-12-18T08:41:33+01:00
 doi: "https://doi.org/10.1098/rsta.2022.0183"
 

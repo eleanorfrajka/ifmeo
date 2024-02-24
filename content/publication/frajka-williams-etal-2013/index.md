@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - Eleanor Frajka-Williams
-- W. E. Johns
-- C. S. Meinen
-- L. M. Beal
-- S. A. Cunningham
+- William E. Johns
+- Chris S. Meinen
+- Lisa M. Beal
+- Stuart A. Cunningham
 tags: [AMOC,mesoscale,satellite,Gulf Stream,altimetry]
 categories: []
 date: '2013-01-10'

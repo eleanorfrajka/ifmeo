@@ -5,9 +5,9 @@ title: Structure and variability of the Antilles Current at 26.5°N
 subtitle: ''
 summary: ''
 authors:
-- C. S. Meinen
-- W. E. Johns
-- B. I. Moat
+- Chris S. Meinen
+- William E. Johns
+- Ben I. Moat
 - Ryan H. Smith
 - Elizabeth M. Johns
 - Darren Rayner

@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Eleanor Frajka-Williams
-- M. Lankhorst
+- Matthias Lankhorst
 - J. Koelling
-- U. Send
+- Uwe Send
 tags: [AMOC, coherence]
 categories: []
 date: '2018-01-01'

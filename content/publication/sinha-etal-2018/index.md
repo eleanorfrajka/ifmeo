@@ -7,13 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - Bablu Sinha
-- D. A. Smeed
-- G. McCarthy
-- B. I. Moat
-- S. A. Josey
-- J. J. -M. Hirschi
+- David A. Smeed
+- Gerard D. McCarthy
+- Ben I. Moat
+- Simon A. Josey
+- Joel J.-M. Hirschi
 - Eleanor Frajka-Williams
-- A. T. Blaker
+- Adam T. Blaker
 - G. Madec
 tags: [AMOC, methods, model,bottom pressure]
 categories: []

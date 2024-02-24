@@ -5,9 +5,9 @@ title: Dissipation of mesoscale eddies at a western boundary via a direct energy
 subtitle: ''
 summary: ''
 authors:
-- D. G. Evans
+- D. Gwyn Evans
 - Eleanor Frajka-Williams
-- A. C. Naveira~Garabato
+- Alberto C. Naveira Garabato
 tags: ["Mesoscale", "Mixing",satellite,altimetry]
 categories: []
 date: '2022-01-18'
