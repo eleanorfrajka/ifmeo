@@ -5,7 +5,7 @@ title: Freshwater fluxes and vertical mixing in the Labrador Sea
 subtitle: ''
 summary: ''
 authors:
-- Lena M. Schulze 
+- Lena M. Schulze Chretien
 tags: ["freshwater", "Labrador Sea"]
 categories: []
 date: '2016-02-01'

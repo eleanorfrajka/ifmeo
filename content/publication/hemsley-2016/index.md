@@ -5,7 +5,7 @@ title: 'Primary production and nitrate budgets in the temperate North Atlantic e
 subtitle: ''
 summary: ''
 authors:
-- Victoria Hemsley
+- Victoria S. Hemsley
 tags: [biophysical, gliders, satellite, ocean colour]
 categories: []
 date: '2016-11-21'

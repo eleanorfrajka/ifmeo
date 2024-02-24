@@ -12,7 +12,7 @@ authors:
 - Kurt L. Polzin
 - Alex Forryan
 - E. Povl Abrahamsen
-- Chris E. Buckingham
+- Christian E. Buckingham
 - Stephen M. Griffies
 - Stephen D. McPhail
 - Keith W. Nicholls

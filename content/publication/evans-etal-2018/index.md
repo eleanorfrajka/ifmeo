@@ -7,7 +7,7 @@ summary: 'Updated methods to estimate turbulence from Seagliders (originally fro
 authors:
 - D. Gwyn Evans
 - N. S. Lucas
-- Victoria Hemsley
+- Victoria S. Hemsley
 - Eleanor Frajka-Williams
 - Adrian Martin
 - Stuart C. Painter

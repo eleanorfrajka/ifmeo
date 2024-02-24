@@ -5,7 +5,7 @@ title: 'Deep ocean heat content observing strategy: evaluating the past and prep
 subtitle: ''
 summary: ''
 authors:
-- Freya Garry
+- Freya K. Garry
 tags: [Atlantic, model]
 categories: []
 date: '2017-01-11'

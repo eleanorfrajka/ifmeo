@@ -5,7 +5,7 @@ publication_types:
   - "chapter"
 authors:
   - Eleanor Frajka-Williams
-  - J. Alexander Brearley
+  - J. Alex Brearley
   - J. D. Nash
   - C. B. Whalen
 doi: 10.1016/B978-0-12-821512-8.00021-9
