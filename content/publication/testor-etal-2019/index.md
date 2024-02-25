@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - P. Testor
-- B. de~Young
+- Brad de Young
 - D. Rudnick
 - S. Glenn
 - D. Hayes

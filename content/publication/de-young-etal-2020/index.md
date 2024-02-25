@@ -5,7 +5,7 @@ title: 'Technicalities: Exploring the Labrador Sea with autonomous vehicles'
 subtitle: ''
 summary: ''
 authors:
-- B. de Young
+- Brad de Young
 - Eleanor Frajka-Williams
 - Nicolai von Oppeln-Bronikowski
 - Stephen Woodward

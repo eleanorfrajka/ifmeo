@@ -10,7 +10,7 @@ authors:
 - D. Gwyn Evans
 - Eleanor Frajka-Williams
 - Clement Vic
-- Alberto C Naveira Garabato
+- Alberto C. Naveira Garabato
 tags: ["gliders", "mixing", "mesoscale", satellite,altimetry]
 categories: []
 date: '2020-07-01'

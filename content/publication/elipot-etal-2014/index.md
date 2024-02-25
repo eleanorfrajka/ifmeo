@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Shane Elipot
 - Eleanor Frajka-Williams
-- Chris Hughes
+- Chris W. Hughes
 - Josh Willis
 tags: [AMOC, coherence, "bottom pressure"]
 categories: []

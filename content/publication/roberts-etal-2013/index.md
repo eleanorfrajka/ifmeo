@@ -6,7 +6,7 @@ title: Atmosphere drives observed interannual variability of the Atlantic meridi
 subtitle: ''
 summary: ''
 authors:
-- C. D. Roberts
+- Chris D. Roberts
 - J. Waters
 - K. A. Peterson
 - M. Palmer
