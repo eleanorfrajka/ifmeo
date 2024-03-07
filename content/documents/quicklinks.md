@@ -84,6 +84,8 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 
 - IfmWiki: https://wiki.cen.uni-hamburg.de/ifm/SeePrakt?action=login (ask Martin to add you if needed)
 
+- Studienburo (student office): for Stine things https://www.geo.uni-hamburg.de/en/studium/studienbuero.html
+<!--mailto:lehrende.studienbuero.geo@uni-hamburg.de-->
 ---
 ## Teaching
 
