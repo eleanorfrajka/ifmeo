@@ -16,7 +16,7 @@ superuser: false
 external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/ritschel.html
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: PhD (2024)
 
 # Organizations/Affiliations
 organizations:
@@ -78,6 +78,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group
-- PhD Students
+- Alumni (Hamburg)
 ---

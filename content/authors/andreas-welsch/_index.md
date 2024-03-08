@@ -4,7 +4,7 @@ title: "Andreas Welsch"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "Andreas Welsch"
+- "andreas-welsch"
 
 # Full name (for SEO)
 first_name: Andreas

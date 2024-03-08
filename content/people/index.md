@@ -32,7 +32,8 @@ sections:
 #        - Students
 #        - Technical & Administration
 #        - Visitors
-        - Alumni
+#        - Past Members
+        - Alumni (Hamburg)
       sort_by: Params.last_name
       sort_ascending: true
     design:

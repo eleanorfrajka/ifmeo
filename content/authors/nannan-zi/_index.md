@@ -1,20 +1,20 @@
 ---
 # Display name
-title: "Sunke Trace-Kleeberg"
+title: "Nannan Zi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "sunke-trace-kleeberg"
+- "nannan-zi"
 
 # Full name (for SEO)
-first_name: Sunke
-last_name: Trace-Kleeberg
+first_name: Nannan
+last_name: Zi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Visiting Scientist (2023)
+role: Visiting Scientist (2024)
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-external_link: https://sunke-tk.com
+#external_link: https://sunke-tk.com
 
 # List each interest with a dash
 interests:
@@ -48,18 +48,18 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:dagmar.hainbucher@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/sunke_tk
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/sunke_tk
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/sunke-trace-kleeberg/
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-5980-2492
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/sunke-trace-kleeberg/
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-5980-2492
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/USERNAME
@@ -78,6 +78,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Past Members
 - Alumni (Hamburg)
 ---
