@@ -112,7 +112,23 @@ You will have a Benutzerkennung (University-wide) and a u-nummer (CEN-specific).
 
 ### Internet access
  
-- **Eduroam<a name='eduroam'></a>**. Instructions for configuring eduroam access (using your B-kennung) can be found here: [https://www.rrz.uni-hamburg.de/services/netz/wlan.html](https://www.rrz.uni-hamburg.de/services/netz/wlan.html) - a pop-up also appears when you connect to WiFi 'UHH'
+- **Eduroam<a name='eduroam'></a>**. Instructions for configuring eduroam access (using your B-kennung) can be found here: [https://www.rrz.uni-hamburg.de/services/netz/wlan.html](https://www.rrz.uni-hamburg.de/services/netz/wlan.html) - a pop-up also appears when you connect to WiFi 'UHH'.  You need to configure your device for the network (use [https://cat.eduroam.org/](https://cat.eduroam.org/) and select Univeristät Hamburg), and then your login is in the format `b******@uni-hamburg.de`.
+
+On a Mac, this will look like:
+  - Download configuration from [https://cat.eduroam.org](https://cat.eduroam.org/)
+  - Open your system settings and search for "Profiles".  If you have any existing eduroam profile, you may want to delete this first.
+  - Double click the downloaded eduroam configuration (in your Downloads, ends with *.mobileconfig)
+  - In the "Profiles", double click to review the new profile that has been added
+  - Login with your B-kennung@uni-hamburg.de and enter your password.
+
+On an iPhone/iPad, this will look like:
+  - Open your system settings, scroll down and select "General", then in "VPN and device management" there may be an eduroam configuration installed already. Delete this.
+  - Download configuration from [https://cat.eduroam.org](https://cat.eduroam.org/) selecting institution "Universität Hamburg"
+  - Open  your system settings, scroll down and select "General", then in "VPN & Device management", select the downloaded profile which should now appear.  You can then click "Install" in the upper right.
+  - Use your b-kennung login, "b*****@uni-hamburg.de" and choose "next" and "install" again.
+  - Enter your username (b*****@uni-hamburg.de) and the appropriate password.
+
+
 
 - **LAN (ethernet) access**. Your MAC address from computer or adapter needs to be registered in order to use ethernet in offices: request from helpdesk.cen@uni-hamburg.de).  Normally only added for University computers.
 

@@ -64,6 +64,9 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 
 - [Eduroam 'certificate' at cat.eduroam.org](http://cat.eduroam.org) - website to get the right certificate for your phone.  Then login with your b-kennung 'e-mail' which should look something like 'bbbXXXX@uni-hamburg.de' and your password for your b-kennung.  
 
+### VPN (Cisco AnyConnect)
+
+- [Instructions VPN for Mac OSX](https://www.rrz.uni-hamburg.de/services/netz/vpn/vpn-osx.html) which needs to be installed while on the University network.
 ---
 
 ## Hiring & Finance
@@ -140,7 +143,7 @@ Note people are not there everyday so it's best to call.  Standard roll width of
 
 ### Help (Uni)
 - [RRZ](https://www.rrz.uni-hamburg.de) - the central IT website.
-- [RRZ Service Portal](https://rrz-serviceportal.uni-hamburg.de) - this is where you can download software.
+- [RRZ Service Portal](https://rrz-serviceportal.uni-hamburg.de) - this is where you can download software.  If offsite, you need to use the VPN (Cisco Anyconnect).
 
 ### Help (Cen)
 - [CEN IT](https://www.cen.uni-hamburg.de/en/facilities/cen-it.html) - Local IT help for Earth system science (IFM is part of this).
