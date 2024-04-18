@@ -30,8 +30,8 @@ bio: The Experimental Oceanography group aims to advance our understanding of oc
 
 # Interests to show in About widget
 tools:
-  - '*In situ* Moorings & gliders'
-  - Satellite remote sensing
+  - '*In situ* [Moorings](../technology/moorings)'
+  - 'Marine [gliders](../technology/gliders)'
   - '[Wind-wave tank](https://wiki.cen.uni-hamburg.de/ifm/KFEW3O/WWK)'
   
 topics:

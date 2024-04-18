@@ -38,7 +38,7 @@ url_pdf: https://nora.nerc.ac.uk/id/eprint/528362/1/bamsd200105.pdf
 projects: [rapid]
 publishDate: '2023-01-21T07:46:53.533507Z'
 publication_types:
-- 'report'
+- article-journal
 abstract: "The Atlantic meridional overturning circulation (AMOC) is a key component of the ocean circu-
 lation system that is constantly moving water, heat, salt, carbon, nutrients, and other substances
 around the globe. The AMOC impacts the Atlantic Ocean in a unique way, making it the only
