@@ -95,13 +95,15 @@ If the work is publishable, but the student has not prepared and submitted it fo
 Specific guidelines for BSc and MSc students in the EO group (updated 2024).
 See also the [Meetings and Scheduling](../meetings) document.
 
-1. **Shared OwnCloud** folder.  All UHH students should have access to OwnCloud.  At the start of your dissertation work, we will create a folder (named, e.g. FirstnameLastname_MSc or FirstnameLastname_BSc) for progress reports and updates.
+1. **Shared Git repository**.  All UHH students should have access to [gitlab](https://gitlab.rrz.uni-hamburg.de) or can alternatively use [github.com](https://github.com).  At the start of your dissertation work, we will create a shared repository (named, e.g. FirstnameLastname_MSc or FirstnameLastname_BSc) for code, progress reports and writing.
 
-2. **Regular meetings:** For BSc and MSc students actively working on their dissertations, I suggest 30-minute meetings up to every-other week.   Please arrive prepared, including starting the meeting with a short list of items to be discussed.  
+2. **Code**.  Open science and reproducibility are important elements of good research practice (see the [DFG code for Good Research Practice](https://www.dfg.de/en/principles-dfg-funding/basics-and-principles-of-funding/good-scientific-practice)).  You will be expected to use Git to document your work.  Given that Matlab is not openly available, you will be expected to work in a programming language such as Python.
+
+2. **Regular meetings:** For BSc and MSc students actively working on their dissertations, I suggest 30-minute meetings up to every-other week.   Please arrive prepared, including starting the meeting with a short list of items to be discussed.  Note that at the beginning of your work within the ExO group, we will discuss what your expected timeframe is for "actively working" on your dissertation.  The BSc topic should be completed within about 3 months; the MSc topic within about 6 months.  Longer (more involved) topics may be available by arrangement.
     - Bi-weekly (every other week) for 30 min, to be scheduled on a term basis. During periods where the student anticipates limited progress, meetings should be cancelled.
     - Weekly group meetings, to be scheduled on a term basis. 
 
-3. **Regular report of progress:** Within 1 day after an individual meeting, please digitally share a short progress report to the OwnCloud folder.  This can be the slides that you use during the meeting as well as notes from the meeting on next steps.  The compilation of these reports provide a record of progress through time.  Name your file something sensible that promotes organisation, e.g.: *YYYYMMDD-Lastname-dissupdate.pdf*.  Suggested headings are:
+3. **Regular report of progress:** Within 1 day after an individual meeting, please digitally share a short set of notes including actions in your git repository.  These may be stored as a markdown file with notes from the meeting, or pdf of your slides from the meeting.  The compilation of these reports provide a record of progress through time.  Name your file something sensible that promotes organisation, e.g.: *YYYYMMDD-Lastname-dissupdate.pdf*.  Suggested headings are:
     - Agenda for meeting
     - Scientific content (e.g., action items from last meeting, aim of work since last meeting, progress since last meeting).
     - Next steps, including any action items carried forward
