@@ -16,7 +16,7 @@ superuser: false
 external_link: https://www.linkedin.com/in/viktoria-nikolaus-4647a489
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: MSc student
+role: MSc (2024)
 
 # Organizations/Affiliations
 organizations:
