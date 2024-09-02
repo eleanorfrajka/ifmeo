@@ -59,7 +59,9 @@ sections:
           date_start: '2024-04-01'
           description: '- Instructor: Eleanor Frajka-Williams
 
-          - Details: 6 credit points. Offered bi-annually.'
+          - Details: 6 credit points. Offered bi-annually.
+
+          - Coursebook: [Link to Github Page (SuSe24)](https://ifmeo-hamburg.github.io/seaocn/intro.html)'
           icon: UHH
           organization: Universität Hamburg
           organization_url: https://www.ifm.uni-hamburg.de/en/education/master.html
@@ -119,7 +121,9 @@ sections:
           date_start: '2024-03-18'
           description: '- Instructors: Eleanor Frajka-Williams, Dagmar Hainbucher
           
-          - Laboratory and field exercises for oceanography.  Taught as a 2-week block course during the semester break.'
+          - Laboratory and field exercises for oceanography.  Taught as a 2-week block course during the semester break.
+          
+          - Coursebook: [Link to Github Page (WiSe23)](https://ifmeo-hamburg.github.io/ozmess/intro.html)'
           icon: UHH
           organization: Universität Hamburg
           organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
