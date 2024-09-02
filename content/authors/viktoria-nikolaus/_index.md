@@ -59,9 +59,9 @@ bio:
 #   icon_pack: ai
 #   link: files/cv.pdf
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:viktoria.nikolaus@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:viktoria.nikolaus@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/viktoria-nikolaus-4647a489
