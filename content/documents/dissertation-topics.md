@@ -33,7 +33,6 @@ This document (draft) outlines possible topics for Universität of Hamburg stude
 
 ## Larger-scale
 
-#### Subtropical gyre and wind-adjustment (no longer available)
 
 #### Shelf-edge exchange in the Labrador Sea
 
@@ -44,6 +43,7 @@ This document (draft) outlines possible topics for Universität of Hamburg stude
 
 Investigating the processes responsible for shelf-edge exchange (wind and eddies), to understand how fresh shelf waters of Arctic and Greenland origin can escape to the center of the Labrador Sea/subpolar gyre.
 
+#### Subtropical gyre and wind-adjustment (no longer available)
 
 - **Supervisor(s):** Eleanor Frajka-Williams
 - **Data:** Satellite altimetry and reanalysis wind, *in situ* transport estimates from the RAPID 26°N array.
@@ -54,7 +54,7 @@ Investigating variability of upper mid-ocean (top 1100m) and Antilles Current tr
 
 #### Fast gyre-scale response to wind in the North Atlantic
 
-- **Supervisor(s):** Eleanor Frajka-Williams
+- **Supervisor(s):** Eleanor Frajka-Williams, Simon Wett
 - **Data:** Satellite gravimetry and reanalysis wind,  and *in situ* transport estimates from the RAPID 26°N array.
 - **Time period:** Primarily 2004-2022, but also from 2002.
 - **Region:** North Atlantic
@@ -66,9 +66,9 @@ Investigating variability of upper mid-ocean (top 1100m) and Antilles Current tr
 
 #### Presence of small-scale (2--10km) motions in Denmark Strait overflow water
 
-- **Supervisor(s):** Eleanor Frajka-Williams
+- **Supervisor(s):** Eleanor Frajka-Williams, Simon Wett / Joel Bracamontes Ramierez
 - **Data:** Mooring array south of Denmark Strait
-- **Time period:** 2012, 2018
+- **Time period:** 2012, 2017, 2018
 - **Region:** east of Greenland, south of Iceland
 
 Characterising the horizontal and vertical structure of hydrographic properties (temperature, salinity) and ocean currents (velocity) in the outflow plume of the Denmark Strait overflow water.
@@ -82,11 +82,20 @@ Characterising the horizontal and vertical structure of hydrographic properties 
 
 Evaluating the interannual variability of properties (temperature, salinity and density) of DSOW characteristics.  
 
+#### Small-scale eddies in the Labrador Sea
+
+- **Supervisor(s):** Martin Gade, Eleanor Frajka-Williams, Emelie Breunig
+- **Data:** Drifter trajectories OR SAR images
+- **Time period:** 2019-21 OR recent
+- **Region:** Labrador Sea, west of Greenland
+
+Characterising the presence of submesoscale eddies in the boundary currents around the Labrador Sea, and (possibly) around the convective patch in the central Labrador Sea.
+
 ---
 
 ## More technical
 
-#### Methods of measuring ocean properties
+#### Methods of measuring ocean properties (no longer available)
 
 - **Supervisor(s):** Eleanor Frajka-Williams
 - **Data:** Time series from a Seabird MicroCAT and RBR Concerto measuring temperature and salinity at 2000m in the western Atlantic, and associated hydrographic data from ship-based CTD profiles
