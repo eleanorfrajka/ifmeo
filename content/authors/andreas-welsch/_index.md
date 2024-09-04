@@ -24,7 +24,7 @@ organizations:
     url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+#bio: 
 
 # List each interest with a dash
 #interests:

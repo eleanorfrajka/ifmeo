@@ -9,9 +9,9 @@ authors:
 - Nick Foukal
 - Eleanor Frajka-Williams
 tags: [AMOC,model,terific]
-categories: []
-date: '2014-08-14'
-lastmod: 2023-01-21T08:46:57+01:00
+categories: ["terific"]
+date: '2024-08-14'
+lastmod: 2024-08-21T08:46:57+01:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ url_pdf: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2541/egu
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [terific]
-publishDate: '2024-08-14T07:46:57.624956Z'
+publishDate: '2024-08-14T07:46:57Z'
 # Publication type.
 # https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
 # article (preprint, working papers), article-journal (paper), chapter, dataset, document (catch all), motion_picture (video), post (post on online forum), post-weblog (post on blog), report (technical report, with container-title for chapter within larger report), software, thesis, citation-key (bibtex key) or citation-label (Ferr78, formatted as output label), doi, event-title (name of event), event-place (geographic location), keyword, language (e.g., en or de), license (copyright information), note (descriptive note), publisher, title, t

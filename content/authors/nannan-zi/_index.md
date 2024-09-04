@@ -27,18 +27,18 @@ bio:
 #external_link: https://sunke-tk.com
 
 # List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
+#interests:
+#- Interest 1
+#- Interest 2
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+#education:
+#  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -51,6 +51,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/sunke_tk
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Nannan-Zi
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID

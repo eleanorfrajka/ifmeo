@@ -64,6 +64,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ysorge
+- icon: mastodon
+  icon_pack: fab
+  link: https://chaos.social/@kitsune
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
