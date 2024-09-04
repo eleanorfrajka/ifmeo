@@ -31,6 +31,15 @@ image:
   focal_point: ''
   preview_only: false
 
+url_pdf: https://zenodo.org/records/10654831/files/EPOC_newsletter1_Dec23_FINAL_web.pdf?download=1
+url_code:
+url_dataset: 
+url_poster:
+url_project:
+url_slides:
+url_source: https://zenodo.org/records/10654831
+url_video:
+
 links:
 - name: URL
   url: https://epoc.blogs.uni-hamburg.de/first-epoc-newsletter-out/
@@ -44,4 +53,5 @@ In this newsletter, we focus on the observational activities of the first year. 
 
 Looking ahead to 2024, we will be analysing the first of the EPOC high-resolution coupled simulations for AMOC processes and variability (as fine as 2 km ocean resolution) and planning further community workshops. Stay tuned!'
 publication: '*EPOC Project*'
+doi: 10.5281/zenodo.10654831
 ---

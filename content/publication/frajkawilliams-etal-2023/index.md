@@ -18,6 +18,7 @@ publishDate: 2023-10-23T08:48:15+01:00
 # 7 = Thesis; 8 = Patent
 publication_types: [article-journal]
 
+
 # Publication name and optional abbreviated publication name.
 publication: "Philosophical Transactions of the Royal Society A"
 publication_short: "Phil Trans A"
@@ -48,6 +49,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
+url_pdf: https://zenodo.org/records/10642021
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
