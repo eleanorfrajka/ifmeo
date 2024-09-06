@@ -1,13 +1,8 @@
 ---
 title: Monthly SSS in the Labrador Sea from SMOS
 date: 2019-01-01
-tags:
-    - satellite
-    - SSS
-    - Labrador Sea
-    - terific
-projects:
-    - terific
+tags: [satellite, SSS, Labrador Sea]
+projects: [terific]
 show_related: true
 private: true
 author: FrajkaWilliams-Eleanor

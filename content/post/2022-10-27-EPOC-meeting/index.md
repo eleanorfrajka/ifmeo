@@ -1,7 +1,8 @@
 ---
 title: Meeting in Southampton for EPOC 
 date: 2022-10-27
-categories: ["EPOC"]
+categories: [News]
+projects: [EPOC]
 
 image:
 placement: 2

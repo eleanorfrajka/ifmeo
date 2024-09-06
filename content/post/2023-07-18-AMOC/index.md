@@ -1,7 +1,8 @@
 ---
 title: AMOC workshop in Hamburg
 date: 2023-07-18
-categories: ["EPOC"]
+projects: ["EPOC"]
+categories: [News]
 ---
 
 Today, we kick off the AMOC workshop on 'Meeting AMOC observation needs in a changing climate'.  The workshop is co-sponsored by WCRP CLIVAR (by the [CLIVAR AMOC Task 

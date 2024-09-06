@@ -38,9 +38,8 @@ abstract: The Atlantic Meridional Overturning Circulation (AMOC) is a key
   improve the representation of processes in the North Atlantic and better ways
   to distinguish anthropogenic weakening from internal variability.
 draft: false
-tags:
-  - AMOC
-categories: [epoc]
+tags: [AMOC,model,reanalysis,"state estimate"]
+categories: []
 projects: [epoc]
 
 links:

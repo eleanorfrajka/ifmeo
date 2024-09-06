@@ -10,7 +10,7 @@ authors:
 - Nicolai von Oppeln-Bronikowski
 - Stephen Woodward
 tags: ["gliders", "Labrador Sea", freshwater]
-categories: ["terific"]
+categories: []
 projects: [terific]
 date: '2020-10-26'
 lastmod: 2023-01-21T08:46:53+01:00

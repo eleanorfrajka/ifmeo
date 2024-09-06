@@ -8,8 +8,8 @@ authors:
 - Elodie Duyck
 - Nick Foukal
 - Eleanor Frajka-Williams
-tags: [AMOC,model,terific]
-categories: ["terific"]
+tags: [AMOC,Lagrangian,terific]
+categories: []
 date: '2024-08-14'
 lastmod: 2024-08-21T08:46:57+01:00
 featured: false

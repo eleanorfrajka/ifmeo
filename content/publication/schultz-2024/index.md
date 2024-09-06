@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Katja Schultz
-tags: [AMOC, Labrador Sea, convection, overturning]
-categories: ["terific","MSc thesis"]
+tags: [AMOC, Labrador Sea, convection, overturning, Argo]
+categories: ["MSc thesis"]
 date: '2024-08-06'
 lastmod: 2024-09-01T08:46:57
 featured: false

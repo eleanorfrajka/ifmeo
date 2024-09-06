@@ -8,8 +8,8 @@ summary: ''
 authors:
 - Lena M. Schulze Chretien
 - Eleanor Frajka-Williams
-tags: ["freshwater", "Labrador Sea", model, satellite,altimetry,"terific"]
-categories: "terific"
+tags: ["freshwater", Lagrangian, "Labrador Sea", model, satellite,altimetry]
+categories: []
 projects: ["terific"]
 date: '2018-01-01'
 lastmod: 2023-01-21T08:46:55+01:00

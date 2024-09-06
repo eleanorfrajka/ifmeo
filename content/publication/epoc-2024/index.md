@@ -20,11 +20,9 @@ authors:
 - Jon Robson
 - Brady Scott Ferster
 - Gaurav Madan
-tags: 
-  - newsletter
-categories: [epoc]
-projects: 
-  - epoc
+tags: []
+categories: [News]
+projects: [epoc] 
 date: '2024-08-30'
 lastmod: 2024-08-30T08:46:57+01:00
 featured: false

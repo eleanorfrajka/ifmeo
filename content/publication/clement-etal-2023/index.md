@@ -10,8 +10,8 @@ authors:
 - Nicolai von Oppeln-Bronikowski
 - I. Goszczko
 - Brad de Young
-tags: ["gliders", "Labrador Sea", "terific", "submesoscale", "freshwater", "SST"]
-categories: "terific"
+tags: ["gliders", "Labrador Sea", "submesoscale", "freshwater", "SST"]
+categories: []
 projects: ["terific"]
 date: '2023-07-01'
 lastmod: 2023-01-21T08:46:58+01:00

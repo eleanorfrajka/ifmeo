@@ -1,7 +1,8 @@
 ---
 title: Royal Society AMOC meeting 
 date: 2022-12-05
-categories: ["EPOC"]
+categories: ["News"]
+project: ["EPOC"]
 ---
 
 Eleanor Frajka-Williams attended the Royal Society meeting on "Atlantic overturning: new observations and challenges",  and gave a talk on 'AMOC observations: Should we continue them, why and how?'.

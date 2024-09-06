@@ -15,7 +15,7 @@ authors:
 - Jack Wharton
 tags: 
   - newsletter
-categories: [epoc]
+categories: [News]
 projects: 
   - epoc
 date: '2023-12-21'

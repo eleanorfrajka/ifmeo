@@ -8,9 +8,9 @@ authors:
 - Eleanor Frajka-Williams
 - Peter B. Rhines
 - Charles C. Eriksen
-tags: ["Labrador Sea", submesoscale]
-categories: ["terific"]
-projects: ["terific"]
+tags: ["Labrador Sea", submesoscale,gliders]
+categories: []
+projects: []
 date: '2014-01-01'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false

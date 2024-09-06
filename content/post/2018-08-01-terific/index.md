@@ -4,6 +4,7 @@ date: 2018-08-01
 show_related: true
 private: true
 projects: ["terific"]
+categories: [News]
 tags: "terific"
 author: FrajkaWilliams-Eleanor
 image:

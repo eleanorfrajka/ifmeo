@@ -1,12 +1,9 @@
 ---
 title: Immersing the first drifter in the Southampton Water
 date: 2019-05-01
-tags:
-    - Labrador Sea
-    - drifters
-    - terific
-projects:
-    - terific
+tags: [Labrador Sea, drifters]
+projects: [terific]
+categories: [Photos]
 show_related: true
 private: true
 author: 

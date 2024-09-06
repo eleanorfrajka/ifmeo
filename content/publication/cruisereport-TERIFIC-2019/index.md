@@ -25,8 +25,8 @@ abstract: "The purpose of the fieldwork activities detailed in this report was t
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["gliders", freshwater,"Cruise Report","terific"]
-categories: ["terific"]
+tags: ["gliders", freshwater,"terific"]
+categories: ["Cruise reports"]
 projects:
   - terific
 featured: false
