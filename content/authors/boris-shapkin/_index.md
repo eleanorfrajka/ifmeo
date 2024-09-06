@@ -4,7 +4,7 @@ title: "Boris Shapkin"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "boris-shapkin"
+- "Boris Shapkin"
 
 # Full name (for SEO)
 first_name: Boris
@@ -17,6 +17,9 @@ external_link: https://www.linkedin.com/in/boris-shapkin
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: MSc (2024)
+
+create_profile_page: true
+
 
 # Organizations/Affiliations
 organizations:
