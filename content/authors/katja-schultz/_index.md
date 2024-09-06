@@ -4,7 +4,7 @@ title: "Katja Schultz"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "Katja-Schultz"
+- "Katja Schultz"
 
 # Full name (for SEO)
 first_name: Katja
@@ -12,6 +12,7 @@ last_name: Schultz
 
 # Is this the primary user of the site?
 superuser: false
+create_profile_page: true
 
 external_link: https://www.researchgate.net/profile/Katja-Schultz
 
@@ -24,7 +25,7 @@ organizations:
     url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: test
 
 # List each interest with a dash
 #interests:
@@ -71,7 +72,7 @@ social:
 email: "bav2416@studium.uni-hamburg.de"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

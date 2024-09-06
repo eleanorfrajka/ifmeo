@@ -4,7 +4,7 @@
 title: The impact of Deep Convection on Overturning in the Labrador Sea
 subtitle: ''
 summary: ''
-authors:
+authors: 
 - Katja Schultz
 tags: [AMOC, Labrador Sea, convection, overturning, Argo]
 categories: ["MSc thesis"]

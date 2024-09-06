@@ -6,6 +6,9 @@ title: "Leonie Bauer"
 authors:
 - "leonie-bauer"
 
+first_name: Leonie
+last_name: Bauer
+
 # Is this the primary user of the site?
 superuser: false
 

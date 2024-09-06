@@ -1,7 +1,7 @@
 ---
 title: Group
 summary: 
-date: "2023-12-27"
+date: "2024-09-02"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

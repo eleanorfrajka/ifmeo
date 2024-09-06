@@ -9,6 +9,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+first_name: Isabelle
+last_name: Schmitz
+
 external_link: 
 
 # Role/position (e.g., Professor of Artificial Intelligence)

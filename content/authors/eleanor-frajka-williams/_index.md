@@ -2,6 +2,9 @@
 # Display name
 title: Eleanor Frajka-Williams
 
+first_name: Eleanor
+last_name: Frajka-Williams
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "Eleanor Frajka-Williams"

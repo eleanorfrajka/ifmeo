@@ -6,6 +6,9 @@ title: "Yves Sorge"
 authors:
 - "yves-sorge"
 
+first_name: Yves
+last_name: Sorge
+
 # Is this the primary user of the site?
 superuser: false
 
