@@ -42,6 +42,6 @@ The **Experimental Oceanography** group aims to advance our understanding of oce
 
 - [Dynamics of the Orkney Passage Outflow (DynOPO)](../project/dynopo) - understanding drivers of outflow from the Weddell Sea to the wider Southern Ocean.
 
-For other past projects by the PI, see {{% staticref "uploads/EFW_CV.pdf" %}}CV{{% /staticref %}}
+{{% staticref "uploads/EFW_CV.pdf" %}}For other past projects by the PI, see EFW's CV.{{% /staticref %}}
 
 <hr>
