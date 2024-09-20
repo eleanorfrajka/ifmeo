@@ -57,7 +57,7 @@ sections:
 
         - PhD students are usually hired through the [IMPRS graduate school](https://mpimet.mpg.de/en/career/imprs-esm) with a deadline by the middle of September each year. 
 
-        - Additionally, we anticipate hiring a postdoc and technical staff in the near future (1-2 years).  If this may be of interest to you, please email [Eleanor](mailto:eleanor.frajka@uni-hamburg.de).'
+        - **Postdoc opportunity:** We anticipate hiring for a 3-year postdoc starting 1 April 2025 to work on Denmark Strait overflow and downstream entrainment by small-scale processes, in collaboration with Wilken-Jon von Appen, Lola Perez Hernandez, Anna Sanchez Vidal, and David Amblas. Additionally, we anticipate hiring technical staff in the  next year.  If this may be of interest to you, please email [Eleanor](mailto:eleanor.frajka@uni-hamburg.de).'
     design:
         columns: 2
   - block: slider
