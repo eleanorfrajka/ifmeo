@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Victoria S. Hemsley
 tags: [biophysical, gliders, satellite, ocean colour]
-categories: []
+categories: ["PhD theses"]
 date: '2016-11-21'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false

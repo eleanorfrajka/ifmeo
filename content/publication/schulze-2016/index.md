@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Lena M. Schulze Chretien
 tags: ["freshwater", "Labrador Sea"]
-categories: []
+categories: ["PhD theses"]
 date: '2016-02-01'
 lastmod: 2023-01-21T08:46:55+01:00
 featured: false

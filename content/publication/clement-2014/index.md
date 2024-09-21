@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Louis Clement
 tags: [AMOC, mesoscale]
-categories: []
+categories: ["PhD theses"]
 date: '2014-07-01'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false

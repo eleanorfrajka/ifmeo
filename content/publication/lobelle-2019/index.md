@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Delphine Lobelle
 tags: [AMOC, model]
-categories: []
+categories: ["PhD theses"]
 date: '2019-10-01'
 lastmod: 2023-01-21T08:46:57+01:00
 featured: false
