@@ -13,7 +13,7 @@ last_name: Ritschel
 # Is this the primary user of the site?
 superuser: false
 
-external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/ritschel.html
+external_link: https://www.linkedin.com/in/markus-ritschel-41a026132/
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: PhD (2024)
@@ -48,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:markus.ritschel@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/MarkusRitschel
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/MarkusRitschel
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7464-7075

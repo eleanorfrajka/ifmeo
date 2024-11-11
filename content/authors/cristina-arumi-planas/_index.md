@@ -48,9 +48,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:dagmar.hainbucher@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/cristinaarumi97?lang=en
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/cristinaarumi97?lang=en
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=PEOx1GcAAAAJ&hl=ca

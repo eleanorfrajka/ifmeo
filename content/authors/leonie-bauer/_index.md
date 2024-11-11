@@ -12,7 +12,7 @@ last_name: Bauer
 # Is this the primary user of the site?
 superuser: false
 
-external_link: 
+external_link: https://www.linkedin.com/in/leonie-bauer-2754402b5/
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: BSc student
@@ -47,9 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:leonie.bauer@studium.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/yves-sorge/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/leonie-bauer-2754402b5/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

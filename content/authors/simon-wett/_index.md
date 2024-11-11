@@ -58,9 +58,9 @@ social:
 #- icon: linkedin 
 #  icon_pack: fab
 #  link: https://fr.linkedin.com/in/elodie-duyck-53b58710a
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/simons_seascape
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/simons_seascape
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/USERNAME

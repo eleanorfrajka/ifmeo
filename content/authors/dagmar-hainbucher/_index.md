@@ -13,7 +13,7 @@ last_name: Hainbucher
 # Is this the primary user of the site?
 superuser: false
 
-external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/hainbucher.html
+external_link: https://www.researchgate.net/profile/Dagmar-Hainbucher
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Research Scientist
