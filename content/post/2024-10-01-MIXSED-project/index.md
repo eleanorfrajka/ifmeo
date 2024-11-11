@@ -1,5 +1,5 @@
 ---
-title: New DFG project - MIXSED
+title: New DFG project - DS-MIXSED
 date: 2024-10-01
 categories: [fieldwork]
 projects: [dsow]
@@ -9,5 +9,5 @@ authors:
 - "joel-bracamontes-ramirez"
 ---
 
-The AEI-DFG MIXSED project (Mixing and Sediment Dynamics in the Denmark Strait) will be starting in 2025 with collaborators David Amblas, Anna Sanchez, Wilken-Jon von Appen and Lola Perez Hernandez.  This is a 3-year project to study mixing in the Denmark Strait overflow waters downstream of Denmark Strait, and the influence of currents on seabed morphology (and vice versa).  More information will be forthcoming in the new year.
+The AEI-DFG DS-MIXSED project (Denmark Strait - Mixing and Sediment Dynamics) will be starting in 2025 with collaborators [David Amblas](https://webgrec.ub.edu/webpages/000009/cat/damblas.ub.edu.html), [Anna Sanchez](https://webgrec.ub.edu/webpages/000009/cas/anna.sanchez.ub.edu.html), [Wilken-Jon von Appen](https://www.awi.de/en/about-us/organisation/staff/single-view/wilken-jon-von-appen.html) and [Lola Perez Hernandez](https://mdoloresperez.weebly.com).  This is a 3-year project to study mixing in the Denmark Strait overflow waters downstream of Denmark Strait, and the influence of currents on seabed morphology (and vice versa).  More information will be forthcoming in the new year.
 
