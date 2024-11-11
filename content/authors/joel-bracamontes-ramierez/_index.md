@@ -1,14 +1,14 @@
 ---
 # Display name
-title: "Joel Bracamontes Ramierez"
+title: "Joel Bracamontes Ramirez"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "joel-bracamontes-ramierez"
+- "joel-bracamontes-ramirez"
 
 # Full name (for SEO)
 first_name: Joel
-last_name: Bracamontes Ramierez
+last_name: Bracamontes Ramirez
 
 external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/bracamontes.html  
 
@@ -48,7 +48,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:joel.bracamontes.ramierez@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:joel.bracamontes.ramirez@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZKPl8tMAAAAJ&hl=es
