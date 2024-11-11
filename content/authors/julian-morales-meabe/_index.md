@@ -13,7 +13,7 @@ last_name: Morales Meabe
 # Is this the primary user of the site?
 superuser: false
 
-#external_link: https://www.linkedin.com/in/boris-shapkin
+external_link: https://www.linkedin.com/in/julián-marcelo-morales-meabe-550177235/
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: MSc student
@@ -49,9 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:julian.morales.meabe@studium.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/boris-shapkin
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/julián-marcelo-morales-meabe-550177235/
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME

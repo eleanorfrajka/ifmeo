@@ -1,28 +1,26 @@
 ---
 # Display name
-title: "Simon Wett"
+title: "Till Moritz"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "simon-wett"
-
-# Full name (for SEO)
-first_name: Simon
-last_name: Wett
-
-external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/wett.html
+- "till-moritz"
 
 # Is this the primary user of the site?
 superuser: false
 
+first_name: Till
+last_name: Moritz
+
+external_link: 
+
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Scientist (EPOC)
+role: MSc student, Research assistant
 
 # Organizations/Affiliations
 organizations:
   - name: Universität Hamburg
     url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
-
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -38,8 +36,8 @@ bio:
 #    institution: Name of Institution
 #    year: 2012
 #  - course: Title course 1
-#    year: 2012
 #    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -48,37 +46,34 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:simon.wett@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=jFI5if0AAAAJ&hl=en&oi=ao
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-3876-2206
-#- icon: linkedin 
+  link: 'mailto:till.moritz@studium.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+#- icon: linkedin
 #  icon_pack: fab
-#  link: https://fr.linkedin.com/in/elodie-duyck-53b58710a
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/simons_seascape
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/USERNAME
+#  link: https://www.linkedin.com/in/yves-sorge/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+- icon: github
+  icon_pack: fab
+  link: https://github.com/tillmrtz
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Group
-- Senior Scientists
+- Students
 ---

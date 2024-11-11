@@ -16,7 +16,7 @@ external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/bracamontes.htm
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Scientist
+role: Research Scientist (TERIFIC, MIXSED)
 
 # Organizations/Affiliations
 organizations:

@@ -15,7 +15,7 @@ last_name: Schmitz
 external_link: 
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research assistant
+role: BSc student, Research assistant
 
 # Organizations/Affiliations
 organizations:
