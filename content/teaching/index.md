@@ -43,59 +43,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
   - block: accomplishments
     content:
-      title: SuSe24
-      subtitle: 'Courses led by EO group'
-      text: ''
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `items` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: MSc Seagoing Oceanography
-          date_end: '2024-07-15'
-          date_start: '2024-04-01'
-          description: '- Instructor: Eleanor Frajka-Williams
-
-          - Details: 6 credit points. Offered bi-annually.
-
-          - Coursebook: [Link to Github Page (SuSe24)](https://ifmeo-hamburg.github.io/seaocn/intro.html)'
-          icon: UHH
-          organization: Universität Hamburg
-          organization_url: https://www.ifm.uni-hamburg.de/en/education/master.html
-          url: '../courses/seaocean/'
-        - title: BSc Regional Oceanography
-          date_end: '2024-07-15'
-          date_start: '2024-04-01'
-          description: '- Content: An introduction to oceans around the world, how they are described and typical processes.
-
-          - Instructor: Eleanor Frajka-Williams'
-          icon: UHH
-          organization: Universität Hamburg
-          organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
-          url: ''
-        - title: BSc Seepraktikum
-          date_start: '2024-04-01'
-          date_end: '2024-07-15'
-          description: '- Instructors: Martin Gade (lead), Eleanor Frajka-Williams, Niels Fuchs. 
-          
-          - Fieldwork course with excursion on the R/V Prandtl.  *Note that participation in Messmethoden & Fernerkundung is a prerequisite.*'
-          icon: UHH
-          organization: Universität Hamburg
-          organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
-          author: "Martin Gade"
-          url: ''
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-  - block: accomplishments
-    content:
-      title: WiSe23/24
+      title: WiSe24/25
       subtitle: 'Courses led by EO group'
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
@@ -107,30 +55,107 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: BSc Messmethoden & Fernerkundung
-          date_end: '2024-01-31'
-          date_start: '2023-10-01'
-          description: '- Instructors: Martin Gade, Eleanor Frajka-Williams, Dirk Notz
+          date_end: '2025-01-31'
+          date_start: '2024-10-01'
+          description: '- Instructors: Martin Gade, Eleanor Frajka-Williams
           
-          - Content: Observational methods including in situ instrumentation and satellite earth observation'
+          - Content: Observational methods including in situ instrumentation and satellite earth observation
+
+          - Python exercises: [Link to Github Page (WiSe2425)](https://ifmeo-hamburg.github.io/messfern/intro.html)'
           icon: UHH
           organization: Universität Hamburg
           organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
           url: 'https://wiki.cen.uni-hamburg.de/ifm/MessFern_V'
-        - title: BSc Ocean exercises
-          date_end: '2024-03-22'
-          date_start: '2024-03-18'
-          description: '- Instructors: Eleanor Frajka-Williams, Dagmar Hainbucher
-          
-          - Laboratory and field exercises for oceanography.  Taught as a 2-week block course during the semester break.
-          
-          - Coursebook: [Link to Github Page (WiSe23)](https://ifmeo-hamburg.github.io/ozmess/intro.html)'
-          icon: UHH
-          organization: Universität Hamburg
-          organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
-          url: '../courses/ozmess/'
+#        - title: BSc Ocean exercises
+#          date_end: '2024-03-22'
+#          date_start: '2024-03-18'
+#          description: '- Instructors: Eleanor Frajka-Williams, Dagmar Hainbucher
+#          
+#          - Laboratory and field exercises for oceanography.  Taught as a 2-week block course during the semester break.
+#          
+#          - Coursebook: [Link to Github Page (WiSe2324)](https://ifmeo-hamburg.github.io/ozmess/intro.html)'
+#          icon: UHH
+#          organization: Universität Hamburg
+#          organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
+#          url: '../courses/ozmess/'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'  
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
+  - block: accomplishments
+    content:
+      title: SuSe24
+      subtitle: 'Courses led by EO group'
+      text: ''
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `items` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+#        - title: MSc Seagoing Oceanography
+#          date_end: '2024-07-15'
+#          date_start: '2024-04-01'
+#          description: '- Instructor: Eleanor Frajka-Williams
+
+#          - Details: 6 credit points. Offered bi-annually.
+
+#          - Coursebook: [Link to Github Page (SuSe24)](https://ifmeo-hamburg.github.io/seaocn/intro.html)'
+#          icon: UHH
+#          organization: Universität Hamburg
+#          organization_url: https://www.ifm.uni-hamburg.de/en/education/master.html
+#          url: '../courses/seaocean/'
+#        - title: BSc Regional Oceanography
+#          date_end: '2024-07-15'
+#          date_start: '2024-04-01'
+#          description: '- Content: An introduction to oceans around the world, how they are described and typical processes.
+#
+#          - Instructor: Eleanor Frajka-Williams'
+#          icon: UHH
+#          organization: Universität Hamburg
+#          organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
+#          url: ''
+        - title: BSc Seepraktikum
+          date_start: '2025-04-01'
+          date_end: '2025-07-15'
+          description: '- Instructors: Martin Gade (lead), Eleanor Frajka-Williams, Niels Fuchs. 
+          
+          - Fieldwork course with excursion on the R/V Prandtl.  *Note that participation in Messmethoden & Fernerkundung is a prerequisite.*'
+          icon: UHH
+          organization: Universität Hamburg
+          organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
+          author: "Martin Gade"
+          url: ''
+        - title: MSc Atlantic meridional overturning circulation
+          date_end: '2025-07-15'
+          date_start: '2025-04-01'
+          description: '- Instructor: Eleanor Frajka-Williams
+
+          - Details: 6 credit points. Offered one-off.'
+
+#          - Coursebook: [Link to Github Page (SuSe24)](https://ifmeo-hamburg.github.io/seaocn/intro.html)'
+          icon: UHH
+          organization: Universität Hamburg
+          organization_url: https://www.ifm.uni-hamburg.de/en/education/master.html
+#          url: '../courses/seaocean/'
+#        - title: BSc Regional Oceanography
+#          date_end: '2024-07-15'
+#          date_start: '2024-04-01'
+#          description: '- Content: An introduction to oceans around the world, how they are described and typical processes.
+#
+#          - Instructor: Eleanor Frajka-Williams'
+#          icon: UHH
+#          organization: Universität Hamburg
+#          organization_url: https://www.ifm.uni-hamburg.de/en/education/bachelor.html
+#          url: ''
+
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
@@ -139,13 +164,20 @@ sections:
       title: Past offerings
       subtitle: by the EO group
       text: '
+
         - BSc Messmethoden & Fernerkundung (Gade, Frajka-Williams, Notz) in WiSe22/23
 
-        - BSc Seepraktikum (Gade), in SuSe24
+        - MSc Coastal Remote Sensing (Gade), in SuSe23
 
-        - MSc Coastal Remote Sensing (Gade), in SuSe24
+        - BSc Messmethoden & Fernerkundung (Gade, Frajka-Williams, Notz) in WiSe23/24
 
-        - BSc Regionale Ozeanographie (Frajka-Williams) in SuSe24'
+        - BSc Ozeanische Messübung (Frajka-Williams, Hainbucher) in [WiSe2324](https://ifmeo-hamburg.github.io/ozmess/intro.html) 
+
+        - BSc Seepraktikum (Gade, Fuchs), in SuSe24
+
+        - BSc Regionale Ozeanographie (Frajka-Williams) in SuSe24
+
+        - MSc Seagoing Oceanography (Frajka-Williams) in [SuSe24](https://ifmeo-hamburg.github.io/seaocn/intro.html)'
     design:
       columns: 2
 ---
@@ -168,7 +200,9 @@ sections:
 
 **Winter semester**
 
+- BSc Messmethoden & Fernerkundung (Gade, Frajka-Williams, Notz) in 2023/24
 - BSc Messmethoden & Fernerkundung (Gade, Frajka-Williams, Notz) in 2022/23
+- BSc Ozeanische Messübung (Frajka-Williams, Hainbucher) in [WiSe2324](https://ifmeo-hamburg.github.io/ozmess/intro.html)'
 
 **Summer semester**
 
