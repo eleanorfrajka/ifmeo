@@ -56,8 +56,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:eleanor.frajka@uni-hamburg.de'
-  - icon: cloud
-    icon_pack: fas
+  - icon: bluesky # cloud
+    icon_pack: fab # fab
     link: https://bsky.app/profile/eleanorfrajka.bsky.social
 #  - icon: twitter
 #    icon_pack: fab
