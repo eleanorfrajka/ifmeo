@@ -47,29 +47,29 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yves.sorge@studium.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yves-sorge/
 - icon: orcid
   icon_pack: ai
   link:  https://orcid.org/0009-0007-0043-9207
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yves-sorge/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ysorge
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+- icon: mastodon
+  icon_pack: fab
+  link: https://chaos.social/@kitsune
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ysorge
-- icon: mastodon
-  icon_pack: fab
-  link: https://chaos.social/@kitsune
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -49,21 +49,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:joel.bracamontes.ramirez@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=ZKPl8tMAAAAJ&hl=es
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7520-9296
 - icon: linkedin 
   icon_pack: fab
   link: https://de.linkedin.com/in/joel-bracamontes-ramírez-9280bb167
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/simons_seascape
 - icon: github
   icon_pack: fab
   link: https://github.com/joelbracamontes/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ZKPl8tMAAAAJ&hl=es
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/simons_seascape
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

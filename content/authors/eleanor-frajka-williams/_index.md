@@ -56,24 +56,30 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:eleanor.frajka@uni-hamburg.de'
-  - icon: bluesky # cloud
-    icon_pack: fab # fab
-    link: https://bsky.app/profile/eleanorfrajka.bsky.social
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/eleanorfrajka
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=lb6i-2EAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/eleanorfrajka
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/eleanorfrajka/
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-8773-7838
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/eleanorfrajka/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/eleanorfrajka
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=lb6i-2EAAAAJ&hl=en
+#  - icon: researchgate
+#    icon_pack: fab
+#    link: https://www.researchgate.net/profile/Dagmar-Hainbucher
+  - icon: cloud # bluesky # cloud
+    icon_pack: fas # fab
+    link: https://bsky.app/profile/eleanorfrajka.bsky.social
+#  - icon: mastodon
+#    icon_pack: fab
+#    link: https://chaos.social/@kitsune
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/eleanorfrajka
   - icon: cv
     icon_pack: ai
     link: files/EFW_CV.pdf

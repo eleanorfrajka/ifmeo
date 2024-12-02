@@ -49,21 +49,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:elodie.duyck@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=jFI5if0AAAAJ&hl=en&oi=ao
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9333-703X
 - icon: linkedin 
   icon_pack: fab
   link: https://fr.linkedin.com/in/elodie-duyck-53b58710a
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/duyckelodie
 - icon: github
   icon_pack: fab
   link: https://github.com/elodieduyck/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=R4knVUwAAAAJ&hl=en
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/duyckelodie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

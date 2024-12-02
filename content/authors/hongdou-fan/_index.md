@@ -47,26 +47,26 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hongdou.fan@.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4863-6740
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://de.linkedin.com/in/emelie-breunig-a2610a1a9
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=YPxqT_oAAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Hongdou-Fan-2
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=YPxqT_oAAAAJ&hl=en
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-4863-6740
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://de.linkedin.com/in/emelie-breunig-a2610a1a9
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
