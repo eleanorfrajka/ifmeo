@@ -2,25 +2,25 @@
 # Display name
 title: "Lara Heyl"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "lara-heyl"
-
 # Full name (for SEO)
 first_name: Lara
 last_name: Heyl
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "lara-heyl"
+
 # Is this the primary user of the site?
 superuser: false
-
 external_link: https://www.ifm.uni-hamburg.de/institute/staff/heyl.html
+
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: PhD student
 
 # Organizations/Affiliations
 organizations:
 - name: Institut für Meereskunde
-  url: "https://www.ifm.uni-hamburg.de/institute/staff/heyl.html"
+  url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -72,7 +72,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

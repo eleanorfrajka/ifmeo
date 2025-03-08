@@ -2,18 +2,17 @@
 # Display name
 title: "Simon Wett"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "simon-wett"
-
 # Full name (for SEO)
 first_name: Simon
 last_name: Wett
 
-external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/wett.html
+# Username (this should match the folder name and the name on publications)
+authors:
+- "simon-wett"
 
 # Is this the primary user of the site?
 superuser: false
+external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/wett.html
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Research Scientist (EPOC)

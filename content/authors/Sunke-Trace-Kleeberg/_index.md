@@ -2,16 +2,17 @@
 # Display name
 title: "Sunke Trace-Kleeberg"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "sunke-trace-kleeberg"
-
 # Full name (for SEO)
 first_name: Sunke
 last_name: Trace-Kleeberg
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "sunke-trace-kleeberg"
+
 # Is this the primary user of the site?
 superuser: false
+external_link: https://sunke-tk.com
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Visiting Scientist (2023)
@@ -23,8 +24,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
-external_link: https://sunke-tk.com
 
 # List each interest with a dash
 #interests:

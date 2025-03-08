@@ -2,6 +2,10 @@
 # Display name
 title: "Clemens Rohling"
 
+# Full name (for SEO)
+first_name: Clemens
+last_name: Rohling
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "clemens-rohling"
@@ -9,13 +13,12 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-first_name: Clemens
-last_name: Rohling
-
 external_link: 
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: MSc student (AWI)
+
+create_profile_page: false
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +75,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

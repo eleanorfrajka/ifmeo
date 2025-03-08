@@ -2,21 +2,21 @@
 # Display name
 title: "Andreas Welsch"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "andreas-welsch"
-
 # Full name (for SEO)
 first_name: Andreas
 last_name: Welsch
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "andreas-welsch"
+
 # Is this the primary user of the site?
 superuser: false
 
+external_link: https://www.ifm.uni-hamburg.de/institute/staff/welsch.html
+
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Technician
-
-external_link: https://www.ifm.uni-hamburg.de/institute/staff/welsch.html
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ organizations:
     url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+bio: 
 
 # List each interest with a dash
 #interests:
@@ -47,16 +47,22 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:andreas.welsch@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
+  link: 'mailto:andreas.welsch@uni-hamburg.de'  # For a direct email link, 
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0001-8773-7838
+#- icon: linkedin
 #  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+#  link: https://www.linkedin.com/in/yves-sorge/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/tillmrtz
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
-#- icon: github
+#- icon: twitter
 #  icon_pack: fab
-#  link: https://github.com/USERNAME
+#  link: https://twitter.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +73,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

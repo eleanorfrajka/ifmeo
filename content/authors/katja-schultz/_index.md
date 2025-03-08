@@ -2,19 +2,18 @@
 # Display name
 title: "Katja Schultz"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "Katja Schultz"
-
 # Full name (for SEO)
 first_name: Katja
 last_name: Schultz
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "Katja Schultz"
+
 # Is this the primary user of the site?
 superuser: false
-create_profile_page: true
-
 external_link: https://www.researchgate.net/profile/Katja-Schultz
+create_profile_page: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: MSc (2024)
@@ -25,7 +24,7 @@ organizations:
     url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: test
+bio: 
 
 # List each interest with a dash
 #interests:
@@ -69,7 +68,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bav2416@studium.uni-hamburg.de"
+email:  
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

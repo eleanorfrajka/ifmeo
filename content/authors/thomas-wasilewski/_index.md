@@ -2,17 +2,16 @@
 # Display name
 title: "Thomas Wasilewski"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "thomas-wasilewski"
-
 # Full name (for SEO)
 first_name: Thomas
 last_name: Wasilewski
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "thomas-wasilewski"
+
 # Is this the primary user of the site?
 superuser: false
-
 external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/wasilewski.html
 
 # Role/position (e.g., Professor of Artificial Intelligence)

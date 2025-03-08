@@ -2,25 +2,26 @@
 # Display name
 title: "Kaja Scheliga"
 
+# Full name (for SEO)
+first_name: Kaja
+last_name: Scheliga
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "kaja-scheliga"
 
-first_name: Kaja
-last_name: Scheliga
-
 # Is this the primary user of the site?
 superuser: false
+
+external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/scheliga.html
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Scientific Project Manager (EPOC)
 
-external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/scheliga.html
-
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+  - name: Universität Hamburg
+    url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -72,7 +73,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

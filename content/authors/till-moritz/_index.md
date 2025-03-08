@@ -2,16 +2,16 @@
 # Display name
 title: "Till Moritz"
 
+# Full name (for SEO)
+first_name: Till
+last_name: Moritz
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "till-moritz"
 
 # Is this the primary user of the site?
 superuser: false
-
-first_name: Till
-last_name: Moritz
-
 external_link: 
 
 # Role/position (e.g., Professor of Artificial Intelligence)
@@ -46,7 +46,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:till.moritz@studium.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:till.moritz@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0001-8773-7838
@@ -72,7 +72,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

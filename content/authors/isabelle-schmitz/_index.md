@@ -2,6 +2,10 @@
 # Display name
 title: "Isabelle Schmitz"
 
+# Full name (for SEO)
+first_name: Isabelle
+last_name: Schmitz
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "isabelle-schmitz"
@@ -9,10 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-first_name: Isabelle
-last_name: Schmitz
-
-external_link: 
+external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/schmitz.html
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: BSc student, Research assistant
@@ -46,7 +47,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:isabelle.schmitz@studium.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:isabelle.schmitz@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0001-8773-7838
@@ -72,7 +73,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

@@ -2,6 +2,7 @@
 # Display name
 title: Eleanor Frajka-Williams
 
+# Full name (for SEO)
 first_name: Eleanor
 last_name: Frajka-Williams
 
@@ -71,8 +72,8 @@ social:
 #  - icon: researchgate
 #    icon_pack: fab
 #    link: https://www.researchgate.net/profile/Dagmar-Hainbucher
-  - icon: cloud # bluesky # cloud
-    icon_pack: fas # fab
+  - icon: bluesky # bluesky # cloud
+    icon_pack: fab
     link: https://bsky.app/profile/eleanorfrajka.bsky.social
 #  - icon: mastodon
 #    icon_pack: fab

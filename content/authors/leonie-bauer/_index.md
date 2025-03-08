@@ -2,16 +2,16 @@
 # Display name
 title: "Leonie Bauer"
 
+# Full name (for SEO)
+first_name: Leonie
+last_name: Bauer
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "leonie-bauer"
 
-first_name: Leonie
-last_name: Bauer
-
 # Is this the primary user of the site?
 superuser: false
-
 external_link: https://www.linkedin.com/in/leonie-bauer-2754402b5/
 
 # Role/position (e.g., Professor of Artificial Intelligence)
@@ -69,7 +69,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

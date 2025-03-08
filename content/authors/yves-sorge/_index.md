@@ -2,16 +2,16 @@
 # Display name
 title: "Yves Sorge"
 
+# Full name (for SEO)
+first_name: Yves
+last_name: Sorge
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "yves-sorge"
 
-first_name: Yves
-last_name: Sorge
-
 # Is this the primary user of the site?
 superuser: false
-
 external_link: https://www.linkedin.com/in/yves-sorge/
 
 # Role/position (e.g., Professor of Artificial Intelligence)
@@ -46,7 +46,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yves.sorge@studium.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yves.sorge@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: orcid
   icon_pack: ai
   link:  https://orcid.org/0009-0007-0043-9207
@@ -59,9 +59,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: mastodon
-  icon_pack: fab
-  link: https://chaos.social/@kitsune
+#- icon: mastodon
+#  icon_pack: fab
+#  link: https://chaos.social/@kitsune
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
@@ -75,7 +75,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

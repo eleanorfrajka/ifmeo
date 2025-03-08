@@ -2,13 +2,13 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
+# Getting started: https://bootstrap.hugoblox.com/getting-started/get-started/
 # Appearance
 
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: native # minimal
+  font: native # minimal, classic, rose, Mr Robot, cyberpunk, native
   font_size: L
 
 # SEO
@@ -58,6 +58,8 @@ locale:
   date_format: '2 Jan 2006'
   time_format: '3:04 PM'
   address_format: en-us
+# https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-bootstrap/data/address_formats.toml
+
 
 # Site features
 

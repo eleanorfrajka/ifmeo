@@ -2,17 +2,16 @@
 # Display name
 title: "Markus Ritschel"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "Markus-Ritschel"
-
 # Full name (for SEO)
 first_name: Markus
 last_name: Ritschel
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "Markus-Ritschel"
+
 # Is this the primary user of the site?
 superuser: false
-
 external_link: https://www.linkedin.com/in/markus-ritschel-41a026132/
 
 # Role/position (e.g., Professor of Artificial Intelligence)
@@ -21,7 +20,7 @@ role: PhD (2024)
 # Organizations/Affiliations
 organizations:
 - name: Institut für Meereskunde
-  url: "https://www.ifm.uni-hamburg.de/en/workareas/experimental.html"
+  url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -73,7 +72,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

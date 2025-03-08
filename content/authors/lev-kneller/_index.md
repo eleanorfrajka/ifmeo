@@ -12,11 +12,11 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
-
 external_link:
+create_profile_page: false
 
 # Role/position
-role: MSc student 
+role: MSc student (UiB)
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ organizations:
     url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  
 
 #interests:
 #  - Artificial Intelligence

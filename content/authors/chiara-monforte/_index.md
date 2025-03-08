@@ -2,21 +2,21 @@
 # Display name
 title: "Chiara Monforte"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "chiara-monforte"
-
 # Full name (for SEO)
 first_name: Chiara
 last_name: Monforte
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "chiara-monforte"
+
 # Is this the primary user of the site?
 superuser: false
 
+external_link: https://www.ifm.uni-hamburg.de/institute/staff/monforte.html
+
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Glider research manager
-
-external_link: https://www.ifm.uni-hamburg.de/institute/staff/monforte.html
 
 # Organizations/Affiliations
 organizations:
@@ -48,10 +48,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:chiara.monforte@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: orcid
-#  icon_pack: ai
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0003-5019-3410
 #- icon: linkedin
-#  link: https://orcid.org/0000-0001-8773-7838
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/eleanorfrajka/
 - icon: github
@@ -60,6 +60,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: researchgate
+#  icon_pack: fab
+#  link: https://www.researchgate.net/profile/Chiara-Monforte
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
@@ -73,7 +76,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

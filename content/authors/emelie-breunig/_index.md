@@ -2,24 +2,25 @@
 # Display name
 title: "Emelie Breunig"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "emelie-breunig"
-
 # Full name (for SEO)
 first_name: Emelie
 last_name: Breunig
+
+# Username (this should match the folder name and the name on publications)
+authors:
+- "emelie-breunig"
 
 # Is this the primary user of the site?
 superuser: false
 
 external_link: https://www.ifm.uni-hamburg.de/institute/staff/breunig.html
+
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Institut für Meereskunde
+- name: Universität Hamburg
   url: "https://www.ifm.uni-hamburg.de/institute/staff/breunig.html"
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,7 +47,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:emelie.breunig@studium1.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:emelie.breunig@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0001-9263-3352
@@ -72,7 +73,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

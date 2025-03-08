@@ -2,13 +2,13 @@
 # Display name
 title: "Julian Morales Meabe"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "julian-morales-meabe"
-
 # Full name (for SEO)
 first_name: Julian
 last_name: Morales Meabe
+
+# Username (this should match the folder name and the name on publications)
+authors:
+- "julian-morales-meabe"
 
 # Is this the primary user of the site?
 superuser: false
@@ -71,7 +71,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "boris.shapkin@uni-hamburg.de"
+email: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -2,26 +2,27 @@
 # Display name
 title: "Hongdou Fan"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "hongdou-fan"
-
 # Full name (for SEO)
 first_name: Hongdou
 last_name: Fan
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "hongdou-fan"
+
 # Is this the primary user of the site?
 superuser: false
 
-external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/fan.html
+external_link: https://mpimet.mpg.de/en/institute/staff/portfolio?tx_mitarbeiterverwaltung_mitarbeiterliste%5Baction%5D=show&tx_mitarbeiterverwaltung_mitarbeiterliste%5Bcontroller%5D=Mitarbeiter&tx_mitarbeiterverwaltung_mitarbeiterliste%5Bmitarbeiter%5D=673&cHash=ad0fedf6aebb84c2ae857695334cc68d
+
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research scientist (TERIFIC)
+role: Research scientist (2024)
 
 # Organizations/Affiliations
 organizations:
-- name: Institut für Meereskunde
-  url: "https://www.ifm.uni-hamburg.de/en/institute/staff/fan.html"
-
+- name: 
+  url: 
+  
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
@@ -46,7 +47,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hongdou.fan@.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:fan.hongdou@mpimet.mpg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4863-6740
@@ -75,7 +76,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

@@ -1,19 +1,19 @@
 ---
 # Display name
-title: "Joel Bracamontes Ramirez"
-
-# Username (this should match the folder name and the name on publications)
-authors:
-- "joel-bracamontes-ramirez"
+title: "Joel Bracamontes Ramírez"
 
 # Full name (for SEO)
 first_name: Joel
 last_name: Bracamontes Ramirez
 
-external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/bracamontes.html  
+# Username (this should match the folder name and the name on publications)
+authors:
+- "joel-bracamontes-ramirez"
 
 # Is this the primary user of the site?
 superuser: false
+
+external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/bracamontes.html  
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Research Scientist (TERIFIC, MIXSED)
@@ -22,7 +22,6 @@ role: Research Scientist (TERIFIC, MIXSED)
 organizations:
   - name: Universität Hamburg
     url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
-
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -74,7 +73,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

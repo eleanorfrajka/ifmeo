@@ -2,19 +2,23 @@
 # Display name
 title: "Cristina Arumi Planas"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "cristina-arumi-planas"
-
 # Full name (for SEO)
 first_name: Cristina
 last_name: Arumi Planas
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "cristina-arumi-planas"
+
 # Is this the primary user of the site?
 superuser: false
 
+external_link: https://iocag.ulpgc.es/people/cristina-arumi-planas
+
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Visiting Scientist (2024)
+
+create_profile_page: false
 
 # Organizations/Affiliations
 organizations:
@@ -23,8 +27,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
-external_link: https://iocag.ulpgc.es/people/cristina-arumi-planas
 
 # List each interest with a dash
 #interests:
@@ -54,12 +56,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/cristinarumi/?originalSubdomain=es
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PEOx1GcAAAAJ&hl=ca
 - icon: github
   icon_pack: fab
   link: https://github.com/cristinarumi
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PEOx1GcAAAAJ&hl=ca
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/cristinaarumi97?lang=en
@@ -73,7 +75,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

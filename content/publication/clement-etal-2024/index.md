@@ -2,8 +2,8 @@
 title: Turbulent Vertical Velocities in Labrador Sea Convection
 subtitle: ''
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name)
+# here and it will be replaced with their full name and linked to their profile.
 authors:
 - Louis Clément
 - Lukas Merckelbach
@@ -33,7 +33,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Geophysical Research Letters*'
-publication_short: "Geophys. Res. Lett."
+publication_short: 'Geophys. Res. Lett.'
 
 abstract: Turbulent vertical velocity measurements are scarce in regions prone to convection such as the Labrador Sea, which hinders our understanding of deep convection dynamics. Vertical velocity, w \$w\$, is retrieved from wintertime glider deployments in the convective region. From w \$w\$, downward convective plumes of dense waters are identified. These plumes only cover a small fraction of the convective area. Throughout the convective area, the standard deviation of w \$w\$ agrees with scaling relations for the atmospheric surface and boundary layers. It initially depends on surface buoyancy loss in winter, and later, on wind stress after mid-March. Both periods are characterized by positive turbulent vertical buoyancy flux. During convective periods in winter, the positive buoyancy flux is mostly forced by surface heat loss. After mid-March, when buoyancy loss to the atmosphere is reduced, the positive buoyancy flux results from a restratifying upward freshwater flux, potentially of lateral origins and without much atmospheric influence.
 
