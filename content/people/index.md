@@ -1,7 +1,6 @@
 ---
 title: Group
-summary: 
-date: "2024-09-02"
+date: 2024-09-02
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -13,39 +12,30 @@ header:
   caption: ""
   image: ""
 
-# Files in this folder represent a Widget Page
 type: landing
 
 sections:
   - block: people
     id: people
     content:
-      title:
+      title: 
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-        - Principal Investigator
-        - Group
-#        - Senior Scientists
-#        - PhD Students
-#        - MSc Students
-#        - Students
-#        - Technical & Administration
-#        - Visitors
-#        - Past Members
-        - Alumni (Hamburg)
+          - Principal Investigator
+          - Group
+#          - Researchers
+#          - Grad Students
+#          - Administration
+#          - Visitors
+          - Alumni (Hamburg)
       sort_by: Params.last_name
       sort_ascending: true
     design:
-      # Show user's social networking links? (true/false)
-      show_social: true
-      # Show user's interests? (true/false)
-      show_interests: false
-      # Show user's role?
+      show_interests: false # show interests?
       show_role: true
-      # Show user's organizations/affiliations?
+      show_social: true  # show user's social networking links?
       show_organizations: false
-      # Your landing page sections - add as many different content blocks as you like
   - block: markdown
     id: section-1
     content:
@@ -57,7 +47,7 @@ sections:
 
         - PhD students are usually hired through the [IMPRS graduate school](https://mpimet.mpg.de/en/career/imprs-esm) with a deadline by the middle of September each year. 
 
-        - **Technician opportunity:** We anticipate hiring technical staff in the  next year.  If this may be of interest to you, please email [Eleanor](mailto:eleanor.frajka@uni-hamburg.de).'
+        - **Technician opportunity:** We are hiring a seagoing technician!  See the [job advert](../post/2025-03-08-technician). If this may be of interest to you, please email [Eleanor](mailto:eleanor.frajka@uni-hamburg.de).'
     design:
         columns: 2
   - block: slider

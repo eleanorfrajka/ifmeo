@@ -2,7 +2,7 @@
 title: New prof resources (especially for physical oceanography)
 summary: Various resources I've found to be helpful when engaging with academia as a professor.  Especially teaching resources, but I'll add as I remember things.
 subtitle: 
-date: 204-03-08
+date: 2024-03-08
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

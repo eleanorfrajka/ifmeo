@@ -16,7 +16,7 @@ superuser: false
 external_link: https://www.linkedin.com/in/julián-marcelo-morales-meabe-550177235/
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: MSc student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:julian.morales.meabe@studium.uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:julian.morales.meabe@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0003-5551-4914
@@ -74,7 +74,7 @@ social:
 email: "boris.shapkin@uni-hamburg.de"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

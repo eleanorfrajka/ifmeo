@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: native # minimal
   font_size: L
 
 # SEO
@@ -18,15 +18,16 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Experimental Oceanography at the Universität Hamburg'
+    description: 'Experimental Oceanography at the Universität Hamburg.'
     twitter: 'eleanorfrajka'
   analytics:
     google_analytics: 'G-CBJQXMTJMK'
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
-
 
 # Site header
 
@@ -38,7 +39,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
@@ -62,8 +63,11 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    enable: false
+    extra_languages:
+      - r
+      - latex
+      - python
   math:
     enable: false
   privacy_pack:
@@ -74,7 +78,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle # Can change to square
+    shape: circle
   comment:
     provider: ''
     disqus:
@@ -102,20 +106,14 @@ features:
 # Extensions
 
 extensions:
-  cms:
+  decap_cms:
     branch: main
     local_backend: false
   academicons:
     enable: true
 
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
-
 # Citation style
 
 publications:
   date_format: January 2006
-  citation_style: classic
+  citation_style: apa  #classic
