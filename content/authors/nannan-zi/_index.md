@@ -2,16 +2,17 @@
 # Display name
 title: "Nannan Zi"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "nannan-zi"
-
 # Full name (for SEO)
 first_name: Nannan
 last_name: Zi
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "nannan-zi"
+
 # Is this the primary user of the site?
 superuser: false
+external_link: 
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Visiting Scientist (2024)
@@ -23,8 +24,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
-#external_link: https://sunke-tk.com
 
 # List each interest with a dash
 #interests:
