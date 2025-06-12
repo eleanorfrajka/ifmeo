@@ -1,5 +1,5 @@
 ---
-title: Marine Gliders
+title: Ocean Gliders
 summary: Long endurance AUVs (autonomous underwater vehicles) for measuring oceanographic quantities in the top 1000m.
 date: 2024-01-24
 
@@ -9,7 +9,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 show_related: true
 
-lastmod: 2023-11-19
+lastmod: 2025-06-12
 authors: ["Eleanor Frajka-Williams", "Chiara Monforte"]
 tags: ["technology"]
 private: false
@@ -17,20 +17,20 @@ private: false
 weight: 510
 
 # Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+banner:
+  caption: "Frajka-Williams"
+  image: projects/banner/banner5.jpeg
 
 toc: true
 ---
 
-Marine gliders, a type of autonomous underwater vehicle, are a measurement platform which carries oceanographic sensors to remote regions of the worlds’ oceans. They are characterised by long-endurance (up to 1 year) and can be remotely piloted from shore. The measurements they make depend on the sensor payload, and may include ocean temperature, salinity, dissolved oxygen concentration, bio-optical measurements, turbulence, current speed and direction, and more. Gliders have been in operation since the early 2000s, commercially-available some years later, and are now relatively prolific (with 10s of groups across the world using them for oceanographic research).
+Ocean gliders, a type of autonomous underwater vehicle, are a measurement platform which carries oceanographic sensors to remote regions of the worlds’ oceans. They are characterised by long-endurance (up to 1 year) and can be remotely piloted from shore. The measurements they make depend on the sensor payload, and may include ocean temperature, salinity, dissolved oxygen concentration, bio-optical measurements, turbulence, current speed and direction, and more. Gliders have been in operation since the early 2000s, commercially-available some years later, and are now relatively prolific (with 10s of groups across the world using them for oceanographic research).
 
-In the EO group, we use marine gliders to make measurements of oceanographic properties and estimates of turbulent dissipation.  Some examples of scientific and methodological advances using glider-based oceanographic data are given below.
+In the EO group, we use ocean gliders to make measurements of oceanographic properties and estimates of turbulent dissipation.  Some examples of scientific and methodological advances using glider-based oceanographic data are given below.
 
 
 
-### Estimating vertical seawater velocity (w) 
+### Estimating vertical seawater velocity (w)
 {{< cite page="/publication/frajka-williams-etal-2011" view="4" >}}
 
 ### Estimating turbulent dissipation from glider w

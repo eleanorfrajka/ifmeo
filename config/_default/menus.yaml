@@ -13,6 +13,9 @@ main:
   - name: Software
     url: https://github.com/ifmeo-hamburg
     weight: 52
+  - name: Projects
+    url: 'project/'
+    weight: 54
   - name: Teaching
     url: 'teaching/'
     weight: 55
