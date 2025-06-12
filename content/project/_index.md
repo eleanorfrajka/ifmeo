@@ -46,7 +46,7 @@ sections:
         - title: Denmark Strait overflow
           date_end: '2025-06-01'
           date_start: '1996-05-01'
-          description: '- Investigators: Eleanor Frajka-Williams, Andreas Macrander
+          description: '- EO Investigators: Eleanor Frajka-Williams
 
           - Aim: Transport estimates of the dense water through Denmark Strait.
 
@@ -58,7 +58,7 @@ sections:
         - title: Explaining and Predicting the Ocean Conveyor (EPOC)
           date_end: '2027-06-30'
           date_start: '2022-07-01'
-          description: '- Investigators: Eleanor Frajka-Williams, Simon Wett
+          description: '- EO Investigators: Eleanor Frajka-Williams, Simon Wett
 
           - Aim: A new conceptual understanding of the Atlantic meridional overturning circulation.
 
@@ -72,7 +72,7 @@ sections:
         - title: Swarm of Ocean Gliders
           date_end: '2027-06-30'
           date_start: '2022-07-01'
-          description: '- Investigators: Eleanor Frajka-Williams
+          description: '- EO Investigators: Eleanor Frajka-Williams, Chiara Monforte
 
           - Aim: Infrastructure / large equipment for a swarm of ocean gliders.
 
@@ -86,7 +86,7 @@ sections:
         - title: Targeted Experiment to Reconcile Increased Freshwater with Increased Convection (TERIFIC)
           date_end: '2025-10-31'
           date_start: '2018-11-01'
-          description: '- Investigators: Eleanor Frajka-Williams, Louis Clement, Joel Bracamontes Ramirez, Elodie Duyck
+          description: '- EO Investigators: Eleanor Frajka-Williams, Joel Bracamontes Ramirez, Elodie Duyck
 
           - Aim: Investigate freshwater pathways from Greenland melt to the subpolar gyre, and dynamics within convecting regions of the Labrador Sea.
 
@@ -100,7 +100,7 @@ sections:
         - title: Mechanisms responsible for Mesoscale Eddy Energy Dissipation (MerMEED)
           date_end: '2020-02-01'
           date_start: '2015-08-01'
-          description: '- Investigators: Eleanor Frajka-Williams, Alberto Naveira Garabato, D. Gwyn Evans, Bieito Fernandez Castro
+          description: '- EO Investigators: Eleanor Frajka-Williams
 
           - Aim: Investigating dissipation of mesoscale eddies at the western boundary of the Atlantic
 
@@ -113,7 +113,7 @@ sections:
         - title: Denmark Strait Mixing and Sediment Dynamics (MIXSED)
           date_end: '2027-12-30'
           date_start: '2024-12-31'
-          description: '- Investigators: Eleanor Frajka-Williams, Joel Bracamontes Ramierez
+          description: '- EO Investigators: Eleanor Frajka-Williams, Joel Bracamontes Ramierez
 
           - Aim: A new conceptual understanding of the Atlantic meridional overturning circulation.
 
@@ -124,7 +124,18 @@ sections:
           organization: Universität Hamburg
           organization_url:  https://www.mixsed.uni-hamburg.de
           url: mixsed
+        - title: Dynamics of the Orkney Passage Outflow (DynOPO)
+          date_end: '2018-11-01'
+          date_start: '2014-09-01'
+          description: '- EO Investigators: Eleanor Frajka-Williams
 
+          - Aim: Assess the role of winds in regulating AABW export through Orkney Passage
+
+          - Funding: UKRI (UK Research & Innovation)'
+          icon: ukri_square
+          organization: University of Southampton
+          organization_url:  https://www.soton.ac.uk
+          url: dynopo
 
   - block: collection
     id: posts

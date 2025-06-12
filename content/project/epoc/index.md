@@ -1,26 +1,46 @@
 ---
-title: Project - EPOC
-subtitle: A new conceptual framework for the Atlantic meridional overturning circulation
-type: project
-date: "2025-06-12"
-draft: false
-lastmod: 2025-06-12
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-show_date: true # show date published
-backlinks: true # show backlinks at the right side
-show_related: true
-show_breadcrumb: true
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: "Frajka-Williams"
-  image: projects/banner/banner1.jpeg
+# Documentation: https://docs.hugoblox.com/managing-content/
 
+title: "Project - EPOC"
+summary: ""
+subtitle: Explaining and Predicting the Ocean Conveyor
+authors: ["Eleanor Frajka-Williams", "Kaja Scheliga", "Simon Wett"]
+tags: []
+categories: []
+date: 2025-06-12T07:26:55+02:00
 
+# Optional external URL for project (replaces project detail page).
+external_link: "http://epoc-eu.org"
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
 ---
+
 ## Explaining and Predicting the Ocean Conveyor
 
 **Project website:** http://epoc-eu.org
