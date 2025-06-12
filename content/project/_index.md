@@ -137,6 +137,19 @@ sections:
           organization_url:  https://www.soton.ac.uk
           url: dynopo
 
+        - title: RAPID Climate Change (RAPID)
+          date_end: '2026-04-01'
+          date_start: '2004-04-01'
+          description: '- EO Investigators: Eleanor Frajka-Williams (2009 - 2012, 2018 - 2022)
+
+          - Aim: Monitor and explain the continously varying AMOC at 26°N
+
+          - Funding: UKRI (UK Research & Innovation)'
+          icon: rapid_square
+          organization: National Oceanography Centre
+          organization_url:  https://www.noc.ac.uk
+          url: rapid
+
   - block: collection
     id: posts
     content:

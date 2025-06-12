@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "MerMEED"
+title: "Project - MerMEED"
 summary: "Mechanisms responsible for Mesoscale Eddy Energy Dissipation"
 subtitle: Mechanisms responsible for Mesoscale Eddy Energy Dissipation
 authors: ["Eleanor Frajka-Williams"]

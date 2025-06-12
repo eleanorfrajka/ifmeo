@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "DS-MIXSED"
+title: "Project - DS-MIXSED"
 summary: ""
 subtitle: "Denmark Strait- Mixing and Sediment Dynamics"
 authors: ["Eleanor Frajka-Williams", "Joel Bracamontes Ramirez"]
@@ -18,7 +18,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -42,6 +42,10 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+banner:
+  caption: "Frajka-Williams"
+  image: featured.jpg
 ---
 
 

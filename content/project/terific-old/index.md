@@ -1,51 +1,26 @@
 ---
-# Documentation: https://docs.hugoblox.com/managing-content/
-
 title: Project - TERIFIC
-subtitle: Targeted Experiment to Reconcile Increased Freshwater with Increased Convection
+subtitle: Labrador Sea and subpolar North Atlantic
 summary: Research program by the Experimental Oceanography group at Universität Hamburg.
-authors: [Eleanor Frajka-Williams, Elodie Duyck, Joel Bracamontes Ramirez]
-tags: []
-categories: []
-date: 2025-06-12T08:04:41+02:00
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: true
+type: project
+date: "2025-06-12"
+draft: false
+lastmod: 2025-06-12
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+# Optional header image (relative to `assets/media/` folder).
 banner:
   caption: "Frajka-Williams"
-  image: featured.jpeg
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+  image: projects/banner/banner4.jpeg
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
 
-##  Synopsis
+## Targeted Experiment to Reconcile Increased Freshwater with Increased Convection
 
-The ocean Meridional Overturning Circulation (MOC) is responsible for poleward heat transport, and deep storage of heat and carbon. Climate models generally predict that a slowdown of the MOC will occur this century, with dramatic regional and global climate changes, but how the slow-down will occur is subject to debate.
+**Synopsis:** The ocean Meridional Overturning Circulation (MOC) is responsible for poleward heat transport, and deep storage of heat and carbon. Climate models generally predict that a slowdown of the MOC will occur this century, with dramatic regional and global climate changes, but how the slow-down will occur is subject to debate.
 
 ![The meridional overturning circulation: red lines are northward flowing warm waters; blue lines are deep water formed through open ocean convection.](featured.png "The meridional overturning circulation: red lines are northward flowing warm waters; blue lines are deep water formed through open ocean convection.")
 
@@ -63,9 +38,7 @@ The analysis of these observations will answer fundamental questions about how f
 
 ---
 
-## Aims
-
-TERIFIC aims to identify processes and timescales by which freshwater from northern high latitudes can reach and influence deep convection. Direct, seasonally-resolving observations of convective processes under the influence of surface forcing will be used to test the relative importance of different processes at determining convective intensity, and will form a benchmark for numerical simulations.
+**Project aims:** TERIFIC aims to identify processes and timescales by which freshwater from northern high latitudes can reach and influence deep convection. Direct, seasonally-resolving observations of convective processes under the influence of surface forcing will be used to test the relative importance of different processes at determining convective intensity, and will form a benchmark for numerical simulations.
 
 ![Drifters from the Global Drifter Program (prior to TERIFIC) showing where trajectories go when released from the continental shelf off southeast Greenland.](projects/terific/freshwaters_map.png "Drifters from the Global Drifter Program (prior to TERIFIC) showing where trajectories go when released from the continental shelf off southeast Greenland.")
 
@@ -78,7 +51,3 @@ TERIFIC is a high-risk experiment, with autonomous technologies deployed in a ha
 - Concurrent deployment of a surface vehicle to make direct measurements of near surface meteorological conditions, to improve estimates of the surface forces driving deep convection.
 
 This remarkable dataset will be maximised by applying new insights and analysis techniques from field experiments around the world. These observations and their analysis will extend the state-of-the-art for autonomous, system-capturing ocean observations, and will deliver new insights into a key localised process of climate change. The results will serve as a benchmark for numerical models in simulating both cross-shelf exchange and convection.
-
-## Funding
-
-- PI: Eleanor Frajka-Williams, EU grant number [803140](https://cordis.europa.eu/project/id/803140)

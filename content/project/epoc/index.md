@@ -18,8 +18,10 @@ external_link: "http://epoc-eu.org"
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
-
+  preview_only: true
+banner:
+  caption: "Eleanor Frajka-Williams"
+  image: featured.jpg
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
