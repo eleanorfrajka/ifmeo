@@ -99,9 +99,9 @@ sections:
           url: terific
 
         - title: Denmark Strait Mixing and Sediment Dynamics (MIXSED)
-          date_end: '2027-06-30'
+          date_end: '2027-12-30'
           date_start: '2024-12-31'
-          description: '- Investigators: Eleanor Frajka-Williams, Joel Bracamontes Ramieres
+          description: '- Investigators: Eleanor Frajka-Williams, Joel Bracamontes Ramierez
 
           - Aim: A new conceptual understanding of the Atlantic meridional overturning circulation.
 
@@ -110,7 +110,7 @@ sections:
           - Project website: [https://www.mixsed.uni-hamburg.de](https://www.mixsed.uni-hamburg.de)'
           icon: mixsed_square_mask
           organization: Universität Hamburg
-          organization_url:  https://www.cen.uni-hamburg.de/en/icdc/data/ocean/denmark-strait-overflow.html
+          organization_url:  https://www.mixsed.uni-hamburg.de
           url: mixsed
   - block: collection
     id: posts
