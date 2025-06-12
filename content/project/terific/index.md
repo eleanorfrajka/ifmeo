@@ -47,7 +47,7 @@ slides: ""
 
 The ocean Meridional Overturning Circulation (MOC) is responsible for poleward heat transport, and deep storage of heat and carbon. Climate models generally predict that a slowdown of the MOC will occur this century, with dramatic regional and global climate changes, but how the slow-down will occur is subject to debate.
 
-![The meridional overturning circulation: red lines are northward flowing warm waters; blue lines are deep water formed through open ocean convection.](featured.png "The meridional overturning circulation: red lines are northward flowing warm waters; blue lines are deep water formed through open ocean convection.")
+![The meridional overturning circulation: red lines are northward flowing warm waters; blue lines are deep water formed through open ocean convection.](projects/terific/terific_schematic.png "The meridional overturning circulation: red lines are northward flowing warm waters; blue lines are deep water formed through open ocean convection.")
 
 
 It is widely recognised that convection – the downward limb of the MOC – is sensitive to freshwater fluxes, and recent investigations have suggested that the increased melt from the Greenland Ice Sheet has already reduced convection. Yet in 2015, convection returned, and was anomalously strong. Despite the expectation that the MOC is sensitive to freshwater forcing, we do not understand the processes by which freshwater inputs influence the MOC.

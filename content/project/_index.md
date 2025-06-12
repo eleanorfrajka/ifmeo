@@ -50,11 +50,11 @@ sections:
 
           - Aim: Transport estimates of the dense water through Denmark Strait.
 
-          - Link: [projects/dsow](../projects/dsow)'
+          - Link: [projects/dso](dsow)'
           icon: UHH
           organization: Universität Hamburg
           organization_url:  https://www.cen.uni-hamburg.de/en/icdc/data/ocean/denmark-strait-overflow.html
-          url: ../projects/dsow
+          url: dsow
         - title: Explaining and Predicting the Ocean Conveyor (EPOC)
           date_end: '2027-06-30'
           date_start: '2022-07-01'
