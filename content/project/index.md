@@ -9,10 +9,10 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+banner:
+  caption: "Frajka-Williams"
+  image: projects/banner/banner2.jpeg
+
 
 sections:
   - block: markdown
@@ -38,7 +38,7 @@ sections:
   - block: accomplishments
     content:
       title: Projects
-      subtitle: Ongoing
+      subtitle: 
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -97,6 +97,18 @@ sections:
           organization: Universität Hamburg
           organization_url:  https://www.cen.uni-hamburg.de/en/icdc/data/ocean/denmark-strait-overflow.html
           url: terific
+        - title: Mechanisms responsible for Mesoscale Eddy Energy Dissipation (MerMEED)
+          date_end: '2020-02-01'
+          date_start: '2015-08-01'
+          description: '- Investigators: Eleanor Frajka-Williams, Alberto Naveira Garabato, D. Gwyn Evans, Bieito Fernandez Castro
+
+          - Aim: Investigating dissipation of mesoscale eddies at the western boundary of the Atlantic
+
+          - Link: [project/mermeed](../project/mermeed)'
+          icon: mermeed_square
+          organization: National Oceanography Centre
+          organization_url:  http://noc.ac.uk
+          url: ../project/mermeed
 
         - title: Denmark Strait Mixing and Sediment Dynamics (MIXSED)
           date_end: '2027-12-30'
@@ -112,6 +124,8 @@ sections:
           organization: Universität Hamburg
           organization_url:  https://www.mixsed.uni-hamburg.de
           url: mixsed
+
+
   - block: collection
     id: posts
     content:
