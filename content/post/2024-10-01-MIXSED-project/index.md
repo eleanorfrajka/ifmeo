@@ -2,7 +2,7 @@
 title: "New DFG project: DS-MIXSED"
 date: 2024-10-01
 categories: [News]
-projects: [dsow]
+projects: [mixsed]
 tags: []
 authors:
 - Eleanor Frajka-Williams

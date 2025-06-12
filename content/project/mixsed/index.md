@@ -1,9 +1,10 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Mixsed"
+title: "DS-MIXSED"
 summary: ""
-authors: []
+subtitle: "Denmark Strait- Mixing and Sediment Dynamics"
+authors: ["Eleanor Frajka-Williams", "Joel Bracamontes Ramirez"]
 tags: []
 categories: []
 date: 2025-06-12T06:57:51+02:00
@@ -21,11 +22,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+# https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/data/icons/hb.yaml
+# https://fontawesome.com/icons/packs/classic
+links:
+ - name: Website
+   url: https://www.mixsed.uni-hamburg.de
+   icon_pack: fas
+   icon: globe
+
 
 url_code: ""
 url_pdf: ""
@@ -39,3 +43,25 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
+
+## Synopsis
+
+Our overarching motivation is to understand how the small-scale processes at topographic sills and constrictions relate to the wider context of the North Atlantic; specifically, in the region of Denmark Strait (DS), how small-scale (turbulence, submesoscale and mesoscale) derived from flow over topography influences the watermass transformation along the east Greenland margin. We additionally speculate that the strongly mesoscale and potentially submesoscale dynamics in the overflow region contribute to sediment transport and seabed evolution in the region. In order to address these hypotheses, MIXSED will achieve the following specific
+
+## Objectives
+
+O1: Diagnose the mesoscale/submesoscale dynamics in the vicinity of strongly sheared flows and complex topography.
+
+O2: Characterise particles transported and the capacity of the DSO to shape the seafloor, in the context of the intensity of flows and physical mixing processes.
+
+O3: Evaluate the potential for two-way flow-topography interactions in the region of DSO, conceptually and, where possible, practically. The proposed observational program will additionally.
+
+## Funding
+
+- PI: Eleanor Frajka-Williams (University of Hamburg), Grant reference DFG[541913507](https://gepris.dfg.de/gepris/projekt/541914507?language=en)
+
+- PI: Wilken-Jon von Appen (AWI), Grant reference DFG[541913507](https://gepris.dfg.de/gepris/projekt/541914507)
+
+- PI: David Amblas, Anna Sanchez-Vidal, Dolores Maria Perez Hernandez
