@@ -5,162 +5,184 @@ type: landing
 date: "2025-06-12"
 draft: false
 lastmod: 2025-06-12
+
 reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+share: false         # Show social sharing links?
+profile: false       # Show author profile?
+comments: false      # Show comments?
+
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
+
 banner:
   caption: "Frajka-Williams"
-  image: projects/banner/banner2.jpeg
-
+  image: featured.jpg
 
 sections:
+
   - block: markdown
     id: research
     class: anchor
     content:
       title: Research
       subtitle: active and past projects
-      text: 'The Experimental Oceanography group is part of the Earth System Sciences department at the Universität Hamburg. We  aim to advance our understanding of ocean dynamics and circulation in a changing climate. We are a seagoing group, specialising in physical oceanographic measurements and using approaches that leverage traditional observations with new platforms and satellite data.
+      text: |
+        The Experimental Oceanography group is part of the Earth System Sciences department at the Universität Hamburg. We aim to advance understanding of ocean dynamics and circulation in a changing climate. We are a seagoing group, specialising in physical oceanographic measurements and using approaches that leverage traditional observations with new platforms and satellite data.
 
-      Topics include:
+        Topics include:
 
-      - Large-scale ocean circulation including the Atlantic meridional overturning circulation and gyre circulations.
-
-      - Small-scale processes, e.g. deep ocean convection, submesoscale mixing, and turbulent dissipation.
-
-      - Measurement methods. Using in situ and remote sensing to better observe the ocean.'
+        - Large-scale ocean circulation including the Atlantic meridional overturning circulation and gyre circulations.
+        - Small-scale processes, e.g. deep ocean convection, submesoscale mixing, and turbulent dissipation.
+        - Measurement methods. Using in situ and remote sensing to better observe the ocean.
     design:
       columns: 1
       spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
+
   - block: accomplishments
     content:
       title: Projects
       subtitle: 
       text: ''
-      # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Denmark Strait overflow
-          date_end: '2025-06-01'
-          date_start: '1996-05-01'
-          description: '- EO Investigators: Eleanor Frajka-Williams
-
-          - Aim: Transport estimates of the dense water through Denmark Strait.
-
-          - Link: [projects/dso](dsow)'
-          icon: UHH
-          organization: Universität Hamburg
-          organization_url:  https://www.cen.uni-hamburg.de/en/icdc/data/ocean/denmark-strait-overflow.html
-          url: dsow
-        - title: Explaining and Predicting the Ocean Conveyor (EPOC)
-          date_end: '2027-06-30'
-          date_start: '2022-07-01'
-          description: '- EO Investigators: Eleanor Frajka-Williams, Simon Wett
-
-          - Aim: A new conceptual understanding of the Atlantic meridional overturning circulation.
-
-          - Funding: EU Horizon Europe
-
-          - Project website: [http://epoc-eu.org](http://epoc-eu.org)'
-          icon: epoc
-          organization: Universität Hamburg
-          organization_url:  https://www.cen.uni-hamburg.de/en/icdc/data/ocean/denmark-strait-overflow.html
-          url: epoc
-        - title: Swarm of Ocean Gliders
-          date_end: '2027-06-30'
-          date_start: '2022-07-01'
-          description: '- EO Investigators: Eleanor Frajka-Williams, Chiara Monforte
-
-          - Aim: Infrastructure / large equipment for a swarm of ocean gliders.
-
-          - Funding: DFG
-
-          - Project website: [technology/gliders/](../technology/gliders/)'
-          icon: logo_glider
-          organization: Universität Hamburg
-          organization_url:  https://www.cen.uni-hamburg.de/en/icdc/data/ocean/denmark-strait-overflow.html
-          url: ../technology/gliders
-        - title: Targeted Experiment to Reconcile Increased Freshwater with Increased Convection (TERIFIC)
-          date_end: '2025-10-31'
-          date_start: '2018-11-01'
-          description: '- EO Investigators: Eleanor Frajka-Williams, Joel Bracamontes Ramirez, Elodie Duyck
-
-          - Aim: Investigate freshwater pathways from Greenland melt to the subpolar gyre, and dynamics within convecting regions of the Labrador Sea.
-
-          - Funding: EU Horizon 2020
-
-          - Project website: [project/terific](terific)'
-          icon: terific_square
-          organization: Universität Hamburg
-          organization_url:  https://www.cen.uni-hamburg.de/en/icdc/data/ocean/denmark-strait-overflow.html
-          url: terific
-        - title: Mechanisms responsible for Mesoscale Eddy Energy Dissipation (MerMEED)
-          date_end: '2020-02-01'
-          date_start: '2015-08-01'
-          description: '- EO Investigators: Eleanor Frajka-Williams
-
-          - Aim: Investigating dissipation of mesoscale eddies at the western boundary of the Atlantic
-
-          - Link: [project/mermeed](../project/mermeed)'
-          icon: mermeed_square
-          organization: National Oceanography Centre
-          organization_url:  http://noc.ac.uk
-          url: ../project/mermeed
 
         - title: Denmark Strait Mixing and Sediment Dynamics (MIXSED)
-          date_end: '2027-12-30'
           date_start: '2024-12-31'
-          description: '- EO Investigators: Eleanor Frajka-Williams, Joel Bracamontes Ramierez
-
-          - Aim: A new conceptual understanding of the Atlantic meridional overturning circulation.
-
-          - Funding: AEI-DFG
-
-          - Project website: [https://www.mixsed.uni-hamburg.de](https://www.mixsed.uni-hamburg.de)'
+          date_end: '2027-12-30'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams, Joel Bracamontes Ramierez
+            - **Aim:** A new conceptual understanding of the Atlantic meridional overturning circulation.
+            - **Funding:** AEI-DFG, DFG Project number [541914507](https://gepris.dfg.de/gepris/projekt/541914507?language=en)
+            - **Project website:** [https://www.mixsed.uni-hamburg.de](https://www.mixsed.uni-hamburg.de)
           icon: mixsed_square_mask
-          organization: Universität Hamburg
-          organization_url:  https://www.mixsed.uni-hamburg.de
+          organization: DFG
+          organization_url: https://gepris.dfg.de/gepris/projekt/541914507?language=en
           url: mixsed
+
+        - title: Explaining and Predicting the Ocean Conveyor (EPOC)
+          date_start: '2022-07-01'
+          date_end: '2027-06-30'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams, Simon Wett
+            - **Aim:** A new conceptual understanding of the Atlantic meridional overturning circulation.
+            - **Funding:** EU Horizon Europe [101059547](https://doi.org/10.3030/101059547) (EU beneficiaries), UK Horizon Europe Guarantee [10038003](https://gtr.ukri.org/projects?ref=10038003#/tabOverview) (NOC), [10039018](https://gtr.ukri.org/projects?ref=10039018) (Reading), [10042452](https://gtr.ukri.org/projects?ref=10042452) (UCL), [Seascape Consultants](https://gtr.ukri.org/projects?ref=10038853) (10038853)
+            - **Project website:** http://epoc-eu.org
+          icon: epoc
+          organization: EU Horizon Europe
+          organization_url: https://doi.org/10.3030/101059547
+          url: epoc
+
+        - title: Swarm of Ocean Gliders
+          date_start: '2022-07-01'
+          date_end: '2024-12-01'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams, Chiara Monforte
+            - **Aim:** Infrastructure / large equipment for a swarm of ocean gliders.
+            - **Funding:** DFG Project number [544335393](https://gepris.dfg.de/gepris/projekt/544335393)
+          icon: logo_glider
+          organization: DFG 
+          organization_url: https://gepris.dfg.de/gepris/projekt/544335393
+          url: ../technology/gliders
+
+        - title: Targeted Experiment to Reconcile Increased Freshwater with Increased Convection (TERIFIC)
+          date_start: '2018-11-01'
+          date_end: '2025-10-31'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams, Joel Bracamontes Ramirez, Elodie Duyck
+            - **Aim:** Investigate freshwater pathways from Greenland melt to the subpolar gyre, and dynamics within convecting regions of the Labrador Sea.
+            - **Funding:** EU European Research Council - Grant Agreement ID [803140](https://doi.org/10.3030/803140)
+            - **Project website:** http://terific.org
+          icon: terific_square
+          organization: European Research Council
+          organization_url: https://doi.org/10.3030/803140
+          url: terific
+
+        - title: Mechanisms responsible for Mesoscale Eddy Energy Dissipation (MerMEED)
+          date_start: '2015-08-01'
+          date_end: '2020-02-01'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams
+            - **Aim:** Investigating dissipation of mesoscale eddies at the western boundary of the Atlantic
+            - **Funding:** UK Natural Environment Research Council Reference [NE/N001745/1-3](https://gotw.nerc.ac.uk/list_short.asp?searchterm=mermeed&Submit=Search)
+          icon: mermeed_square
+          organization: UK Natural Environment Research Council 
+          organization_url: https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FN001745%2F1
+          url: ../project/mermeed
+
         - title: Dynamics of the Orkney Passage Outflow (DynOPO)
-          date_end: '2018-11-01'
           date_start: '2014-09-01'
-          description: '- EO Investigators: Eleanor Frajka-Williams
-
-          - Aim: Assess the role of winds in regulating AABW export through Orkney Passage
-
-          - Funding: UKRI (UK Research & Innovation)'
+          date_end: '2018-11-01'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams 
+            - **Aim:** Assess the role of winds in regulating AABW export through Orkney Passage
+            - **Funding:** UK Natural Environment Research Council Reference [NE/K013181/1](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FK013181%2F1&classtype=) (Southampton), [NE/K012843/1](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FK012843%2F1&classtype=) (British Antarctic Survey)
           icon: ukri_square
-          organization: University of Southampton
-          organization_url:  https://www.soton.ac.uk
+          organization: UK Natural Environment Research Council
+          organization_url: https://gotw.nerc.ac.uk/list_short.asp?searchterm=dynopo&Submit=Search
           url: dynopo
 
         - title: RAPID Climate Change (RAPID)
-          date_end: '2026-04-01'
           date_start: '2004-04-01'
-          description: '- EO Investigators: Eleanor Frajka-Williams (2009 - 2012, 2018 - 2022)
-
-          - Aim: Monitor and explain the continously varying AMOC at 26°N
-
-          - Funding: UKRI (UK Research & Innovation)'
+          date_end: '2026-04-01'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams (2009–2012, 2018–2022)
+            - **Aim:** Monitor and explain the continuously varying AMOC at 26°N
+            - **Funding:** UKRI (UK Research & Innovation), US National Science Foundation, US National Oceanic and Atmospheric Administration
+            - **Project website:** http://www.rapid.ac.uk
           icon: rapid_square
-          organization: National Oceanography Centre
-          organization_url:  https://www.noc.ac.uk
+          organization: UK Natural Environment Research Council, US National Science Foundation
+          organization_url: https://www.rapid.ac.uk
           url: rapid
+
+        - title: Glider Shelf-Edge Nutrient Exchange (GliSENEx)
+          date_start: '2012-09-01'
+          date_end: '2016-12-31'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams 
+            - **Aim:** Develop a launch platform based on weather balloons for lightweight sensors
+            - **Funding:** UK Natural Environment Research Council - Reference [NE/J020184/1](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FJ020184%2F1)
+          icon: ukri_square
+          organization: UK Natural Environment Research Council
+          organization_url: https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FJ020184%2F1
+#          url: rapid
+
+
+        - title: Fresh WAys of Targeting and Employing Robotic Systems (FreshWATERS)
+          date_start: '2016-06-30'
+          date_end: '2017-06-29'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams 
+            - **Aim:** Develop a launch platform based on weather balloons for lightweight sensors
+            - **Funding:** UK Natural Environment Research Council - Reference [NE/P003176/1](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FP003176%2F1)
+          icon: ukri_square
+          organization: UK Natural Environment Research Council
+          organization_url: https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FP003176%2F1
+#          url: rapid
+
+        - title: Denmark Strait overflow
+          date_start: '1996-05-01'
+          date_end: '2025-06-01'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams
+            - **Aim:** Transport estimates of the dense water through Denmark Strait.
+            - **Link:** [projects/dso](dsow)
+          icon: UHH
+          organization: DFG (541914507)
+          organization_url: https://gepris.dfg.de/gepris/projekt/541914507?language=en
+          url: dsow
 
   - block: collection
     id: posts
     content:
       title: Technology
-      subtitle: 'in the EO group'
-      text: 'Equipment and hardware used for research and teaching in the EU group. <hr>'
-      # Choose how many pages you would like to display (0 = all pages)
+      subtitle: in the EO group
+      text: >
+        Equipment and hardware used for research and teaching in the EO group. <hr>
       count: 0
-      # Filter on criteria
       filters:
-        # The folders to display content from
         folders:
           - technology
         author: ""
@@ -171,20 +193,14 @@ sections:
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
       offset: 0
-      # Field to sort by, such as Date or Title
       sort_by: weight
       sort_ascending: true
     design:
-      # Choose a listing view
       view: list
       columns: '2'
-
 ---
 
 ## Research project: EPOC
 
 [EPOC – Explaining and Predicting the Ocean Conveyor](http://epoc-eu.org) is a collaborative EU-funded research project aiming to improve understanding of the Atlantic Meridional Overturning Circulation (AMOC) and its role in climate. The project brings together observational, modelling, and theoretical approaches to better quantify AMOC variability, its driving processes, and future evolution under climate change. EPOC supports coordinated European efforts to enhance climate prediction capabilities and inform policy-relevant assessments of ocean circulation changes.
-
