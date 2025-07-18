@@ -47,6 +47,8 @@ sections:
 
         - PhD students are usually hired through the [IMPRS graduate school](https://mpimet.mpg.de/en/career/imprs-esm) with a deadline by the middle of September each year. 
 
+        - We anticipate hiring postdocs on the [PycnMIX project](../project/pycnmix) in the next year, and through the [CLICCS2 Cluster of Excellence: Ocean Circulation project](../project/cliccs2) in the future.
+
         - **Technician opportunity:** We are hiring a seagoing technician!  See the [job advert](../post/2025-03-08-technician). If this may be of interest to you, please email [Eleanor](mailto:eleanor.frajka@uni-hamburg.de).'
     design:
         columns: 2

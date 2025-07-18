@@ -16,7 +16,7 @@ external_link: https://www.researchgate.net/profile/Katja-Schultz
 create_profile_page: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: MSc (2024)
+role: MSc (2024), Research assistant (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -76,5 +76,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni (Hamburg)
+- Group
 ---
