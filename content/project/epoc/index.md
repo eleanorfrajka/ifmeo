@@ -9,6 +9,8 @@ tags: []
 categories: []
 date: 2025-06-12T07:26:55+02:00
 
+type: project
+
 # Optional external URL for project (replaces project detail page).
 external_link: "http://epoc-eu.org"
 
@@ -35,6 +37,9 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+# Instructions for floating sidebar TOC: http://ericfong.ca/post/floatingtoc/
+# Some problem with partials: https://thisdwhitley.com/post/024-hugo-toc/
+toc: false
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

@@ -38,7 +38,7 @@ sections:
     id: largerscale
     content:
       title: Larger-scale
-      text: '#### Shelf-edge exchange in the Labrador Sea
+      text: '#### Shelf-edge exchange in the Labrador Sea (no longer available)
 
       - **Supervisors:** Elodie Duyck, Eleanor Frajka-Williams
 
@@ -65,9 +65,9 @@ sections:
     id: smallerscale
     content:
       title: Smaller-scale
-      text: '#### Presence of small-scale (2--10km) motions in Denmark Strait overflow water
+      text: '#### Presence of small-scale (2--10km) motions in Denmark Strait overflow water (no longer available)
 
-      - **Supervisor(s):** Eleanor Frajka-Williams, Simon Wett / Joel Bracamontes Ramierez
+      - **Supervisor(s):** Eleanor Frajka-Williams, Joel Bracamontes Ramierez
 
       - **Data:** Mooring array south of Denmark Strait
 
@@ -77,9 +77,9 @@ sections:
 
       - Characterising the horizontal and vertical structure of hydrographic properties (temperature, salinity) and ocean currents (velocity) in the outflow plume of the Denmark Strait overflow water.
 
-      #### Variability of Denmark Strait overflow water properties (no longer available)
+      #### Variability of Denmark Strait overflow water properties 
 
-      - **Supervisor(s):** Eleanor Frajka-Williams
+      - **Supervisor(s):** Eleanor Frajka-Williams, Andreas Macrander
 
       - **Data:** Mooring array in Denmark Strait
 
@@ -99,8 +99,7 @@ sections:
 
       - **Region:** Labrador Sea, west of Greenland
 
-      - Characterising the presence of submesoscale eddies in the boundary currents around the Labrador Sea, and (possibly) around the convective patch in the central Labrador Sea.
-'
+      - Characterising the presence of submesoscale eddies in the boundary currents around the Labrador Sea, and (possibly) around the convective patch in the central Labrador Sea.'
   - block: markdown
     id: technical
     content:
@@ -108,8 +107,11 @@ sections:
       text: '#### Methods of measuring ocean properties (no longer available)
 
       - **Supervisor(s):** Eleanor Frajka-Williams
+
       - **Data:** Time series from a Seabird MicroCAT and RBR Concerto measuring temperature and salinity at 2000m in the western Atlantic, and associated hydrographic data from ship-based CTD profiles
+      
       - **Time period:** 2020-2022.
+      
       - **Region:** western boundary of the subtropical Atlantic, near the Bahamas
 
       Diagnosing quality and pitfalls of two different sensors for measuring ocean properties.
@@ -117,8 +119,11 @@ sections:
       #### Measuring vertical seawater velocity from ocean gliders
 
       - **Supervisor(s):** Eleanor Frajka-Williams, Louis Clement (NOC)
+
       - **Data:** Seaglider and Slocum data from the Labrador Sea (and possibly elsewhere)
+
       - **Time period:** 2005-present
+
       - **Region:** Labrador Sea and elsewhere
 
       Marine autonomous gliders can be used to estimate vertical seawater velocities by using their measured pressure signals and comparing it to predicted vehicle depth based on a flight model for the vehicle.  Several avenues of investigation are possible, including how different flight models produce different estimates of vertical velocity (and associated uncertainties) and how those vertical velocity characteristics differ in the ocean (e.g., in regions of deep convection like the Labrador Sea or western Mediterranean).  

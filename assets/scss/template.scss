@@ -3,6 +3,9 @@
   text-align: center;
 }
 
+.page {
+        width: 100% !important;
+}
 // Center the CTA shortcode button
 .cta-group {
   justify-content: center;
@@ -47,6 +50,11 @@
 
 .container {
   width: 80% !important;
+  max-width: 1440px
+}
+
+.container-xl {
+  max-width: 1440px !important; /* or whatever width you prefer */
 }
 
 // Anchor padding

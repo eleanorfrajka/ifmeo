@@ -12,6 +12,7 @@ date: 2025-06-12T06:57:51+02:00
 # Optional external URL for project (replaces project detail page).
 external_link: "http://www.mixsed.uni-hamburg.de"
 
+type: project
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

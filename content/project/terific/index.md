@@ -9,9 +9,10 @@ tags: []
 categories: []
 date: 2025-06-12T08:04:41+02:00
 
+type: project
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-
+show_breadcrumb: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -41,6 +42,11 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+
+# Instructions for floating sidebar TOC: http://ericfong.ca/post/floatingtoc/
+# Some problem with partials: https://thisdwhitley.com/post/024-hugo-toc/
+toc: true
 ---
 
 ##  Synopsis

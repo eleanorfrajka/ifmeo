@@ -49,12 +49,39 @@ sections:
       date_format: Jan 2006
       items:
 
+        - title: Pycnocline Mixing (PycnMIX)
+          date_start: '2025-11-01'
+          date_end: '2028-10-31'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams, Chiara Monforte, postdoc NN
+            - **Collaborators:** Alberto Naveira Garabato
+            - **Aim:** Characterise mixing associated with near-surface freezing and melting processes of sea ice, and its influence on pycnocline generation.
+            - **Funding:** DFG Project number [558671572](https://gepris.dfg.de/gepris/projekt/558671572?language=en)
+          icon: pycnmix_logo
+          organization: DFG
+          organization_url: https://gepris.dfg.de/gepris/projekt/558671572?language=en
+          url: pycnmix
+
+        - title: "CLICCS II: N1 Ocean Circulation"
+          date_start: '2026-01-01'
+          date_end: '2032-12-31'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams (with Jochem Marotzke, [MPIM](https://mpimet.mpg.de/))
+            - **Aim:** Investigating the link from atmospheric forcing to convection to sinking to overturning
+            - **Funding:**  DFG (agreed in principle)
+            - **Project website:** [https://cliccs.uni-hamburg.de](https://cliccs.uni-hamburg.de)
+          icon: uhh
+          organization: University of Hamburg
+          organization_url: https://uni-hamburg.de
+          url: cliccs2
+
         - title: Denmark Strait Mixing and Sediment Dynamics (MIXSED)
           date_start: '2024-12-31'
           date_end: '2027-12-30'
           description: |
-            - **EO Investigators:** Eleanor Frajka-Williams, Joel Bracamontes Ramierez
-            - **Aim:** A new conceptual understanding of the Atlantic meridional overturning circulation.
+            - **EO Investigators:** Eleanor Frajka-Williams, Joel Bracamontes Ramirez
+            - **Collaborators:** David Amblas, Anna Sanchez Vidal, Lola Perez Hernandez, Wilken-Jon von Appen
+            - **Aim:** Assess how small-scale processes at the ocean floor shape the large-scale ocean circulation, sediment dynamics and seabed topography.
             - **Funding:** AEI-DFG, DFG Project number [541914507](https://gepris.dfg.de/gepris/projekt/541914507?language=en)
             - **Project website:** [https://www.mixsed.uni-hamburg.de](https://www.mixsed.uni-hamburg.de)
           icon: mixsed_square_mask

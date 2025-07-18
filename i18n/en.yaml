@@ -165,6 +165,7 @@
 - id: publication
   translation: Publication
 
+
 - id: publication_type
   translation: Type
 
@@ -218,7 +219,7 @@
   translation: Posts
 
 - id: publications
-  translation: Publications
+  translation: Related publications
 
 - id: talks
   translation: Events
