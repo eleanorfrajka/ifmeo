@@ -3,7 +3,7 @@ title: "🎉 DFG PycnMIX (Pycnocline Mixing) funded!"
 date: 2025-07-18
 categories: [News]
 projects: [pycnmix]
-tags: []
+tags: [gliders]
 authors:
 - Eleanor Frajka-Williams
 ---
