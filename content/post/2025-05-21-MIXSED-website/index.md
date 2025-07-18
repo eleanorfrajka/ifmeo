@@ -1,5 +1,5 @@
 ---
-title: "MIXSED website launched"
+title: "🚀 MIXSED website launched"
 date: 2025-05-21
 categories: [News]
 projects: [mixsed]

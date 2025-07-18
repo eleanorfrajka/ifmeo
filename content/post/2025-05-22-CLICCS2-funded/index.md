@@ -1,5 +1,5 @@
 ---
-title: "CLICCSII Cluster of Excellence funded"
+title: "🎉 CLICCSII Cluster of Excellence funded!"
 date: 2025-05-22
 categories: [News]
 projects: [cliccs2]

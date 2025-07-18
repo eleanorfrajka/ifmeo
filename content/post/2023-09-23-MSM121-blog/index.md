@@ -1,5 +1,5 @@
 ---
-title: MSM121 sets sail from Greenland 
+title: "🚢 MSM121 sets sail from Greenland"
 date: 2023-09-18
 categories: [Photos]
 projects: [epoc]

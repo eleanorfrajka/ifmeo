@@ -1,5 +1,5 @@
 ---
-title: "Join the ExO group: Seagoing technician"
+title: "🤝 Join the ExO group: Seagoing technician"
 date: 2025-03-08
 categories: [News]
 projects: []

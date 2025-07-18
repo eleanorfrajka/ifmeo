@@ -1,5 +1,5 @@
 ---
-title: Two ExO members set sail on *Thalassa*
+title: "🚢 Two ExO members set sail on *Thalassa*"
 date: 2024-07-30
 categories: [News]
 projects: [epoc]

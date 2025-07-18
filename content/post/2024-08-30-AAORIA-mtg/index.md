@@ -1,5 +1,5 @@
 ---
-title: AAORIA workshop in DC
+title: "👥 AAORIA workshop in DC"
 date: 2024-08-30
 categories: [meeting]
 projects: [epoc]
