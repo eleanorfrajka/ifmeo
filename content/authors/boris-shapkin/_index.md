@@ -51,6 +51,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:boris.shapkin@awi.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0002-8280-3554
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/boris-shapkin

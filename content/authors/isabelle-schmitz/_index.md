@@ -48,15 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:isabelle.schmitz@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0001-8773-7838
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/yves-sorge/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0009-1369-1748
 - icon: github
   icon_pack: fab
   link: https://github.com/isabelle1299
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/yves-sorge/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID

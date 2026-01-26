@@ -48,12 +48,11 @@ sections:
         - PhD students are usually hired through the [IMPRS graduate school](https://mpimet.mpg.de/en/career/imprs-esm) with a deadline by the middle of September each year. 
 
         - We anticipate hiring postdocs on the [PycnMIX project](../project/pycnmix) in the next year, and through the [CLICCS2 Cluster of Excellence: Ocean Circulation project](../project/cliccs2) in the future.
-
     design:
-        columns: 2
+      columns: 2
   - block: slider
     content:
-        slides:
+      slides:
         - title: 
           content: 
           align: center
@@ -67,13 +66,13 @@ sections:
             position: right
             color: '#666'
     design:
-        # Slide height is automatic unless you force a specific height (e.g. '400px')
-        slide_height: ''
-        # Make the slides full screen within the browser window?
-        is_fullscreen: true
-        # Automatically transition through slides?
-        loop: false
-        # Duration of transition between slides (in ms)
-        interval: 2000
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 ---
 

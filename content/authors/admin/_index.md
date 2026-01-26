@@ -10,7 +10,7 @@ last_name: Oceanography
 superuser: true
 
 # Role/position
-role: Institute of Oceanography
+role: Department of Earth System Sciences
 
 # Organizations/Affiliations
 organizations:

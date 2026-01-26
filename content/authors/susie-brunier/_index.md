@@ -1,58 +1,68 @@
 ---
 # Display name
-title: "Dagmar Hainbucher"
+title: "Susie Brunier"
 
 # Full name (for SEO)
-first_name: Dagmar
-last_name: Hainbucher
+first_name: Susie
+last_name: Brunier
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "dagmar-hainbucher"
+- "susie-brunier"
 
 # Is this the primary user of the site?
 superuser: false
 
-external_link: https://www.researchgate.net/profile/Dagmar-Hainbucher
+external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/brunier.html
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Scientist
-
-create_profile_page: false
+role: MSc student
 
 # Organizations/Affiliations
 organizations:
   - name: Universität Hamburg
     url: 'https://www.ifm.uni-hamburg.de/en/workareas/experimental.html'
 
-
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+# List each interest with a dash
+#interests:
+#- Interest 1
+#- Interest 2
+
+#education:
+#  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:dagmar.hainbucher@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-7686-1374
-- icon: researchgate
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:susie.brunier@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0001-8773-7838
+- icon: linkedin
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Dagmar-Hainbucher
-#- icon: twitter
+  link: https://www.linkedin.com/in/susie-brunier-452418298/?originalSubdomain=fr
+#- icon: github
 #  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+#  link: https://github.com/username
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
-#- icon: github
+#- icon: twitter
 #  icon_pack: fab
-#  link: https://github.com/USERNAME
+#  link: https://twitter.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,5 +78,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni (Hamburg)
+- Group
+- Students
 ---

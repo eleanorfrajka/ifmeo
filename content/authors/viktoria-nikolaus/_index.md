@@ -47,6 +47,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:viktoria.nikolaus@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0007-2843-2429
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/viktoria-nikolaus-4647a489

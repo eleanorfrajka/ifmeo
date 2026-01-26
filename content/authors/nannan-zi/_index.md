@@ -50,6 +50,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/sunke_tk
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0003-7214-6658
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Nannan-Zi
@@ -59,9 +62,6 @@ social:
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/sunke-trace-kleeberg/
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0002-5980-2492
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/USERNAME
