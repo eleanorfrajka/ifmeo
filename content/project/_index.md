@@ -68,11 +68,11 @@ sections:
           description: |
             - **EO Investigators:** Eleanor Frajka-Williams (with Jochem Marotzke, [MPIM](https://mpimet.mpg.de/))
             - **Aim:** Investigating the link from atmospheric forcing to convection to sinking to overturning
-            - **Funding:**  DFG (agreed in principle)
+            - **Funding:** DFG Project number [390683824](https://gepris.dfg.de/gepris/projekt/390683824)
             - **Project website:** [https://cliccs.uni-hamburg.de](https://cliccs.uni-hamburg.de)
           icon: uhh
-          organization: University of Hamburg
-          organization_url: https://uni-hamburg.de
+          organization: DFG
+          organization_url: https://gepris.dfg.de/gepris/projekt/390683824
           url: cliccs2
 
         - title: Denmark Strait Mixing and Sediment Dynamics (MIXSED)

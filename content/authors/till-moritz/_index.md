@@ -15,7 +15,7 @@ superuser: false
 external_link: 
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: MSc student, Research assistant
+role: PhD student
 
 # Organizations/Affiliations
 organizations:

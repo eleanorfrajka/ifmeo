@@ -16,7 +16,7 @@ superuser: false
 external_link: https://www.ifm.uni-hamburg.de/en/institute/staff/schmitz.html
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: BSc student, Research assistant
+role: MSc student, Research assistant
 
 # Organizations/Affiliations
 organizations:
