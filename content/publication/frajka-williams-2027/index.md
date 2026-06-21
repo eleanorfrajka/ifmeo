@@ -30,7 +30,7 @@ abstract: 'Ocean variability spans a wide range of scales, from centimeters to t
   are manifested in the observed overturning at the RAPID 26°N and Overturning in
   the Subpolar North Atlantic Program (OSNAP) arrays. It then considers how diabatic
   processes can change the large-scale overturning circulation.'
-publication: '*Annual Review of Marine Science*'
+publication: '*Annual Review of Marine Science* (in press)'
 doi: ''
 url_pdf: ''
 ---
