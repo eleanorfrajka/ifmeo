@@ -75,6 +75,18 @@ sections:
           organization_url: https://gepris.dfg.de/gepris/projekt/390683824
           url: cliccs2
 
+        - title: Understanding Ocean Heat Content and Marine Heatwaves (UHEAT)
+          date_start: '2026-07-01'
+          date_end: '2029-06-30'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams, postdoc NN
+            - **Collaborators:** Francisco-Jaime Mir-Calafat (UIB, Spain), Hiroshi Kuroda (Hokkaido University, Japan)
+            - **Aim:** Improve understanding of regional ocean heat content variations and mechanisms driving marine heatwaves in the North Pacific and North Atlantic; develop AI-based seasonal-to-multiyear MHW forecasts to help the fishing industry adapt to climate impacts.
+            - **Funding:** BMBF (EIG CONCERT-Japan)
+          icon: uhh
+          organization: BMBF
+          url: uheat
+
         - title: Denmark Strait Mixing and Sediment Dynamics (MIXSED)
           date_start: '2024-12-31'
           date_end: '2027-12-30'

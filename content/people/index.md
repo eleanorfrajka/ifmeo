@@ -47,7 +47,7 @@ sections:
 
         - PhD students are usually hired through the [IMPRS graduate school](https://mpimet.mpg.de/en/career/imprs-esm) with a deadline by the middle of September each year. 
 
-        - We anticipate hiring postdocs on the [PycnMIX project](../project/pycnmix) in the next year, and through the [CLICCS2 Cluster of Excellence: Ocean Circulation project](../project/cliccs2) in the future.
+        - We anticipate hiring a Postdoc student on the [UHEAT](../project/uheat) project,  and through the [CLICCS2 Cluster of Excellence: Ocean Circulation project](../project/cliccs2).'
     design:
       columns: 2
   - block: slider
