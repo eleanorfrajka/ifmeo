@@ -23,7 +23,7 @@ image:
   preview_only: true
 banner:
   caption: ""
-  image: featured.jpg
+  image: featured.png
 
 url_code: ""
 url_pdf: ""
@@ -77,6 +77,14 @@ UHH ensures that observational, modelling, and analytical approaches are effecti
 
 ### Key Researchers
 
-- **Francisco-Jaime Mir-Calafat** (Principal Investigator) — Associate Professor, University of the Balearic Islands (UIB), Spain
-- **Eleanor Frajka-Williams** (Co-Investigator) — Professor and Head of Experimental Oceanography, University of Hamburg, Germany
-- **Hiroshi Kuroda** (Project Leader) — Associate Professor, Institute of Low Temperature Science, Hokkaido University, Japan
+**UIB (Spain)**
+- **Francisco-Jaime Mir-Calafat** (Principal Investigator) — Associate Professor, University of the Balearic Islands
+- **Marta Marcos** (Co-Investigator) — University of the Balearic Islands
+
+**UHH (Germany)**
+- **Eleanor Frajka-Williams** (Co-Investigator) — Professor and Head of Experimental Oceanography, University of Hamburg
+
+**HKU (Japan)**
+- **Hiroshi Kuroda** (Project Leader) — Associate Professor, Institute of Low Temperature Science, Hokkaido University
+- **Yoshi Sasaki** (Co-Investigator) — Hokkaido University
+- **Shoshiro Minobe** (Collaborator) — Hokkaido University
