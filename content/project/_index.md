@@ -208,7 +208,7 @@ sections:
             - **EO Investigators:** Eleanor Frajka-Williams
             - **Aim:** Transport estimates of the dense water through Denmark Strait.
             - **Link:** [projects/dso](dsow)
-          icon: UHH
+          icon: uhh
           organization: DFG (541914507)
           organization_url: https://gepris.dfg.de/gepris/projekt/541914507?language=en
           url: dsow
