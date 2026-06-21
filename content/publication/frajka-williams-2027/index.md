@@ -7,7 +7,7 @@ authors:
 tags: [AMOC, Atlantic, mixing]
 categories: []
 projects: ["epoc", "terific"]
-date: '2027-01-01'
+date: '2026-06-21'
 lastmod: '2026-06-21'
 featured: false
 draft: false
