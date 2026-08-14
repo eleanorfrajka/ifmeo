@@ -9,3 +9,4 @@ assets/jsconfig.json
 
 # Claude Code
 CLAUDE.md
+.claude/*
