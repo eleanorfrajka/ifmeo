@@ -17,7 +17,7 @@ image:
   focal_point: ''
   preview_only: false
 
-publishDate: '2027-01-01T00:00:00.0Z'
+publishDate: '2026-08-14T00:00:00.0Z'
 publication_types:
 - article-journal
 abstract: 'Ocean variability spans a wide range of scales, from centimeters to thousands
