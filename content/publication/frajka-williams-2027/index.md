@@ -31,6 +31,6 @@ abstract: 'Ocean variability spans a wide range of scales, from centimeters to t
   the Subpolar North Atlantic Program (OSNAP) arrays. It then considers how diabatic
   processes can change the large-scale overturning circulation.'
 publication: '*Annual Review of Marine Science* (in press)'
-doi: ''
+doi: '10.1146/annurev-marine-040425-021556'
 url_pdf: ''
 ---
