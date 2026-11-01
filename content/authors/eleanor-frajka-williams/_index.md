@@ -99,5 +99,5 @@ user_groups:
   - 'Principal Investigator'
 ---
 
-I am a physical oceanographer who uses ocean observations to investigate ocean dynamics and circulation in a changing climate, and the leader of the Experimental Oceanography working group at the Institute of Oceanography, Universität Hamburg. I have a particular interest in problems spanning scales (from micro- to large-scale) or spheres (biogeosphere, cryosphere, atmosphere), and in methods that leverage traditional observations with new platforms and satellite data.
+I am a physical oceanographer who uses ocean observations to investigate ocean dynamics and circulation in a changing climate, leader of the Experimental Oceanography working group in the Department of Earth System Sciences, Universität Hamburg, and scientific director of the German Research Fleet Coordination Centre (Leitstelle Deutsche Forschungsschiffe). I have a particular interest in problems spanning scales (from micro- to large-scale) or spheres (biogeosphere, cryosphere, atmosphere), and in methods that leverage traditional observations with new platforms and satellite data.
 {style="text-align: justify;"}

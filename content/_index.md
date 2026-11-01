@@ -165,15 +165,15 @@ sections:
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: francisca.terrassa@uni-hamburg.de
-      phone: +49 40 42838-5986
+      phone: +49 40 2395-25986
 #      appointment_url: 'https://calendly.com/eleanorfrajka'
       address:
-        street: Bundesstraße 53
+        street: Bundesstraße 57
         city: Hamburg
         postcode: '20146'
         country: Germany
         country_code: DE
-      directions: Enter Bu53 and take the stairs to Office 243 on Floor 2
+      directions: Haus der Erde, 4th floor, secretary's office 04.B.051
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'

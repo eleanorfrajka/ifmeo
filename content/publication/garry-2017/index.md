@@ -24,7 +24,7 @@ image:
 links:
 - url: https://eprints.soton.ac.uk/412585/
   name: URL
-url_pdf: hhttps://eprints.soton.ac.uk/412585/1/Garry_Freya_PhD_Thesis_June_17.pdf
+url_pdf: https://eprints.soton.ac.uk/412585/1/Garry_Freya_PhD_Thesis_June_17.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

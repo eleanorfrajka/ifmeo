@@ -11,7 +11,7 @@ authors:
 #- "Equal contribution"
 # Date of publication
 date: '2025-01-28'
-doi: 10.5194/egusphere-2024-2541
+doi: 10.5194/os-21-241-2025
 
 tags: [AMOC,Lagrangian,terific]
 categories: []
