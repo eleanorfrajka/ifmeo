@@ -32,5 +32,5 @@ abstract: 'Ocean variability spans a wide range of scales, from centimeters to t
   processes can change the large-scale overturning circulation.'
 publication: '*Annual Review of Marine Science*, 19'
 doi: '10.1146/annurev-marine-040425-021556'
-url_pdf: arms-turbulence-accepted.pdf
+url_pdf: /publication/frajka-williams-2027/arms-turbulence-accepted.pdf
 ---
