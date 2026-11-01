@@ -1,6 +1,6 @@
 ---
 title: Teaching
-summary: Teaching by group members of the Universität Hamburg - Institute of Oceanography - Experimental Oceanography group.
+summary: Teaching by group members of the Universität Hamburg - Department of Earth System Sciences - Experimental Oceanography group.
 type: landing
 date: "2022-01-05"
 draft: false

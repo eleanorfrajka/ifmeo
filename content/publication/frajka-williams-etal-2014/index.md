@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Horizontal stratification during Deep convection in the Labrader Sea
+title: Horizontal stratification during Deep convection in the Labrador Sea
 subtitle: ''
 summary: ''
 authors:

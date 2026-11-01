@@ -7,7 +7,7 @@ authors:
 - N. Foukal
 - Gokhan Danabasoglu
 date: 2023-12-18T08:48:15+01:00
-doi: "https://doi.org/10.1098/rsta.2022.0195"
+doi: 10.1098/rsta.2022.0195
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-10-23T08:48:15+01:00

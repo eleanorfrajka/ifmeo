@@ -7,8 +7,8 @@ authors:
 tags: [AMOC, Atlantic, mixing]
 categories: []
 projects: ["epoc", "terific"]
-date: '2026-06-21'
-lastmod: '2026-06-21'
+date: '2027-01-01'
+lastmod: '2026-08-14'
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ abstract: 'Ocean variability spans a wide range of scales, from centimeters to t
   are manifested in the observed overturning at the RAPID 26°N and Overturning in
   the Subpolar North Atlantic Program (OSNAP) arrays. It then considers how diabatic
   processes can change the large-scale overturning circulation.'
-publication: '*Annual Review of Marine Science* (in press)'
+publication: '*Annual Review of Marine Science*, 19'
 doi: '10.1146/annurev-marine-040425-021556'
 url_pdf: ''
 ---

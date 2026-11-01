@@ -30,4 +30,7 @@ publication: '*Zenodo* (v0.6.0)'
 doi: '10.5281/zenodo.20044197'
 url_code: 'https://github.com/ocean-uhh/seasenselib'
 url_pdf: ''
+links:
+- name: Docs
+  url: 'https://ocean-uhh.github.io/seasenselib/'
 ---

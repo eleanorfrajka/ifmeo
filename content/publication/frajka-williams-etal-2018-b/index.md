@@ -23,10 +23,10 @@ image:
   focal_point: ''
   preview_only: false
 
-#links:
-#- name: URL
-#  url: https://eprints.soton.ac.uk/419994/
-#url_pdf: https://eprints.soton.ac.uk/419994/2/Frajka_Williams_et_al_2018_Journal_of_Geophysical_Research_3A_Oceans.pdf
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2504.07434
+url_pdf: https://arxiv.org/pdf/2504.07434
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

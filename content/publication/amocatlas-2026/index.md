@@ -35,4 +35,7 @@ publication: '*Zenodo* (v0.4.0)'
 doi: '10.5281/zenodo.21921671'
 url_code: 'https://github.com/AMOCcommunity/AMOCatlas'
 url_pdf: ''
+links:
+- name: Docs
+  url: 'https://amoccommunity.github.io/AMOCatlas/'
 ---
