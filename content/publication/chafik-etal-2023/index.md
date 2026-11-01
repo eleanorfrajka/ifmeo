@@ -11,7 +11,7 @@ authors:
 - Eleanor Frajka-Williams
 - Laura C. Jackson
 date: 2023-12-18T08:41:33+01:00
-doi: "https://doi.org/10.1098/rsta.2022.0183"
+doi: 10.1098/rsta.2022.0183
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-10-23T08:41:33+01:00

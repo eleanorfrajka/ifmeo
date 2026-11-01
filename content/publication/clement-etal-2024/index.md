@@ -6,7 +6,7 @@ subtitle: ''
 # here and it will be replaced with their full name and linked to their profile.
 authors:
 - Louis Clément
-- Lukas Merckelbach
+- Lucas Merckelbach
 - Eleanor Frajka-Williams
 # Author notes (optional)
 #author_notes:

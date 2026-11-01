@@ -87,6 +87,18 @@ sections:
           organization: BMBF
           url: uheat
 
+        - title: Ocean Array
+          date_start: '2026-06-01'
+          date_end: ''
+          description: |
+            - **EO Investigators:** Ilmar Leimann
+            - **Aim:** A reconfigurable array of moorings resolving submesoscale to large-scale ocean processes, anchored to the seabed or through sea-ice.
+            - **Funding:** DFG Project number [571027118](https://gepris.dfg.de/project/571027118?lang=en)
+          icon: oceanarray
+          organization: DFG
+          organization_url: https://gepris.dfg.de/project/571027118?lang=en
+          url: oceanarray
+
         - title: Denmark Strait Mixing and Sediment Dynamics (MIXSED)
           date_start: '2024-12-31'
           date_end: '2027-12-30'
