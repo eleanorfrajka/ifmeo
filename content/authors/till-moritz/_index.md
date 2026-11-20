@@ -15,7 +15,7 @@ superuser: false
 external_link: 
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: PhD student (PycnMIX)
 
 # Organizations/Affiliations
 organizations:

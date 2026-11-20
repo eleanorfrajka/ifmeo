@@ -99,6 +99,18 @@ sections:
           organization_url: https://gepris.dfg.de/project/571027118?lang=en
           url: oceanarray
 
+        - title: SeaExplorer–Seaglider Cross-platform Open Diagnostics & Evaluation (SEA-CODE)
+          date_start: '2026-01-01'
+          date_end: '2026-12-31'
+          description: |
+            - **EO Investigators:** Eleanor Frajka-Williams, Till Moritz, Chiara Monforte
+            - **Collaborators:** Callum Rollo (Voice of the Ocean)
+            - **Aim:** Cross-platform diagnostics for SeaExplorer and Seaglider data (glidertest, seagliderOG1): a baseline OG1 flight model and vertical-velocity diagnostics.
+            - **Funding:** [Voice of the Ocean (VOTO)](https://voiceoftheocean.org) support call
+          icon: logo_glider
+          organization: Voice of the Ocean (VOTO)
+          organization_url: https://voiceoftheocean.org
+
         - title: Denmark Strait Mixing and Sediment Dynamics (MIXSED)
           date_start: '2024-12-31'
           date_end: '2027-12-30'
@@ -127,8 +139,8 @@ sections:
           url: epoc
 
         - title: Swarm of Ocean Gliders
-          date_start: '2022-07-01'
-          date_end: '2024-12-01'
+          date_start: '2025-03-10'
+          date_end: '2027-03-10'
           description: |
             - **EO Investigators:** Eleanor Frajka-Williams, Chiara Monforte
             - **Aim:** Infrastructure / large equipment for a swarm of ocean gliders.
@@ -219,6 +231,7 @@ sections:
           description: |
             - **EO Investigators:** Eleanor Frajka-Williams
             - **Aim:** Transport estimates of the dense water through Denmark Strait.
+            - **Continued through:** DenSOR, led by Lina Rotermund ([Marine and Freshwater Research Institute](http://www.hafogvatn.is/), Iceland)
             - **Link:** [projects/dso](dsow)
           icon: uhh
           organization: DFG (541914507)

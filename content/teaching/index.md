@@ -23,7 +23,7 @@ sections:
     content:
       title: Teaching
       subtitle: by the EO group
-      text: 'The Experimental Oceanography group is part of the Institut für Meereskunde at the Universität Hamburg. We teach on the BSc in Geophysics/Oceanography and MSc in Ocean and Climate Physics. More information about the degree programs is available [here](https://www.ifm.uni-hamburg.de/en/education.html).
+      text: 'The Experimental Oceanography group is part of the Earth System Sciences department at the Universität Hamburg. We teach on the BSc in Geophysics/Oceanography and MSc in Ocean and Climate Physics. More information about the degree programs is available [here](https://www.ifm.uni-hamburg.de/en/education.html).
 
       Topics include:
 
