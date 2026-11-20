@@ -16,7 +16,7 @@ superuser: false
 external_link: https://www.ifm.uni-hamburg.de/institute/staff/breunig.html
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: PhD student (TERIFIC)
 
 # Organizations/Affiliations
 organizations:

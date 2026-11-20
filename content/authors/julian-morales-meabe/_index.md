@@ -16,7 +16,7 @@ superuser: false
 external_link: https://www.linkedin.com/in/julián-marcelo-morales-meabe-550177235/
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: PhD student (BASS)
 
 # Organizations/Affiliations
 organizations:
